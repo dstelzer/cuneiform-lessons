@@ -1,10 +1,10 @@
 %.html: %.md _head.html _top.html _bottom.html
 	pandoc -s --toc \
-	--from markdown+smart+auto_identifiers+pandoc_title_block+inline_notes \
+	--filter pandoc-sidenote \
+	-c style.css -H _head.html -B _top.html -A _bottom.html \
+	--from markdown+smart+auto_identifiers+pandoc_title_block \
 	cuneiform.md -o cuneiform.html
 #	%.md -o %.html
-
-#	-c style.css -H _head.html -B _top.html -A _bottom.html \
 
 all: cuneiform.html
 
