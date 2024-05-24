@@ -42,6 +42,10 @@ body {
 	}
 }
 
+.smaller {
+	font-size: 85%;
+}
+
 @media (max-width: 600px) {
 	body {
 		font-size: 0.9em;

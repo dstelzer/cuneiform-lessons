@@ -437,7 +437,7 @@ This set of signs is _almost_ sufficient to represent every syllable in Hittite.
 
 For _y_, there's a special sign _ya_, which is just _i_ and _a_ smashed together: [ya]{.signs}. There are no signs for _y_ in any other combination—that is, no signs for _ye_, _yu_, _ay_, and so on. _Yi_ and _iy_ probably weren't possible at all.
 
-This is partially because these combinations were much rarer than _ya_. But when they did have to write a word like _yogan_ "yoke", they would use the _i_ sign: [i-o-ga-an]{.signs}.
+This is partially because these combinations were much rarer than _ya_. But when they did have to write a word like _yogan_ "yoke", they would use the _i_ sign: [i-o-ga-an]{.signs}. Even in the case of _ya_, it was occasionally written with an extra _i_ for good measure.
 
 +---+--------------+
 |   | A            |
@@ -451,9 +451,9 @@ _W_ is rare to nonexistent in Akkadian, depending on the dialect, but even more 
 
 Some older dialects of Akkadian have a sign for _wa_, [wa]{.signs}. This sign is better-known as _pi_, which is how the later, _w_-less dialects of Akkadian used it; this is the reason why Hittite only uses _pí_ for that syllable. (Remember, the sign names have to be unambiguous across _all_ languages that use cuneiform, not just Hittite!)
 
-In addition, the Hittites repurposed the [logogram](#logograms) GEŠTIN [GEŠTIN]{.signs}, which means "wine". Their word for "wine" was _wiyanac_, so they used this sign for the syllable _wi_, giving it the reading _wi~5~_.
+In addition, the Hittites repurposed the [logogram](#logograms) ŊEŠTIN [ŊEŠTIN]{.signs}, which means "wine". Their word for "wine" was _wiyanac_, so they used this sign for the syllable _wi_, giving it the reading _wi~5~_.
 
-For _w_ in front of any other vowel, they'd use the sign _ú_ (or less often _o_). The word _welluc_ "meadow", for example, would be written [ú-el-lu-uc]{.signs}. _Wu_ and _wo_ might not have been possible at all.
+For _w_ in front of any other vowel, they'd use the sign _ú_ (or less often _o_). The word _welluc_ "meadow", for example, would be written [ú-el-lu-uc]{.signs}. _Wu_ and _wo_ might not have been possible at all. Since _wi~5~_ took a while to catch on, you'll also not infrequently find [ú-i]{.signs} for _wi_.
 
 +---+--------------+---------------+
 |   | A            | I             |
@@ -461,35 +461,35 @@ For _w_ in front of any other vowel, they'd use the sign _ú_ (or less often _o_
 | W | [wa]{.signs} | [wi₅]{.signs} |
 +---+--------------+---------------+
 
-## Cp-
+## cp-
 
 [You've seen](#writing-closed-syllables) now how to write multiple consonants at the end of a syllable. But what about multiple consonants at the beginning?
 
 Well, the prevailing view is that it just didn't happen in Hittite. There are a lot of words that start with the combinations _icp-_, _ict-_, and _ick-_, always written with an _i_ rather than any other vowel, which suggests that Hittite did something similar to Spanish: if there were multiple consonants at the start of a word, add a vowel in front to break them up. (That's why we see Spanish _**e**scuela_ from Latin _schola_ "school", _**e**spada_ from Latin _spatha_ "sword", and so on.)
 
-However, there are a few times when these words are written with _ci-_ instead of _ic-_: the word _icpanti_ "she sacrifices" is usually [ic-pa-an-ti]{.signs}, but is sometimes [ci-pa-an-ti] instead. Some scholars take this as evidence that there wasn't really an _i_ there at all, and the word should really be read as _cpanti_. (In this case, though, it's not clear why they'd consistently use an _iC_ sign, because multiple consonants at the end of a syllable generally use _aC_ or repeat the vowel.)
+However, there are a few times when these words are written with _ci-_ instead of _ic-_: the word _icpanti_ "she sacrifices" is usually [ic-pa-an-ti]{.signs}, but is sometimes [ci-pa-an-ti] instead. Some scholars take this as evidence that there wasn't really an _i_ there at all, and the word should really be read as _cpanti_^[If this is the case, though, it's not clear why they'd consistently use an _iC_ sign, because multiple consonants at the end of a syllable generally use _aC_ or repeat the vowel.].
 
-When writing names with multiple consonants at the beginning, I recommend inserting an _i_ at the beginning; it's likely that the ancient Hittites would pronounce an extra vowel at the start of "Steven" just like modern Spanish-speakers do. If your name really _does_ start with a sequence like _Isk-_, you can use a [plene spelling](#plene-spellings) to make it clear.
+When writing names with multiple consonants at the beginning, I recommend inserting an _i_ at the beginning; it's likely that the ancient Hittites would pronounce an extra vowel at the start of "Steven" just like modern Spanish-speakers do. If your name really _does_ start with a sequence like _isk-_, you can use a [plene spelling](#plene-spellings) to make it clear.
 
 ## A brief example
 
-Using these signs, we can write even more Hittite and non-Hittite names. For example, Wilucac [wi₅-lu-ca-ac]{.signs} was a city-state in ancient Anatolia. One king of Wilucac, Alakcanduc [a-la-ak-ca-an-du-uc]{.signs}, made a treaty with the Hittite emperor Murcilic II [mu-ur-ci-li-ic]{.signs}, invoking the patron god of the city, Āppalionac [a-ap-pa-li-o-na-ac]{.signs}. In the treaty, Murcilic claimed that Wilucac and the Hittites had been on good terms for centuries. Later in his reign, though, Murcilic needed to reassert control over Wilucac by force—the exact circumstances aren't clear, but one theory is that Alakcanduc was overthrown by a faction more sympathetic to the foreign state of Ahhiyawac [ah-hi-ya-wa-ac].
+Using these signs, we can write even more Hittite and non-Hittite names. For example, Wilucac [wi₅-lu-ca-ac]{.signs} was a city-state in ancient Anatolia. One king of Wilucac, Alakcanduc [a-la-ak-ca-an-du-uc]{.signs}, made a treaty with the Hittite emperor Murcilic II [mu-ur-ci-li-ic]{.signs}, invoking the patron god of the city, Āppalionac [a-ap-pa-li-o-na-ac]{.signs}. In the treaty, Murcilic claimed that Wilucac and the Hittites had been on good terms for centuries. Later in his reign, though, Murcilic needed to reassert control over Wilucac by force—the exact circumstances aren't clear, but one theory is that Alakcanduc was overthrown by a faction more sympathetic to the foreign state of Āhhiyawac [a-ah-hi-ya-wa-ac].
 
-It's hard to be sure from the very fragmentary documents we have, but it's possible that we're seeing here a contemporary account of the Trojan War! Wilucac could be Wilion (another Greek name for Troy, hence "Iliad"), Ahhiyawac could have been the Achaeans (that is, the Mycenaean Greeks), Alakcanduc could have been Alexander of Troy (better known as Paris), and Āppalionac could have been Apollo, the divine defender of the Trojans.
+It's hard to be sure from the very fragmentary documents we have, but it's possible that we're seeing here a contemporary account of the Trojan War! Wilucac could be Wilion (another Greek name for Troy, hence the "**Ili**ad"), Ahhiyawac could have been the Achaeans (that is, the Mycenaean Greeks), Alakcanduc could have been Alexander of Troy (better known as Paris), and Āppalionac could have been Apollo, the divine defender of the Trojans.
 
-If you look for these names online, you'll more often see them transcribed as Wilusa, Alaksandu, Mursili, Appaliuna, and Ahhiyawa. The missing _-c_ at the end is a case marker in Hittite, which is sometimes removed when discussing the names in English, and _c_ is usually transcribed as _s_. This conveys the pronunciation better when talking about the Hittite language, but it's very important to write _c_ (or the fancier _š_) instead of _s_ when you're talking about cuneiform, [for reasons you'll see in a later lesson](#logograms). Just remember to change it to an _s_ when you're searching.
+If you look for these names online, you'll more often see them transcribed as Wilusa, Alaksandu, Mursili, Appaliuna, and Ahhiyawa. The missing _-c_ at the end is a case marker in Hittite^[Like how so many Latin names end with _-us_.], which is sometimes removed when discussing the names in English, and _c_ is usually transcribed as _s_. This conveys the pronunciation better when talking about the Hittite language, but it's very important to write _c_ (or the fancier _š_) instead of _s_ when you're talking about cuneiform, [for reasons you'll see in a later lesson](#logograms). Just remember to change it to an _s_ when you're searching.
 
 ## F and V
 
 _**Note:** This section is not important for writing Hittite. If you're only interested in Hittite, feel free to skip down to [the next one](#cvc-signs)._
 
-And that's all the sounds of Hittite! But unlike Sumerian and Akkadian scribes, Hittite scribes also cared a lot about representing the sounds of other languages as accurately as they could. The Hittites called themselves "The People of a Thousand Gods", and they tried to adopt the deities of conquered peoples into their pantheon whenever possible. And with those adopted gods came adopted prayers and rituals—if you want a Hurrian god to respond, obviously (to a Hittite priest), you need to pray in Hurrian.
+And that's all the sounds of Hittite! But unlike Sumerian and Akkadian scribes, Hittite scribes also cared a lot about representing the sounds of other languages as accurately as they could. The Hittites called themselves "The People of a Thousand Gods", and they tried to adopt the deities of conquered peoples into their pantheon whenever possible. And with those adopted gods came adopted prayers and rituals—if you want a Hurrian god to respond, obviously (at least to a Hittite priest), you need to pray in Hurrian.
 
-They weren't always successful in recording these sounds. For example, [they couldn't tell apart the voiced and voiceless sounds of Akkadian](#pronunciation), so incantations in Akkadian are filled with confusion between _t_ and _d_. But they did recognize that Hurrian and Hattic had a sound that didn't line up with any of their cuneiform signs, and invented some new signs to represent it.
+They weren't always successful in recording these sounds. For example, [they couldn't tell apart the voiced and voiceless sounds of Akkadian](#pronunciation), so incantations in Akkadian are filled with confusion between _t_ and _d_, _p_ and _b_, and so on^[These incantations are marked _Babilili_—"in the language of Babylon"—but they usually wrote it _**p**a-bi-li-li_.]. But they did recognize that Hurrian and Hattic had a sound that didn't line up with any of their cuneiform signs, and invented some new signs to represent it.
 
-These new signs consist of _wa_ with the vowel signs _a_, _e_, _i_, _o_, _ú_ written under the horizontal stroke: [wa(a) we(e) wi(i) wu(u) wu(ú)]{.signs}. (Scholars disagree on whether _o_ and _ú_ represented different vowels in Hittite, but they definitely did in Hurrian.) Since these signs were never used to write Hittite words, the sound must have been something different from the Hittite _w_; the leading theory is that it was a labial fricative, something like the English "f" or "v". Since we're still not sure quite what sound this was, these signs are most often transcribed as _wa~a~_, _we~e~_, and so on, but I also assign them the readings _fa_, _fe_, _fi_, _fo_, and _fu_. Even if the sound wasn't the same as the English "f", after all, we know that it _wasn't_ a Hittite _w_.
+These new signs consist of _wa_ with the vowel signs _a_, _e_, _i_, _o_, _ú_ written under the horizontal stroke: [wa(a) we(e) wi(i) wu(u) wu(ú)]{.signs}. (Scholars disagree on whether _o_ and _ú_ represented different vowels in Hittite, but they definitely did in Hurrian.) Since these signs were never used to write Hittite words, the sound must have been something different from the Hittite _w_; the leading theory is that it was a labial fricative, something like the English "f" or "v". Since we're still not sure quite what sound this was, these signs are most often transcribed as _wa~a~_, _we~e~_, and so on, but I also assign them the readings _fa_, _fe_, _fi_, _fo_, and _fu_. Even if the sound wasn't the same as the English "f", after all, we know that it _wasn't_ a Hittite _w_, and it makes things more readable to assign it its own letter.
 
-So while these signs aren't needed for actual Hittite words, they can be useful for writing foreign names (like yours!). Hurrian seems to have had the same length distinction as Hittite^[That is, distinguishing between _tt_ and _t_ rather than between _t_ and _d_.], so to make a long _f_, they would use the _p_ signs: _affa_ would be [af-fa]{.signs}, _uffe_ [uf-fe]{.signs}, and so on. Hurrian scholars generally give these signs the readings _áw_, _éw/íw_, _ów/úw_ (for transcriptions like _awwa_ and _uwwe_), but since this sound wasn't the Hittite _w_, I prefer the readings _af_, _ef/if_, _of/uf_.
+So while these signs aren't needed for actual Hittite words, they can be useful for writing foreign names (like yours!). Hurrian seems to have had the same length distinction as Hittite^[That is, distinguishing between _tt_ and _t_ rather than between _t_ and _d_.], so to make a long _f_, they would use the _p_ signs: _affa_ would be [af-fa]{.signs}, _uffe_ [uf-fe]{.signs}, and so on. Hurrian scholars generally give these signs the readings _áw_, _éw_, _íw_, _úw_ (for transcriptions like _awwa_ and _uwwe_), since Hurrian didn't have the Hittite _w_. But I prefer the readings _af_, _ef_, _if_, _uf_, for the same reason that we don't write the Hittite _c_ as _s_—it's cleaner not to change transcription systems in the middle of a text.
 
 +---+--------------+--------------+--------------+--------------+--------------+
 |   | A            | E            | I            | O            | U            |
@@ -497,7 +497,7 @@ So while these signs aren't needed for actual Hittite words, they can be useful 
 | F | [fa]{.signs} | [fe]{.signs} | [fi]{.signs} | [fo]{.signs} | [fu]{.signs} |
 +---+--------------+--------------+--------------+--------------+--------------+
 
-Four additional signs combine _wa_ with _ap_, _ip_, _pí_, and _pu_: [wa(ap) wi(ip) wi(pí) wu(pu)]{.signs}. It's not clear what sounds these were supposed to represent, so they don't have standard readings assigned, but it probably involved _f_ in some way. I've tentatively suggested _áf_, _íf_, _fí_, and _fú_, but it's not clear why the scribes would invent both [fi]{.signs} and [fí]{.signs}, or [fu]{.signs} and [fú]{.signs}, and they were perfectly happy to use [ap]{.signs} for _af_ (and so on). So what exactly these signs meant is an open question in Hethitology.
+Four additional signs combine _wa_ with _ap_, _ip_, _pí_, and _pu_: [wa(ap) wi(ip) wi(pí) wu(pu)]{.signs}. It's not clear what sounds these were supposed to represent, so they don't have standard readings assigned, but it probably involved _f_ in some way. They could be something like _áf_, _íf_, _fí_, and _fú_, but it's not clear why the scribes would invent both [fi]{.signs} and [fí]{.signs}, or [fu]{.signs} and [fú]{.signs}, and they were perfectly happy to use [ap]{.signs} for _af_ (and so on). So what exactly these signs meant is an open question in Hethitology.
 
 ## Exercise 6
 
@@ -506,7 +506,7 @@ Remember [the story of Illuyankac](#exercise-1c)? Make a bound transcription for
 [ki-ic-ca-an hu-o-pa-ci-ya-ac i-na-ri]{.signs}  
 Hopaciyac spoke thus to Inara:
 
-[ma-an-wa ka-at-ti-ti ce-ec-mi nu-wa ú-wa-mi]{.signs}  
+[ma-a-wa ka-at-ti-ti ce-ec-mi nu-wa ú-wa-mi]{.signs}  
 "If I can sleep with you, I will come."
 
 Convert these sentences into cuneiform. The equals signs mark the boundaries between _clitics_, where multiple units are combined into a single word—like how "men's" is a single word in English, but it's made up of "men" and "'s". You can ignore them when writing your cuneiform.
@@ -517,7 +517,7 @@ _"Kardiac=tac iyami."_
 _N=ac katti=ci cecta._  
 So she slept with him.
 
-I've modified the cuneiform for these examples slightly, to avoid using any signs from later lessons^[For example, there should be [determiners](#determiners).], but the Hittite text is the same.
+I've modified the cuneiform for these examples slightly, to avoid using any signs from later lessons^[For example, there really should be some [determiners](#determiners).], but the Hittite text is the same. You'll find the full, unadulterated Hittite text in [the final test](#final-test).
 
 # Lesson 7: CVC signs
 
@@ -549,17 +549,17 @@ If there was a unique sign for every CVC combination in the language, that would
 +-----+-----------------------------------------------------------------------------------------------+
 :::
 
-No cuneiform signs ever distinguished _b/p_, _d/t_, or _g/k_ at the end of the syllable, so every sign like _hap_, without exception, also has a reading _hab_. Since Hittite didn't distinguish those consonants in general, most signs like _kam_ also have readings like _gam_; I haven't listed those here to save space, but you can find them in a dictionary.
+No cuneiform signs ever distinguished _b/p_, _d/t_, or _g/k_ at the end of the syllable, so every sign like _hap_, **without exception**, also has a reading _hab_. Since Hittite didn't distinguish those consonants in general, most signs like _kam_ also have readings like _gam_; I haven't listed those here to save space, but you can find them in a dictionary.
 
 ## Two special cases
 
-However, there are two CVC signs that are used for specific purposes in Hittite. It's important to know these ones even if you ignore all the rest, because these meanings are almost never written with CV-VC pairs.
+However, there are two words in Hittite that are _exclusively_ written with CVC signs. It's important to know these ones even if you ignore all the rest, because these meanings are almost never written with CV-VC pairs.
 
 The "emphatic particle" _=pat_ can be attached to the end of any word to emphasize it, sort of like an underline (or rather an underline that can be read out loud). This word is always written with the CVC sign [pát]{.signs} rather than [pa-at]{.signs}. In Akkadian, that sign also has the reading _be_, but in Hittite, [bé]{.signs} (_bé_) is used for that instead. There's historically been some confusion over how this sign should be read—since the particle is always written this way, how do we know which way it's supposed to be pronounced? So you'll find older works transcribing it as _be_ or _pít_; nowadays, though, seeing it used as a CVC sign in other words has led to a consensus on _pát_.
 
 The "sentence particle" _=kan_ is attached to the first word of a sentence to alter the meaning of the verb in hard-to-predict ways. It's one of the most common words in Hittite, especially in later eras where it started replacing all the other "sentence particles", but also one of the hardest to translate. Like _=pat_, it's always written with the CVC sign [kán]{.signs} rather than [ka-an]{.signs}, but unlike _=pat_, there's never been much confusion over how to pronounce this one.
 
-Apart from these, I'm not aware of any word in Hittite that's exclusively written with CVC signs. You're welcome to stick to V, CV, and VC signs for all the rest.
+Apart from these, I'm not aware of any word in Hittite that's exclusively written with CVC signs. You're welcome to stick to V, CV, and VC signs for all the rest; while _wātar_ "water" is usually written [wa-a-tar]{.signs}, it's perfectly valid to write it [wa-a-ta-ar]{.signs} if you're not pressed for space.
 
 ## Exercise 7
 
@@ -583,11 +583,11 @@ Since we don't always know how these logograms were pronounced in Hittite, we tr
 
 Since logograms are transliterated with their Sumerian names, we do need to know a little bit about Sumerian phonetics. For the most part, we see exactly the same consonants in Sumerian as in Hittite, which isn't a coincidence: since the cuneiform writing system was originally designed for Sumerian, the Sumerian inventory was the raw material the Hittite scribes had to work with^[The story is actually a bit more complicated than that: additional signs were adapted for the _q_, _ṭ_, _ṣ_, and _ʔ_ sounds of Akkadian, for example, which the Hittites could have used. But overall, they didn't.].
 
-But Sumerian also had at least three more sounds that Hittite lacked. First and foremost, it had an _s_ sound distinct from _c_. While Hittite never had separate signs _si_ and _ci_, Sumerian very much did—and both of those signs are used as logograms in Hittite! Since SI [SI]{.signs} "horn" and CI [CI]{.signs} "eye" are different signs, we need to keep their transliterations distinct, and _this_ is why we've been using _c_ in all our Hittite transcriptions throughout these lessons. Having SI refer to [SI]{.signs} but _si_ refer to [ci]{.signs} would just be too confusing. It's fine to use the letter "s" when talking about the Hittite language, or Hittite names and words in a non-cuneiform context, but if you're doing anything with cuneiform transcriptions, it's vitally important to keep your _c_ (or _š_) separate.
+But Sumerian also had at least three more sounds that Hittite lacked. First and foremost, it had an _s_ sound distinct from _c_. While Hittite never had separate signs _si_ and _ci_, Sumerian very much did—and both of those signs are used as logograms in Hittite! Since SI [SI]{.signs} "horn" and CI [CI]{.signs} "eye" are different signs, we need to keep their transliterations distinct, and _this_ is why we've been using _c_ in all our Hittite transcriptions all this time. Having SI refer to [SI]{.signs} but _si_ refer to [ci]{.signs} would just be too confusing. It's fine to use the letter "s" when talking about the Hittite language in general, or Hittite names and words in a non-cuneiform context, but if you're doing anything with cuneiform transcriptions, it's vitally important to keep your _c_ (or _š_) separate from your _s_.
 
 The second sound is the "ng" at the end of the English word "sing", and is transcribed as _ŋ_ (a cross between "n" and "g") in these lessons. For ease of typing, you can also represent it as _j_, which looks vaguely similar and wasn't being used for anything else; you'll also find it written as _ĝ_ in some dictionaries. Unlike in English, this sound can appear at the beginning or middle of a word as well as the end: ŊIC [ŊIC]{.signs} "wood", DIŊIR [DIŊIR]{.signs} "god", SAŊ [SAŊ]{.signs} "head".
 
-However, most of our knowledge of these Sumerian pronunciations comes from bilingual dictionaries written by Akkadian-speaking scribes. And just like how Hittite-speaking scribes struggled to tell the difference between _t_ and _d_, Akkadian-speaking scribes struggled with the distinction between _ŋ_ and _g_. You'll usually find those signs written as GIC, DINGIR, and SAG instead, unless the author is really interested in accurate Sumerian pronunciation^[Which, well, I am.]. For Hittite purposes, it's not a problem to spell them that way instead.
+However, most of our knowledge of these Sumerian pronunciations comes from bilingual dictionaries written by Akkadian-speaking scribes. And just like how Hittite-speaking scribes struggled to tell the difference between _t_ and _d_, Akkadian-speaking scribes struggled with the distinction between _ŋ_ and _g_, writing it as _ng_ between vowels and _g_ anywhere else. As a result, you'll usually find those signs written as GIC, DINGIR, and SAG instead, unless the author is really interested in accurate Sumerian pronunciation^[Which, well, I am.]. For Hittite purposes, it's not a problem to spell them that way instead.
 
 The last additional sound is usually transcribed as _dr_, since that's how the Akkadian-speaking scribes recorded it. We're not entirely sure how it was pronounced^[The leading theory is an aspirated version of _z_, something like /ts^h^/.], but Sumerian scholars believe it turned into a _r_ in some dialects and a _d_ in some others, so _dr_ is a convenient approximation, as in GUDR [GUDR]{.signs} "cow". Specialized books on Sumerian sometimes write it as _ř_, as in GUŘ, but I've never seen this done for Akkadian or Hittite texts, so I'm sticking to _dr_.
 
@@ -595,9 +595,27 @@ It's possible that Sumerian had a few additional sounds^[Jagersma suggests IPA /
 
 ## Common logograms
 
-EXAMPLES HERE
+This table gives some of the most common logograms in Hittite. There are hundreds more, though; an important part of reading cuneiform is being able to look up new logograms in a dictionary when you need them.
 
-## Phonetic complements
++-----------------+---------------+-----------------+------------------+------------------+
+| People          | Places        | Roles           | Offerings        | Other            |
++:===============:+:=============:+:===============:+:================:+:================:+
+| [LÚ]{.signs}    | [KUR]{.signs} | [LUGAL]{.signs} | [ŊECTIN]{.signs} | [EŊIR]{.signs}   |
++-----------------+---------------+-----------------+------------------+------------------+
+| “man”           | “land"        | “king”          | “wine”           | “back”           |
++-----------------+---------------+-----------------+------------------+------------------+
+| [MUNUS]{.signs} | [URU]{.signs} | [DUMU]{.signs}  | [UDU]{.signs}    | [SISKUR]{.signs} |
++-----------------+---------------+-----------------+------------------+------------------+
+| “woman”         | “city"        | “child”         | “sheep”          | “ritual”         |
++-----------------+---------------+-----------------+------------------+------------------+
+| [DIŊIR]{.signs} | [É]{.signs}   | [DAM]{.signs}   | [GUDR]{.signs}   | [UD]{.signs}     |
++-----------------+---------------+-----------------+------------------+------------------+
+| “deity”         | “building"    | “wife”          | “cow”            | “day, sun”       |
++-----------------+---------------+-----------------+------------------+------------------+
+
+For many of these we know the Hittite pronunciations. The Hittite word for "god" is _ciuc_, for example, "king" is _haccuc_, and "land" is _utnē_. But for many we don't, because the word is only ever written with a logogram! We can only guess at the Hittite words for "woman" and "son", for example.
+
+## Inflection
 
 This system hits a snag when it comes to inflection. In Hittite, words are modified in various ways to indicate their role in a sentence: the word for "person" is _antuwahhac_ if it's the subject of the sentence, _antuwahhan_ if it's the object, _antuwahhi_ if it's the recipient, _antuwahhec_ if there's more than one person, and so on. When you write the Sumerogram [LÚ]{.signs}, how do you know which of these it means?
 
@@ -606,6 +624,43 @@ To some extent, they could work around this problem with more logograms. Sumeria
 Unfortunately, Sumerian didn't have any convenient words that could be repurposed for "subject of a sentence" and so on. The easiest solution, then, was to write the last sign or two of the Hittite word after the logogram—_antuwahhac_ is [LÚ-ac]{.signs}, _antuwahhan_ is [LÚ-an]{.signs}, and _antuwahhi_ is [LÚ-hi]{.signs}.
 
 The same went for verbs: _icpanthi_ "sacrifice" could be written with the five signs [ic-pa-an-at-hi]{.signs} or the single sign [BAL]{.signs}. But to distinguish between _icpanthi_ "I sacrifice", _icpanti_ "she sacrifices", _icpantanzi_ "they sacrifice", and so on, these could be written [BAL-hi]{.signs}, [BAL-ti]{.signs}, [BAL-an-zi]{.signs}. If you're used to Japanese, this is very similar to how Japanese-speakers combine kana and kanji!
+
+## Phonetic complements
+
+Writing the last sign of a word like this is called a _phonetic complement_, and it's useful for more than just inflection. For example, Sumerian only had a single word for "back", EŊIR. But Hittite has two: _appa_ for "backward" and _appan_ for "behind". Phonetic complements can be used to tell them apart: [EŊIR-pa]{.signs} means _appa_, and [EŊIR-an]{.signs} means _appan_!
+
+It also offers us a little bit of information about the Hittite word, even when we don't know the whole thing. We're not sure quite how "woman" and "son" were pronounced, for example, but they're sometimes written with complements like [MUNUS-za]{.signs} and [DUMU-ac]{.signs}, so we know they end in _-za_ and _-ac_. This can be a big help when we're trying to figure out the words! With a whole lot of this sort of detective work, for example, Melchert figured out that the word for "son" had to start with a vowel and end with _-lac_, and proposed that the mysterious term _ayawalac_ found in one particular letter is actually the missing word for "son". Similarly, Güterbock analyzes the various different phonetic complements used with [MUNUS]{.signs} and compares them against words in other languages to propose the reading *_kuwanza_^[The star in front means this word is never actually attested anywhere, just reconstructed by linguists.].
+
+## Numbers
+
+One of the most popular uses for logograms, across all sorts of languages and cultures, is for numbers. It's just so much more convenient to write "69,105" than to spell out "sixty-nine thousand, one hundred five", especially when you're filling out tables or doing accounting. Part of why the cuneiform writing system developed in the first place was for accounting and tax purposes, so it's no surprise that they've got a well-developed number system as well!
+
+This system went through a lot of different changes over the millennia it was used, but this is how the Hittite version works.
+
+Number signs in Hittite are made up of two components: vertical strokes, and hook/diagonal strokes. A vertical stroke represents 1, and a hook or diagonal represents 10.
+
+:::{.figure}
+[1 2 3 4 5 6 7 8 9 10]{.signs}  
+Signs for 1 through 10.
+:::
+
+:::{.figure}
+[10 20 30 40 50]{.signs}  
+Signs for 10 through 50.
+:::
+
+These symbols can be combined to write larger numbers. "29", for example, would be [20-9]{.signs}.
+
+This system works as you'd expect up to 59. But 60 is _not_ written with six hooks—it's written with a single vertical again!
+
+:::{.figure}
+[60 70 80 90]{.signs}  
+Signs for 60 through 90.
+:::
+
+Originally (back in the Sumerian days), 1 was a narrow vertical stroke and 60 was a wide vertical stroke, written with two different styli. But when scribes started using a single, normal-sized stylus to write, this turned into the world's first place value system! Just like how the digit "1" for us can mean 1, 10, 100, or 1,000, depending where it appears in the number, a single vertical stroke can mean 1, 60, or (in theory) 3,600. So the number 86 would be written as [80-6]{.signs}: one vertical for 60, two hooks for 20, and six verticals for 6.
+
+Like all logograms, these signs do have fancy Sumerian names (DIC for 1, MIN for 2, EC~5~ for 3…), but it's more common just to write their values^[Some older sources like to write these values in Roman numerals, like XVII instead of 16. The meaning is the same.]. Since some of them look very similar to other signs—for example, [30]{.signs} (30) looks just like [ec]{.signs} (_ec_), and [90]{.signs} (90) looks just like [MEC]{.signs} (MEC)—the Hittites also had a special logogram, [KAM]{.signs}, meaning "number". This makes it clear that [UD.MEC]{.signs} is UD.MEC "days (plural)", while [UD.90.KAM]{.signs} is UD.90.KAM "ninety days".
 
 ## Exercise 8
 
@@ -619,23 +674,31 @@ The solution was to add a _determiner_^[The linguistics term is _semagrams_, "me
 
 These determiners proved useful enough that they started being used with Akkadian and Hittite words, too. They can be a useful clue to what a word means, and there are various Hittite words whose meanings are _only_ known through their determiners: we aren't sure what exactly an _urāc_ is, but it's written with the determiner [DUG]{.signs} (for "vessels"), so it must be some kind of vessel.
 
-Some of the most common determiners are listed here, but a lot of logograms can be used as determiners in certain circumstances. It's not always clear if a sign should be read as a logogram or a determiner: perhaps [LÚ.ŊIDRU]{.signs} should actually be read as LÚ.ŊIDRU "person of the staff" instead of ^LÚ^UGULA "overseer (who is a person)", with [LÚ]{.signs} being part of the logogram. The difference isn't especially important: either way, the Hittites pronounced it something like _maniyahhatallac_^[We're not sure exactly how it was pronounced, but we know the verb for "manage, oversee" was _maniyah-_, so it was probably some derivative of that.], and wrote it with the signs [LÚ^UGULA]{.signs}.
+Some of the most common determiners are listed here, but a lot of logograms can be used as determiners in certain circumstances. It's not always clear if a sign should be read as a logogram or a determiner^[This is especially a problem when there are multiple determiners on a word. The Hittite empire was known as [KUR-URU-ha-at-ti]{.signs}, for example, "the land of the city of Hatti"; did the Hittites actually pronounce the word for "land" there, or "city", or both, or neither?]: perhaps [LÚ.ŊIDRU]{.signs} should actually be read as LÚ.ŊIDRU "person of the staff" instead of ^LÚ^UGULA "overseer (who is a person)", with [LÚ]{.signs} being part of the logogram. The difference isn't especially important: either way, the Hittites pronounced it something like _maniyahhatallac_^[We know the verb for "manage, oversee" was _maniyah-_, so it was probably some derivative of that.], and wrote it with the signs [LÚ-UGULA]{.signs}.
 
-+:=============:+:===============:+:===============:+:===============:+
-| “one”         | “man/person”    | “woman”         | “deity”         |
-+---------------+-----------------+-----------------+-----------------+
-| [DIC]{.signs} | [LÚ]{.signs}    | [MUNUS]{.signs} | [DIŊIR]{.signs} |
-+---------------+-----------------+-----------------+-----------------+
-| “land”        | “building”      | “wood”          | “stone”         |
-+---------------+-----------------+-----------------+-----------------+
-| [KUR]{.signs} | [É]{.signs}     | [ŊIC]{.signs}   | [NA₄]{.signs}   |
-+---------------+-----------------+-----------------+-----------------+
-| “clay”        | “bread”         | “meat”          | “plant”         |
-+---------------+-----------------+-----------------+-----------------+
-| [IM]{.signs}  | [NINDA]{.signs} | [UZU]{.signs}   | [Ú]{.signs}     |
-+---------------+-----------------+-----------------+-----------------+
++-----------------+---------------+---------------+------------------+
+| People          | Places        | Materials     | Other            |
++:===============:+:=============:+:=============:+:================:+
+| [DIC]{.signs}   | –[KI]{.signs} | [ŊIC]{.signs} | [ÌD]{.signs}     |
++-----------------+---------------+---------------+------------------+
+| “one”           | “place”       | “wood”        | “river”          |
++-----------------+---------------+---------------+------------------+
+| [LÚ]{.signs}    | [KUR]{.signs} | [NA₄]{.signs} | [DUG]{.signs}    |
++-----------------+---------------+---------------+------------------+
+| “man”           | “land"        | “stone”       | “vessel”         |
++-----------------+---------------+---------------+------------------+
+| [MUNUS]{.signs} | [URU]{.signs} | [TÚG]{.signs} | [NINDA]{.signs}  |
++-----------------+---------------+---------------+------------------+
+| “woman”         | “city"        | “cloth”       | “bread”          |
++-----------------+---------------+---------------+------------------+
+| [DIŊIR]{.signs} | [É]{.signs}   | [UZU]{.signs} | –[MUCEN]{.signs} |
++-----------------+---------------+---------------+------------------+
+| “deity”         | “building"    | “flesh”       | “bird”           |
++-----------------+---------------+---------------+------------------+
 
-The [1]{.signs} sign can be abbreviated to _1_ or _m_ in transliteration, the [f]{.signs} sign to _f_, and the [d]{.signs} sign to _d_; these three specifically can be used in front of proper names, to indicate what sort of person they're talking about, so it's useful to abbreviate them as short as possible. In some eras, [m]{.signs} and [f]{.signs} were used for male and female names respectively, so they're transliterated as _m_ and _f_; in other eras, [1]{.signs} was used for names of any gender, and then the transliteration _1_ is better^[The former convention—_m_ for men, _f_ for women—is more common in Hittite, but we find both used. In the myth of Illuyankac, for instance, Inarac is sometimes written with the _1_ determinative, even though from other sources we know she must be female.]. Some older publications even transliterate it as _I_—that is, the Roman numeral for 1—but having _I_ and _i_ refer to different signs seems unnecessarily perverse. I highly recommend using _1_ instead (ideally in a font that makes them easy to tell apart).
+Most determiners come before the word, but the ones with a dash in front of them come after: [ha-ra-an^MUCEN]{.signs} "eagle".
+
+The [DIC]{.signs} determiner can be abbreviated to _1_ or _m_ in transliteration, the [MUNUS]{.signs} determiner to _f_, and the [DIŊIR]{.signs} determiner to _d_; these three specifically can be used in front of proper names, to indicate what sort of person they're talking about, so it's useful to abbreviate them as short as possible. In some eras, [m]{.signs} and [f]{.signs} were used for male and female names respectively, so they're transliterated as _m_ and _f_; in other eras, [1]{.signs} was used for names of any gender, and then the transliteration _1_ is better^[The former convention (_m_ for men, _f_ for women) is more common in Hittite, but we find both used. In Akkadian, we sometimes even find _1_ for men and _1-f_ for women.]. Some older publications even transliterate it as _I_—that is, the Roman numeral for 1—but having _I_ mean [1]{.signs} and _i_ mean [i]{.signs} seems unnecessarily perverse. I highly recommend using _1_ instead (ideally in a font that makes them easy to tell apart).
 
 In Hittite, [LÚ]{.signs} was used for male professions ("types of men"), and [MUNUS]{.signs} for female professions ("types of women"). (Hittite society was not especially egalitarian, and there were practically no professions that didn't have gender associations.) In Akkadian, on the other hand, [LÚ]{.signs} is used for any sort of profession ("types of person"). When adapting modern, less-gendered words, I tend to use [1]{.signs} for any personal name and [LÚ]{.signs} for any type of person.
 
@@ -643,7 +706,16 @@ Since [d]{.signs} indicated that something was a divine name, that divine name c
 
 ## Exercise 9
 
-TODO
+We don't know the exact meanings of any of these words in Hittite. Take your best guess at what they mean.
+
+- [ŊIC^e-ya-an]{.signs}
+- [DUG^ka-ap-pi]{.signs}
+- [LÚ^pa-ti-li-ic]{.signs}
+- [TÚG^te-er-ma-az]{.signs}
+- [la-ak-ka-ar-wa-an^SAR]{.signs}
+- [NINDA^ha-ar-ci-ic]{.signs}
+- [É^ci-na-ap-ci]{.signs}
+- [ú-ra-ya-an-ni^MUCEN]{.signs}
 
 # Lesson 10: Akkadograms
 
@@ -748,6 +820,14 @@ In later eras of Hittite, though, these possessives are almost never spelled out
 In Akkadian, there are specific rules for how these should be used. _=ya_ is used after vowels and _=i_ after consonants, for example, _=ka_ is only used when the "you" is male, _su_ (**not** _zu_!) takes the place of _cu_ after certain consonants, and so on.
 
 But Hittite scribes weren't very consistent about these things. Most of them didn't speak Akkadian very well (if at all), so they broke these rules all the time. So for Hittite purposes, there's no need to bother with the details. Just recognize these signs when you come across them.
+
+## Akkadian conjunctions
+
+There are two other especially common Akkadograms that deserve special mention.
+
+The sign [*Ù*]{.signs}, read as _Ù_, is used to mean "and". This is an odd one, because it functions more like a Sumerogram! Akkadograms are normally spelled out phonetically, but "and" is specifically _Ù_, not _U_ or _Ú_^[This situation probably arose because in Akkadian, "and" is _u_, while "or" is _ū_. Akkadian scribes didn't usually indicate long vowels, which was a problem here, so they created a logogram to tell them apart. The Hittites then borrowed the logogram for "and", but wrote "or" with their native word _nacma_ to avoid ambiguity.]. We only call it an Akkadogram because we know its pronunciation from Akkadian, not from Sumerian.
+
+The Akkadogram [_Ú-UL_]{.signs} (_ŪL_) is used to mean "not"^[_ŪL_ is used to negate facts; the native Hittite word _lē_ "don't" is used to negate requests and commands.]. We know the Hittite word for this is _natta_, because it's spelled out in the oldest texts, but in later eras _ŪL_ was used exclusively. This one's so common it's important to be able to recognize it.
 
 ## Exercise 10
 
@@ -1016,9 +1096,9 @@ Here are the solutions to all of the exercises from this document.
 
 ## 1
 
-![The signs _el_, _ik_, and _wi~5~_ in Assyrian ink style.](images/signs_ex3_answer.png)
+The only one that can be checked here is the second half of 1B:
 
-There's nothing to be checked for 1A or 1C.
+![The signs _el_, _ik_, and _wi~5~_ in Assyrian ink style.](images/signs_ex3_answer.png)
 
 ## 2
 
@@ -1057,18 +1137,29 @@ Don't worry about the equals signs. There's no way to know where to put them wit
 
 ## 9
 
+- A kind of wood, or something made from wood
+- A kind of vessel
+- A kind of profession
+- A kind of garment, or a type of cloth
+- A kind of plant
+- A kind of bread
+- A kind of building
+- A kind of bird
+
+These are usually translated as "a _kappi_-vessel", "the _lakkarwan_-plant", and so on.
+
 ## 10
 
 - _nu=wa=za_ DAM=*KA* DUMU.MEC=*KA* _autti_
 - _mān_ UD.20.KAM _pait_
 - _apāc=a_ ^ŊIC^_luttan arha cuwaīt_
-- [nu DAM=CU DUMU.MEC=CU a-us-ta]{.signs}
+- [nu DAM=*CU* DUMU.MEC=*CU* a-us-ta]{.signs}
 
-You can also use _SU_ instead of _CU_ for the possessive, or add an _Ù_ in between, if you like.
+You can also use _SU_ instead of _CU_ for the possessive, or add an _Ù_ in between, if you like. If you look at [the actual text of this section](#hopaciyac-s-fate), you'll find the scribe actually messed this up, writing DAM=*KA* "your wife" instead of DAM=*CU* "his wife"!
 
 ## Final
 
-As before, don't worry about the equals signs. You can't know where to place them without a good understanding of the Hittite language. For the parts where you were asked to write in cuneiform, you might have used CVC signs where the original tablet didn't, or vice versa; my goal here was to transcribe exactly what was on the original, even if there were other valid ways to write it.
+As before, don't worry about the equals signs. You can't know where to place them without a good understanding of the Hittite language. For the parts where you were asked to write in cuneiform, you might have used CVC signs where the original tablet didn't, or vice versa, and that's perfectly fine; my goal here was to transcribe exactly what was on the original, even if there were other valid ways to write it.
 
 ### Preface
 
