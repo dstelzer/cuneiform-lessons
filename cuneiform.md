@@ -172,7 +172,7 @@ _Nu hōman mekki hantāit._
 She prepared lots of everything.
 
 _Wiyanac palhi, marnuwandac palhi, walhiyac palhi,_  
-The container of wine, the container of _maruwand_, the container of _walhi_,
+The container of wine, the container of _marnuwand_, the container of _walhi_,
 
 _nu palhac andan iyada iet._  
 she put a lot in all of the containers.
@@ -182,8 +182,6 @@ Inarac went to the city of Ziggarattac.
 
 _Nu Hōpaciyan antuhcan wemit._  
 She met the human Hopaciyac.
-
-[You can find the full text of this myth here, in transliteration, transcription, and translation!](https://www.assyrianlanguages.org/hittite/index_en.php?page=textes)
 
 # Lesson 2: Transliteration and V signs
 
@@ -516,10 +514,10 @@ Convert these sentences into cuneiform. The equals signs mark the boundaries bet
 _"Kardiac=tac iyami."_  
 "I will fulfill your wish."
 
-_Na=ac katti=ci cecta._  
+_N=ac katti=ci cecta._  
 So she slept with him.
 
-I've modified the cuneiform for these examples slightly, to avoid using any signs from later lessons and to fix some scribal mistakes^[For example, the original tablet says _ma-a-wa_ where the intent is clearly _ma-an-wa_. _Man_ means "if", and _=wa_ indicates a direct quotation.], but the Hittite text is the same.
+I've modified the cuneiform for these examples slightly, to avoid using any signs from later lessons^[For example, there should be [determiners](#determiners).], but the Hittite text is the same.
 
 # Lesson 7: CVC signs
 
@@ -610,6 +608,8 @@ Unfortunately, Sumerian didn't have any convenient words that could be repurpose
 The same went for verbs: _icpanthi_ "sacrifice" could be written with the five signs [ic-pa-an-at-hi]{.signs} or the single sign [BAL]{.signs}. But to distinguish between _icpanthi_ "I sacrifice", _icpanti_ "she sacrifices", _icpantanzi_ "they sacrifice", and so on, these could be written [BAL-hi]{.signs}, [BAL-ti]{.signs}, [BAL-an-zi]{.signs}. If you're used to Japanese, this is very similar to how Japanese-speakers combine kana and kanji!
 
 ## Exercise 8
+
+TODO
 
 # Lesson 9: Determiners
 
@@ -756,7 +756,7 @@ Transcribe the following cuneiform, making note of any Sumerograms and Akkadogra
 After defeating the serpent, Inarac builds a special home to keep Hopaciyac in, and forbids him to ever look out the window when he's not there. Because if he looks out the window:
 
 [nu-wa-za DAM=*KA* DUMU.MEC=*KA* a-ut-ti]{.signs}  
-"You will see your wife and children."
+"You will see your wife and your children."
 
 There are two different interpretations of this passage. One is that he would see his mortal wife and children, who he abandoned for the affections of a goddess, and get homesick. The other is that he would see the true form of his divine wife, Inarac, and it would ruin him^[Compare the Greek myth of Zeus and Semele.].
 
@@ -764,7 +764,7 @@ There are two different interpretations of this passage. One is that he would se
 When twenty days had passed,
 
 [a-pa-a-ca ŊIC^lu-ut-ta-an ar-ha cu-wa-i-it]{.signs}  
-he threw open the shutters.
+He threw open the window.
 
 Now, write the following sentence in cuneiform. Use Sumerograms and Akkadograms for the bracketed sections.
 
@@ -825,7 +825,7 @@ _**Note:** Remember the determinative! What sort of thing is the Purulli?_
 
 ## The Storm-God's defeat
 
-[ma-a-an d^ICKUR-aš MUŠ^il-lu-ya-an-ka-ac-ca]{.signs}  
+[ma-a-an d^ICKUR-ac MUC^il-lu-ya-an-ka-ac-ca]{.signs}  
 When Tarhonz and Illuyankac
 
 [_I-NA_ URU^ki-ic-ki-lu-uc-ca ar-ha ti-i-e-er]{.signs}  
@@ -853,7 +853,7 @@ She prepared lots of everything.
 [GECTIN-ac DUG^pal-hi mar-nu-wa-an-da-ac DUG^pal-hi wa-al-hi-ya-ac DUG^pal-hi]{.signs}  
 The container of wine, the container of _marnuwand_, the container of _walhi_,
 
-_Nu palhac andan iyada iet._  
+_Nu palhac andan iyada iēt._  
 She put a lot in all of the containers.
 _**Note:** What determinative should "palhac" take?_
 
@@ -866,30 +866,30 @@ _**Note:** What determinative should "palhac" take?_
 [nu d^i-na-ra-ac _I-NA_ URU^zi-ig-ga-ra-at-ta pa-it]{.signs}  
 Inarac went to^[It would probably be better Akkadian to say _ANA_ "to" rather than _INA_ "at" here, but this scribe was not an expert at Akkadian.] the city of Ziggarattac.
 
-[nu 1^hu-o-pa-ci-ya-an LÚ.U₁₉.LU ú-e-mi-it]{.signs}  
+[nu m^hu-o-pa-ci-ya-an LÚ.U₁₉.LU ú-e-mi-it]{.signs}  
 She met the mortal Hopaciyac.
 
 -----
 
-[_UM-MA_ 1^i-na-ar 1^hu-o-pa-ci-ya]{.signs}  
-Inarac^[The use of ^1^Inar instead of ^d^Inarac is hard to explain. It only happens in this section.] (spoke) thus to Hopaciyac:
+[_UM-MA_ d^i-na-ar m^hu-o-pa-ci-ya]{.signs}  
+Inarac^[Some editions give ^1^_Inar_ instead of ^d^_Inar_. This may be a scribal error.] (spoke) thus to Hopaciyac:
 
 [ka-a-ca-wa ki-i-ya ki-i-ya ut-tar i-ya-mi]{.signs}  
 "Look! I'm going to do something.
 
 [nu-wa-mu-uc-ca-an zi-iq-qa har-ap-hu-ut]{.signs}  
-"You should join me!"
+"You^[The word _zikka_ "you" here is written _zi-iq-qa_; in [a later section](#hopaciyac-s-fate) it's written _zi-ig-ga_. The Hittites used these signs basically interchangeably; it might be more accurate to transliterate them as _zi-ik-ka~4~_ and _zi-ik-kà_ to show this, but _qa_ and _ga_ are both easier to type and easier to recognize at a glance. (Remember that _ik_, _ig_, and _iq_ are all the same sign.)] should join me!"
 
 -----
 
-[_UM-MA_ 1-hu-o-pa-ci-ya _A-NA_ 1^i-na-ar]{.signs}  
-Hopaciyac (spoke) thus to Inarac:
+[_UM-MA_ m^hu-o-pa-ci-ya _A-NA_ d^i-na-ar]{.signs}  
+Hopaciyac (spoke) thus to Inarac^[Again we see ^1^_Inar_ in some editions.]:
 
-[ma-an-wa kat-ti-ti ce-ec-mi nu-wa ú-wa-mi]{.signs}^[The original tablet has _ma-a-wa_ instead of _ma-an-wa_.]  
+[ma-a-wa kat-ti-ti ce-ec-mi nu-wa ú-wa-mi]{.signs}
 "If I can sleep with you, I will come.
 
 [kar-di-ac-ta-ac i-ya-mi]{.signs}  
-"I will fulfill your wish."
+"I will fulfill your wish^[_Kardiyac=tac_ literally means "the thing of your heart". This fossilized phrase is one of the only places the Old Hittite possessives sticks around in later eras.]."
 
 [na-ac kat-ti-ci ce-ec-ta]{.signs}  
 So she slept^[The euphemism is exactly the same in the Hittite as in the English: literally "sleep" + "with".] with him.
@@ -898,16 +898,16 @@ So she slept^[The euphemism is exactly the same in the Hittite as in the English
 
 ## The trap is laid
 
-[nu d^i-na-ra-ac 1^ḫu-o-pa-ci-ya-an É-ri pé-e-hu-te-et]{.signs}  
+[nu d^i-na-ra-ac m^ḫu-o-pa-ci-ya-an É-ri pé-e-hu-te-et]{.signs}  
 Inarac took Hopaciyac to (her) home.
 
-_Na=an munnāit; Inaraccaz unuttat._  
-She concealed him, and he disguised himself as Inarac.
+_N=an munnāit; Inaraccaz unuttat._  
+She concealed him, and he disguised himself as Inarac^[Or "Inarac dressed herself up". In that case, Inarac would be the one doing the luring in the next sentence.].
 
-_Na=acta Illuyankan hattecnaz carā kallicta:_  
+_N=acta Illuyankan hattecnaz carā kallicta:_  
 He lured Illuyankac out of his hole, (saying):
 
-[ka-a-ca-wa-za EZEN-an i-ya-mi]{.signs}  
+[ka-a-ca-wa-za EZEN₄-an i-ya-mi]{.signs}  
 "Look! I'm going to celebrate a festival!
 
 [nu-wa a-da-an-na a-ku-wa-an-na e-hu]{.signs}  
@@ -947,27 +947,109 @@ Tarhonz came,
 And he killed Illuyankac,
 
 [DIŊIR.MEC-ca kat-ti-ic-ci e-ec-er]{.signs}  
-And the gods were at his home^[I'm not quite sure what this line means.].
+And the gods were with him.
+
+-----
 
 ## Hopaciyac's fate
 
+[nu-za-an d^i-na-ra-ac NA₄^pé-ru-ni ce-er É-ir ú-e-te-et]{.signs}  
+Inarac built a house on a rock.
+
+(Another break in the tablet interrupts the story.)
+
+[nu m^ḫu-o-pa-ci-ya-an an-da-an É-ri a-ca-ac-ta]{.signs}  
+She settled Hopaciyac in the house.
+
+_N=an Inarac watarnahhickizzi:_  
+Inarac kept commanding him:
+
+[ma-a-wa gi-im-ra pa-i-mi]{.signs}  
+"When I go to the country,
+
+[zi-ig-ga-wa-ra-ac-ta ŊIC^lu-ut-ta-an-za ar-ha le-e a-ut-ti]{.signs}  
+"You must not look out through the window.  
+_**Note:** Which word here means "window"? How can you tell?_
+
+[ma-a-wa-ra-ac-ta ar-ha-ma a-ut-ti]{.signs}  
+"Because if you look out,
+
+[nu-wa-za DAM-*KA* DUMU.MEC-*KA* a-ut-ti]{.signs}  
+"You will see your wife^[As mentioned [above](#exercise-10), this might mean that he'd see his human family that he abandoned for Inarac, or might mean that he'd see his divine wife Inarac in her true form.] and children."
+
+-----
+
+[ma-a-an UD.20.KAM pa-it]{.signs}  
+When twenty days passed,
+
+[a-pa-a-ca ŊIC^lu-ut-ta-an ar-ha cu-wa-i-it]{.signs}  
+He threw the window open
+
+[nu DAM-*SÚ* DUMU.MEC-*CU* a-uc-ta]{.signs}  
+And saw his^[There's an error here in the original tablet: the scribe wrote _KA_ instead of _SÚ_.] wife and children.
+
+-----
+
+[ma-a-an d^i-na-ra-ac-ca gi-im-ra-az EŊIR-pa ú-it]{.signs}  
+When Inarac came back from the country,
+
+[a-pa-ac-ca ú-e-ec-ga-o-an da-a-ic]{.signs}  
+He started to cry,
+
+[a-ap-pa-wa-mu É-na tar-na]{.signs}
+"Let me go back home!"
+
+## The end?
+
+The tablet is broken at this point, so we don't know what happened to Hopaciyac after that. The next 20-some lines are badly damaged and don't offer much clarity, then the next 40-some lines are missing entirely. After this, the very bottom of the tablet gives a very different version of the story.
+
+Much less of this second version survives. In the missing section, it seems that Illuyankac defeats Tarhunz and steals his heart and his eyes. The surviving part starts with Tarhunz marrying "the daughter of a pauper" and begetting a mortal son, who marries the daughter of Illuyankac. He asks for the eyes and heart as a dowry and restores them to Tarhunz, who can then go out into the ocean for a rematch with Illuyankac. Illuyankac hoped that his son-in-law would protect him, but the unnamed human tells Tarhunz to strike them both down, and Tarhunz does.
+
+The tablet ends with the line:
+
+[nu ka-a-ac a-pa-a-ac d^ICKUR-ac MUC^il-lu-ya-an-ka-ac-ca me-mi-ac]{.signs}  
+That is the story of Tarhunz and Illuyankac.
+
 # Exercise answers
 
-## 1A
+Here are the solutions to all of the exercises from this document.
 
-## 1B
+## 1
 
-## 1C
+![The signs _el_, _ik_, and _wi~5~_ in Assyrian ink style.](images/signs_ex3_answer.png)
+
+There's nothing to be checked for 1A or 1C.
 
 ## 2
 
+Nothing to be checked.
+
 ## 3
 
+- _ekuzi_
+- _pati_
+- [a-pa-ta]{.signs}
+- [a-ku]{.signs}
+
 ## 4
+
+- _kā_
+- _apacila_
+- _pōti_
+- [lu-o-ri]{.signs}
+- [ce-ni]{.signs}
+- [mu-ú-li-li]{.signs}
 
 ## 5
 
 ## 6
+
+- _kiccan Hōpaciyac Inari_
+- _man=wa kattiti cec=mi nu=wa uwami_
+- [ka-ar-di-ac-ta-ac i-ya-mi]{.signs}
+- [na-ac ka-at-ti-ci ce-ec-ta]{.signs}
+
+Don't worry about the equals signs. There's no way to know where to put them without understanding the Hittite text.
 
 ## 7
 
@@ -977,4 +1059,84 @@ And the gods were at his home^[I'm not quite sure what this line means.].
 
 ## 10
 
+- _nu=wa=za_ DAM=*KA* DUMU.MEC=*KA* _autti_
+- _mān_ UD.20.KAM _pait_
+- _apāc=a_ ^ŊIC^_luttan arha cuwaīt_
+- [nu DAM=CU DUMU.MEC=CU a-us-ta]{.signs}
+
+You can also use _SU_ instead of _CU_ for the possessive, or add an _Ù_ in between, if you like.
+
 ## Final
+
+As before, don't worry about the equals signs. You can't know where to place them without a good understanding of the Hittite language. For the parts where you were asked to write in cuneiform, you might have used CVC signs where the original tablet didn't, or vice versa; my goal here was to transcribe exactly what was on the original, even if there were other valid ways to write it.
+
+### Preface
+
+- _UMMA_ ^m^_Killa_ ^LÚ^SAŊŊA ^d^10 ^URU^_Nerik_
+- _nepicac_ ^d^ICKUR-_ac_ ^EZEN~4~^_Purulliyac uttar_
+- _nu mān kiccan taranzi_
+- _utne=wa māu cecdu_
+- _nu=wa utnē pahcanuwan ēcdu_
+- [nu ma-a-an ma-a-i ce-ec-zi]{.signs}
+- [nu EZEN₄^pu-ru-ul-li-ya-ac i-ya-an-zi]{.signs}
+
+### The Storm-God's defeat
+
+- _mān_ ^d^ICKUR-_ac_ ^MUC^_Illuyankac=ca_
+- _INA_ ^URU^_Kickilucca arha tīēr_
+- _nu=za_ ^MUC^_Illuyankac_ ^d^ICKUR-_an tarahta_
+- [d^ICKUR-ac-ta-ac-ca DIŊIR.MEC hu-o-ma-an-du-uc mu-ú-ga-it]{.signs}
+- _nu=za_ ^d^_Inarac_ ^EZEN~4~^-_an iēt_
+- _nu hōman mekki handait_
+- GECTIN-_ac_ ^DUG^_palhi marnuwandac_ ^DUG^_palhi walhiyac_ ^DUG^_palhi_
+- [nu DUG^pa-al-ha-ac an-da-an i-ya-da i-e-et]{.signs}
+
+### Inarac recruits Hopaciyac
+
+- _nu_ ^d^_Inarac INA_ ^URU^_Ziggaratta pait_
+- _nu_ ^m^_Hōpaciyan_ LÚ.U~19~.LU _wemit_
+- _UMMA_ ^d^_Inar_ ^m^_Hōpaciya_
+- _kāca=wa kī=ya kī=ya uttar iyami_
+- _nu=wa=mu=ccan ziqqa haraphut_
+- _UMMA_ ^m^_Hōpaciya ANA_ ^d^_Inar_
+- _mā=wa katti=ti cecmi, nu=wa uwami_
+- _kardiac=tac iyami_
+- _n=ac katti=ci cecta_
+
+### The trap is laid
+
+- _nu_ ^d^_Inarac_ ^m^_Hōpaciyan_ É-_ri pēhutet_
+- [na-an mu-un-na-a-it d-i-na-ra-ac-ca-az u-nu-ut-ta-at]{.signs}
+- [na-ac-ta MUC-il-lu-ya-an-ka-an ha-at-te-ec-na-az ca-ra-a kal-li-ic-ta]{.signs}
+- _kāca=wa=za_ EZEN~4~-_an iyami_
+- _nu=wa adanna akuwanna ehu_
+- _n=acta_ ^MUC^_Illuyankac QADU_ DUMU.MEC=_CU carā wēr_
+- _nu=za eter ekuer_
+- _n=acta_ ^DUG^_palha hōmanda ekuer_
+- _n=e=za ninkēr_
+- [ne na-am-ma ha-at-te-ec-na-ac kat-ta-an-da nu-o-ma-an pa-a-an-zi]{.signs}
+- [m^hu-o-pa-ci-ya-ac-ca ú-it]{.signs}
+- [nu MUC^il-lu-i-ya-an-ka-an ic-hi-ma-an-ta ka-le-e-li-e-et]{.signs}
+- ^d^ICKUR-_ac uit_
+- _nu=kan_ ^MUC^_Illuyankan kuenta_
+- DIŊIR.MEC-_ca katticci ēcer_
+
+### Hopaciyac's fate
+
+- _nu=za=an_ ^d^_Inarac_ ^NA~4~^_peruni cer_ É-_ir wetet_
+- _nu_ ^m^_Hōpaciyan andan_ É-_ri acacta_
+- [na-an d^i-na-ra-ac wa-tar-na-ah-hi-ic-ki-iz-zi]{.signs}
+- _mā=wa gimr paimi_
+- _zigga=war=acta_ ^ŊIC^_luttanza arha lē autti_
+- _mā=war=acta arha=ma autti_
+- _nu=wa=za_ DAM=_KA_ DUMU.MEC=_KA autti_
+- _mān_ UD.20.KAM _pait_
+- _apāc=a_ ^ŊIC^_luttan arha cuwaīt_
+- _nu_ DAM=_SU_ DUMU.MEC=_CU aucta_
+- _mān_ ^d^_Inarac=ca gimraz_ EŊIR-_pa uit_
+- _apac=ca wecgawan dāic_
+- _āppa=wa=mu_ É-_na tarna_
+
+### The end?
+
+- _nu kāc apāc_ ^d^ICKUR-_ac_ ^MUC^_Illuyankac=ca memiac_
