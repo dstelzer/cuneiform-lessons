@@ -20,7 +20,7 @@ The original styli were cut from reeds, and had roughly rectangular ends. So the
 
 ![A pencil drawing of a wedge, and the corner of a stylus.](images/stylus_h.jpg)
 
-In the modern day, the disposable chopsticks you'll find at many Asian restaurants work perfectly. Just make sure to get the ones with rectangular ends instead of round ones. Very early scribes _did_ use round styli as well, but "standard" cuneiform was always written with rectangular ones; you won't get crisp, sharp wedges without it!
+In the modern day, the disposable chopsticks you'll find at many Asian restaurants work perfectly. Just make sure to get the ones with rectangular ends instead of round ones. Very early scribes _did_ use round styli as well^[You'll find some discussion of this [in a later lesson](#numbers).], but "standard" cuneiform was always written with rectangular ones; you won't get crisp, sharp wedges without it!
 
 ## Horizontal and vertical
 
@@ -126,7 +126,7 @@ Hittite cuneiform is specifically designed to write Hittite, so it can be useful
 
 ## Consonants
 
-Hittite cuneiform represents fifteen different consonants: _p b t d k g m n l r c z h y w_. However, not all of these were actually distinguished in pronunciation! The signs _ta_ and _da_, for example, are used pretty much interchangeably; choosing one over the other doesn't seem to indicate any difference in pronunciation. Even when writing in Akkadian, a language that _did_ distinguish _t_ from _d_, the Hittite scribes mix them up constantly, suggesting they couldn't hear a difference between them. The same goes for _p_ and _b_, and _k_ and _g_. (In other words, the Hittite language had no voicing distinction.)
+Hittite cuneiform represents fifteen different consonants: _p b t d k g m n l r c z h y w_^[It also very marginally represents a _q_ consonant, but this wasn't distinguished in any way, shape, or form from _k_ and _g_.]. However, not all of these were actually distinguished in pronunciation! The signs _ta_ and _da_, for example, are used pretty much interchangeably; choosing one over the other doesn't seem to indicate any difference in pronunciation. Even when writing in Akkadian, a language that _did_ distinguish _t_ from _d_, the Hittite scribes mix them up constantly, suggesting they couldn't hear a difference between them. The same goes for _p_ and _b_, and _k_ and _g_. (In other words, the Hittite language had no voicing distinction.)
 
 Instead, they distinguish _single_ from _double_ consonants: while there's no distinction between _t_ and _d_, there **is** a distinction between _t_ and _tt_. This holds true for almost all of the consonants^[It seems that _z_ was always "double" and _y_ and _w_ always "single".]: _apa-_ "that" is a different word from _appa_ "back".
 
@@ -138,11 +138,11 @@ Since there was no distinction between the pairs _t/d_, _p/b_, and _k/g_, dictio
 
 Most of the consonants are pronounced about as you'd expect^[The same as their IPA values, except that _y_ is IPA /j/.]—we don't know precisely how the Hittites spoke, so an English "d", a Spanish "d", and a Mandarin "d" are equally valid ways to pronounce a Hittite _d_. But three of these consonants are less obvious.
 
-The _c_ sound is written as _š_ in most books, and was probably pronounced like an English /s/, as in "sip"^[In other words, some sort of sibilant fricative, and Egyptian transcriptions suggest an alveolar one.]. Some languages that used cuneiform distinguished _s_ from _c_, with one being the /s/ sound in "sip" and the other the /ʃ/ sound in "ship" (see [below](#akkadian-phonetics)), but Hittite never did, so both pronunciations are valid and won't create any confusion. Hittite scribes chose to use the _c_ signs to write their sibilant, abandoning the _s_ signs completely, so we transcribe it that way for consistency.
+The _c_ sound is written as _š_ in most books, and was probably pronounced like an English /s/, as in "**s**ip"^[In other words, some sort of sibilant fricative, and Egyptian transcriptions suggest an alveolar one.]. Some languages that used cuneiform distinguished _s_ from _c_, with one being the /s/ sound in "**s**ip" and the other the /ʃ/ sound in "**sh**ip" (see [below](#akkadian-phonetics)), but Hittite never did, so both pronunciations are valid and won't create any confusion. Hittite scribes chose to use the _c_ signs to write their sibilant, abandoning the _s_ signs completely, so we transcribe it that way for consistency.
 
-In these lessons, I've used _c_ instead of _š_ simply to make it easier to type, but _š_ is what you'll find in published dictionaries. Some books on Hittite use _s_ instead for simplicity, but that is **not** a good idea if you're doing anything with cuneiform, for reasons [that will be explained below](#logograms). Still, Hittite dictionaries alphabetize it under _s_, and it's the best way to transcribe an /s/ sound in foreign names. Some people write it as _sh_ as a compromise, but this creates its own set of problems: how are you going to write the distinction between _c-h_ and _c-c_ (as in _echar eccai_ "she spills blood") without it becoming unreadable?
+In these lessons, I've used _c_ instead of _š_ simply to make it easier to type, but _š_ is what you'll find in published dictionaries. Some books on Hittite use _s_ instead for simplicity, but that is **not** a good idea if you're doing anything with cuneiform, for reasons [that will be explained in a later lesson](#logograms). Still, Hittite dictionaries alphabetize it under _s_, and it's the best way to transcribe an /s/ sound in foreign names. Some people write it as _sh_ as a compromise, but this creates its own set of problems: how are you going to write the distinction between _c-h_ and _c-c_ (as in _echar eccai_ "she spills blood") without it becoming unreadable?
 
-The _z_ sound is a /ts/, as in "pizza" or "Mozart", or the end of "cats". Unlike in English, this sound can appear at the beginning of a word in Hittite, as in _zilac_ "advice from an oracle". The sequence _tc_ was always written as _z_, so if you like the "ship" pronunciation of _c_, you can pronounce _z_ like the "ch" in "church" for consistency. This is also the best way to transcribe sounds like the /tʃ/ in "church" and the /dʒ/ in "jump" in foreign names.
+The _z_ sound is a /ts/^[It's not clear if it was one phoneme or a sequence of two, since those cuneiform signs are also used when _t_ and _c_ end up next to each other for any reason. But it's convenient to assume it's a single one, since it's written specially, and it can appear where other consonant sequences can't.], as in "pi**zz**a" or "Mo**z**art", or the end of "ca**ts**". Unlike in English, this sound can appear at the beginning of a word in Hittite, as in _zik_ "you". The sequence _tc_ was always written as _z_, so if you like the "ship" pronunciation of _c_, you can pronounce _z_ like the "ch" in "church" for consistency. This is also the best way to transcribe sounds like the /tʃ/ in "church" and the /dʒ/ in "jump" in foreign names.
 
 Finally, the _h_ sound^[The most interesting sound for historical linguists, since it's the reflex of Proto-Indo-European \*h~2~, and sometimes \*h~3~.] is some kind of fricative in the back of the mouth. Most scholars pronounce it like the sound in German "a**ch**" or Hebrew "**ch**et" (IPA /x~χ/), though evidence from Ugaritic suggests it might also have been pharyngeal like Arabic "**ḥ**al" (/ħ/) or voiced like Spanish "ami**g**o" (/ɣ/), depending on the environment.
 
@@ -166,7 +166,7 @@ While doubled consonants are written double in transcriptions, doubled vowels us
 
 ## Exercise 1C
 
-Try to pronounce these sentences in Hittite. This comes from a myth about a conflict between the storm god Tarhunz and the great serpent Illuyankac. After Tarhunz is defeated by the serpent in a fight, he asks the goddess Inarac for help; she prepares a trap for the serpent, and seduces a mortal named Hopaciyac to help her in her plan.
+Try to pronounce these sentences in Hittite. This comes from a myth about a conflict between the storm god Tarhont and the great serpent Illuyanka. After Tarhont is defeated by the serpent in a fight, he asks his daughter Inara (the goddess of wild animals) for help; she prepares a trap for the serpent, and recruits a mortal named Hopaciya to help her in her plan.
 
 _Nu hōman mekki hantāit._  
 She prepared lots of everything.
@@ -178,10 +178,10 @@ _nu palhac andan iyada iet._
 she put a lot in all of the containers.
 
 _Nu Inarac Ziggaratti pāit._  
-Inarac went to the city of Ziggarattac.
+Inara went to the city of Ziggaratta.
 
 _Nu Hōpaciyan antuhcan wemit._  
-She met the human Hopaciyac.
+She met the human Hopaciya.
 
 # Lesson 2: Transliteration and V signs
 
@@ -437,7 +437,7 @@ This set of signs is _almost_ sufficient to represent every syllable in Hittite.
 
 For _y_, there's a special sign _ya_, which is just _i_ and _a_ smashed together: [ya]{.signs}. There are no signs for _y_ in any other combination—that is, no signs for _ye_, _yu_, _ay_, and so on. _Yi_ and _iy_ probably weren't possible at all.
 
-This is partially because these combinations were much rarer than _ya_. But when they did have to write a word like _yogan_ "yoke", they would use the _i_ sign: [i-o-ga-an]{.signs}. Even in the case of _ya_, it was occasionally written with an extra _i_ for good measure.
+This is partially because these combinations were much rarer than _ya_. But when they did have to write a word like _yugan_ "yoke", they would use the _i_ sign: [i-ú-ga-an]{.signs}. Even in the case of _ya_, it was occasionally written with an extra _i_ for good measure.
 
 +---+--------------+
 |   | A            |
@@ -473,11 +473,11 @@ When writing names with multiple consonants at the beginning, I recommend insert
 
 ## A brief example
 
-Using these signs, we can write even more Hittite and non-Hittite names. For example, Wilucac [wi₅-lu-ca-ac]{.signs} was a city-state in ancient Anatolia. One king of Wilucac, Alakcanduc [a-la-ak-ca-an-du-uc]{.signs}, made a treaty with the Hittite emperor Murcilic II [mu-ur-ci-li-ic]{.signs}, invoking the patron god of the city, Āppalionac [a-ap-pa-li-o-na-ac]{.signs}. In the treaty, Murcilic claimed that Wilucac and the Hittites had been on good terms for centuries. Later in his reign, though, Murcilic needed to reassert control over Wilucac by force—the exact circumstances aren't clear, but one theory is that Alakcanduc was overthrown by a faction more sympathetic to the foreign state of Āhhiyawac [a-ah-hi-ya-wa-ac].
+Using these signs, we can write even more Hittite and non-Hittite names. For example, Wiluca [wi₅-lu-ca]{.signs} was a city-state in ancient Anatolia. One king of Wiluca, Alakcandu [a-la-ak-ca-an-du]{.signs}, made a treaty with the Hittite emperor Murcili II [mu-ur-ci-li]{.signs}, invoking the patron god of the city, Āppaliona [a-ap-pa-li-o-na]{.signs}. In the treaty, Murcili claimed that Wiluca and the Hittites had been on good terms for centuries. Later in his reign, though, Murcili needed to reassert control over Wiluca by force—the exact circumstances aren't clear, but one theory is that Alakcandu was overthrown by a faction more sympathetic to the foreign state of Āhhiyawa [a-ah-hi-ya-wa].
 
-It's hard to be sure from the very fragmentary documents we have, but it's possible that we're seeing here a contemporary account of the Trojan War! Wilucac could be Wilion (another Greek name for Troy, hence the "**Ili**ad"), Ahhiyawac could have been the Achaeans (that is, the Mycenaean Greeks), Alakcanduc could have been Alexander of Troy (better known as Paris), and Āppalionac could have been Apollo, the divine defender of the Trojans.
+It's hard to be sure from the very fragmentary documents we have, but it's possible that we're seeing here a contemporary account of the Trojan War! Wiluca could be Wilion (another Greek name for Troy, hence the "**Ili**ad"), Ahhiyawa could have been the Achaeans (that is, the Mycenaean Greeks), Alakcandu could have been Alexander of Troy (better known as Paris), and Āppaliona could have been Apollo, the divine defender of the Trojans.
 
-If you look for these names online, you'll more often see them transcribed as Wilusa, Alaksandu, Mursili, Appaliuna, and Ahhiyawa. The missing _-c_ at the end is a case marker in Hittite^[Like how so many Latin names end with _-us_.], which is sometimes removed when discussing the names in English, and _c_ is usually transcribed as _s_. This conveys the pronunciation better when talking about the Hittite language, but it's very important to write _c_ (or the fancier _š_) instead of _s_ when you're talking about cuneiform, [for reasons you'll see in a later lesson](#logograms). Just remember to change it to an _s_ when you're searching.
+If you look for these names online, you'll more often see them transcribed as Wilusa, Alaksandu, Mursili, Appaliuna, and Ahhiyawa. In other words, _c_ is usually transcribed as _s_. This conveys the pronunciation better when talking about the Hittite language, but it's very important to write _c_ (or the fancier _š_) instead of _s_ when you're talking about cuneiform, [for reasons you'll see in a later lesson](#logograms). Just remember to change it to an _s_ when you're searching.
 
 ## F and V
 
@@ -501,10 +501,10 @@ Four additional signs combine _wa_ with _ap_, _ip_, _pí_, and _pu_: [wa(ap) wi(
 
 ## Exercise 6
 
-Remember [the story of Illuyankac](#exercise-1c)? Make a bound transcription for these lines, where the goddess Inarac has made her proposition to the human Hopaciyac.
+Remember [the story of Illuyanka](#exercise-1c)? Make a bound transcription for these lines, where the goddess Inara has made her proposition to the human Hopaciya.
 
 [ki-ic-ca-an hu-o-pa-ci-ya-ac i-na-ri]{.signs}  
-Hopaciyac spoke thus to Inara:
+Hopaciya spoke thus to Inara:
 
 [ma-a-wa ka-at-ti-ti ce-ec-mi nu-wa ú-wa-mi]{.signs}  
 "If I can sleep with you, I will come."
@@ -615,6 +615,8 @@ This table gives some of the most common logograms in Hittite. There are hundred
 
 For many of these we know the Hittite pronunciations. The Hittite word for "god" is _ciuc_, for example, "king" is _haccuc_, and "land" is _utnē_. But for many we don't, because the word is only ever written with a logogram! We can only guess at the Hittite words for "woman" and "son", for example.
 
+[UD]{.signs} is by convention transcribed UD when it means "day" and UTU when it means "sun"^[It also has the value _u~4~_, for kind of an odd reason. In Akkadian, the word for "day" is _umum_, and this is usually written with a [phonetic complement](#phonetic-complements) as UD-_mum_. As a result, to make their transcriptions cleaner, some Assyriologists like to write this as _u~4~-mu-um_ instead of UD-_mu-um_. I'm not sure why this is done specifically for "day"; the word _ilum_ "god" is usually written DIŊIR-_lum_, but nobody is giving DIŊIR the reading _i~x~_, and it's not like _u~4~_ is used to write the _u_ sound in other words.], but this ends up being more of a guideline than a hard rule. Many people split the difference and go with UT, which is how it's used syllabically even if it doesn't quite match either of the Sumerian words; just make sure you don't mix it up with UDU ([UDU]{.signs}) or URU ([URU]{.signs})!
+
 ## Inflection
 
 This system hits a snag when it comes to inflection. In Hittite, words are modified in various ways to indicate their role in a sentence: the word for "person" is _antuwahhac_ if it's the subject of the sentence, _antuwahhan_ if it's the object, _antuwahhi_ if it's the recipient, _antuwahhec_ if there's more than one person, and so on. When you write the Sumerogram [LÚ]{.signs}, how do you know which of these it means?
@@ -658,9 +660,36 @@ This system works as you'd expect up to 59. But 60 is _not_ written with six hoo
 Signs for 60 through 90.
 :::
 
-Originally (back in the Sumerian days), 1 was a narrow vertical stroke and 60 was a wide vertical stroke, written with two different styli. But when scribes started using a single, normal-sized stylus to write, this turned into the world's first place value system! Just like how the digit "1" for us can mean 1, 10, 100, or 1,000, depending where it appears in the number, a single vertical stroke can mean 1, 60, or (in theory) 3,600. So the number 86 would be written as [80-6]{.signs}: one vertical for 60, two hooks for 20, and six verticals for 6.
+Originally (back in the Sumerian days), 1 was a narrow stroke and 60 was a wide stroke, written with two different round styli^[10 and 600 were then written by stamping the end of the round styli into the clay to make differently-sized circular impressions.]. But when scribes started using a single rectangular stylus to write, this turned into the world's first place value system! Just like how the digit "1" for us can mean 1, 10, 100, or 1,000, depending where it appears in the number, a single vertical stroke can mean 1, 60, or (in theory)^[Babylonian scribes did this, but Hittite scribes never did.] 3,600. So the number 86 would be written as [80-6]{.signs}: one vertical for 60, two hooks for 20, and six verticals for 6.
 
 Like all logograms, these signs do have fancy Sumerian names (DIC for 1, MIN for 2, EC~5~ for 3…), but it's more common just to write their values^[Some older sources like to write these values in Roman numerals, like XVII instead of 16. The meaning is the same.]. Since some of them look very similar to other signs—for example, [30]{.signs} (30) looks just like [ec]{.signs} (_ec_), and [90]{.signs} (90) looks just like [MEC]{.signs} (MEC)—the Hittites also had a special logogram, [KAM]{.signs}, meaning "number". This makes it clear that [UD.MEC]{.signs} is UD.MEC "days (plural)", while [UD.90.KAM]{.signs} is UD.90.KAM "ninety days".
+
+While the Hittites definitely had words for the numbers, these logograms were so convenient that their pronunciation is almost never written out. We only know how 3 and 7 were pronounced because they were used to spell other words: the drinks _teriyallac_ and _siptamiyac_ are sometimes written as 3-_yallac_ and 7-_iyac_, suggesting that those two are pronounced _teri-_ and _siptam-_. Scholars have made guesses at the others, but they're approximate at best—some people think 1 was _anzac_, for example, while others say _ciac_.
+
+## Bonus: Larger numbers
+
+_This section is entirely optional. Feel free to [skip ahead](#exercise-8) if you're not interested in mathematics. It's mostly adapted from Hoffner's classic article "On higher numbers in Hittite"._
+
+In Babylonian cuneiform, you could use the place value system for numbers as large or as small as you want—the "1" sign could also mean 1/60 or 1/3600, extending the place value system to the right just like we do with our modern decimal point. But the Hittite scribes had no need for this kind of fancy mathematics, and their own number words were based on tens, not sixties. So they adopted separate logograms for "hundred", "thousand", "ten thousand", and "hundred thousand"^[I'm simplifying somewhat here: we don't actually see the single sign _LIM_ used for "thousand" on any Hittite tablet. Instead, they spelled out the [Akkadogram](#akkadograms) _LI-IM_. But the progression is clear enough, we have very few attestations of numbers this large, and the _LIM_ sign is frequently used for that pronunciation in other Akkadograms, so I don't think this it's unreasonable to extrapolate that _LIM_ on its own could also be used this way. Similarly, the GACAN+TI sign for "hundred thousand" is reconstructed only, but we can reasonably speculate that it was originally a single sign for the reasons given below.].
+
+:::{.figure}
+[ME *LIM* SIG₇ GACAN+TI]{.signs}  
+Signs for 100, 1,000, 10,000, and 100,000.
+:::
+
+[ME]{.signs} is short for _meat_, the Sumerian word for "hundred". [*LIM*]{.signs} is a straightforward combination of 10 and 100, which took on the reading _LIM_ in Akkadian; _līmu_ is the Akkadian word for "clan" or "tribe", and the title for "leader of a clan" was repurposed to mean specifically "commander of a thousand soldiers". The fact that it looks the same as [CI]{.signs} (the syllable _ci_ or a logogam for "eye") is sheer coincidence.
+
+[SIG₇]{.signs}, then, is [*LIM*]{.signs} with some extra strokes added; in Akkadian, this is called a _gunû_ sign, from the Sumerian for "decorated". It's once again coincidence that it looks the same as the logogram SIG~7~ "yellow-green". But we don't know how this one was pronounced in Sumerian, Akkadian, _or_ Hittite^[Though phonetic complements suggest the Hittite word ended with an _-a_!], so SIG~7~ is as good a name as we're going to get.
+
+There's no sign for 100,000 in Akkadian or Sumerian. It's just not a number that ever comes up in everyday life; for advanced mathematics, the Babylonians could use their place-value system, and to express a vague big number^[Like how an English-speaker might say "it feels like a million degrees out".], they'd use 3,600 (that is, 60 times 60—it's not a coincidence that this is the number of seconds in an hour!). But there's exactly one Hittite text where this number is expressed, and it was **probably** expressed with the sign [GACAN+TI]{.signs}—that is, SIG~7~ with even more extra strokes.
+
+I say "probably" because this text was composed in the Old Hittite period, but the only version that survives is a later copy, and the later scribe clearly didn't recognize this sign. He replaced it with the sequence [GACAN-*TI*]{.signs}. The logogram GACAN means "lady", and the Akkadian word for "lady" is _bēlti_, so the scribe presumably read this as a logogram with an Akkadian phonetic complement. But in context, the word "lady" makes no sense whatsoever.
+
+The relevant line reads^[Well, almost. I modified the Akkadogram _LI-IM_ to _LIM_ here for simplicity; Akkadograms are covered in a later lesson. The same goes for the other texts in this section, which similarly used _LI-IM_ in the original.] [9-an _LIM_ 9-an SIG₇-an 9-an GACAN+TI MU.HI.A-uc]{.signs}: "nine thousands, nine ten-thousands, nine hundred-thousands years [may the gods grant to the king and queen]." So this seems to be how the Hittites wrote out larger numbers: a single digit (1 through 9) followed by a logogram for the order of magnitude. These signs don't seem to be used alone; for something like "one hundred" they write [1 ME]{.signs} instead of just [ME]{.signs}. And they aren't always written from smallest to largest; we also have lines like [1 SIG₇ 5 *LIM* 5 ME NAM.RA.MEC]{.signs} "one ten-thousand, five thousand, five hundred captives".
+
+These numbers are extremely rare; generally, if a Hittite scribe wanted to express a vague big number, they'd use "1,000" (for example, the Hittite pantheon is known as [1 *LIM* DIŊIR.MEC]{.signs}, "The Thousand Gods"), and there's very little other need for numbers higher than 99. As a result, these signs aren't given numerical names in the standard sign lists. But I've tentatively assigned them the names "100", "1000", "10000", and "100000", for easier reading. Thus, we can transcribe the line above as "9-_an_ 1000 9-_an_ 10000-_an_ 9-_an_ 100000 MU.HI.A-_uc_", without having to resort to the logogram names for "yellow-green" and "lady".
+
+As a final note on this topic, the number "1,000" seems to have had special importance to the Hattic people who predated the Hittites. The Hattic word for "thousand" is written as [fa-ar]{.signs} (remember [the _fa_ sign](#f-and-v)?), and it appears in the Hattic word for "pantheon", [ta-fa-ar-wa-ac-ha-ap]{.signs}. It may also be in the middle of the Old Hittite royal title _Ta**bar**na_, which could have meant something like "the ruler of a thousand" (that is, "everyone").
 
 ## Exercise 8
 
@@ -674,7 +703,9 @@ The solution was to add a _determiner_^[The linguistics term is _semagrams_, "me
 
 These determiners proved useful enough that they started being used with Akkadian and Hittite words, too. They can be a useful clue to what a word means, and there are various Hittite words whose meanings are _only_ known through their determiners: we aren't sure what exactly an _urāc_ is, but it's written with the determiner [DUG]{.signs} (for "vessels"), so it must be some kind of vessel.
 
-Some of the most common determiners are listed here, but a lot of logograms can be used as determiners in certain circumstances. It's not always clear if a sign should be read as a logogram or a determiner^[This is especially a problem when there are multiple determiners on a word. The Hittite empire was known as [KUR-URU-ha-at-ti]{.signs}, for example, "the land of the city of Hatti"; did the Hittites actually pronounce the word for "land" there, or "city", or both, or neither?]: perhaps [LÚ.ŊIDRU]{.signs} should actually be read as LÚ.ŊIDRU "person of the staff" instead of ^LÚ^UGULA "overseer (who is a person)", with [LÚ]{.signs} being part of the logogram. The difference isn't especially important: either way, the Hittites pronounced it something like _maniyahhatallac_^[We know the verb for "manage, oversee" was _maniyah-_, so it was probably some derivative of that.], and wrote it with the signs [LÚ-UGULA]{.signs}.
+Some of the most common determiners are listed here, but a lot of logograms can be used as determiners in certain circumstances. It's not always clear if a sign should be read as a logogram or a determiner^[This is especially a problem when there are multiple determiners on a word. The Hittite empire was known as [KUR-URU-ha-at-ti]{.signs}, for example, "the land of the city of Hatti"; did the Hittites actually pronounce a word for "land" there, or "city", or both, or neither?]: perhaps [LÚ.ŊIDRU]{.signs} should actually be read as LÚ.ŊIDRU "person of the staff" instead of ^LÚ^UGULA "overseer (who is a person)", with [LÚ]{.signs} being part of the logogram. The difference isn't especially important: either way, the Hittites pronounced it something like _maniyahhatallac_^[We know the verb for "manage, oversee" was _maniyah-_, so it was probably some derivative of that, even if we're not sure of the particulars.], and wrote it with the signs [LÚ-UGULA]{.signs}.
+
+## Common determiners
 
 +-----------------+---------------+---------------+------------------+
 | People          | Places        | Materials     | Other            |
@@ -698,11 +729,11 @@ Some of the most common determiners are listed here, but a lot of logograms can 
 
 Most determiners come before the word, but the ones with a dash in front of them come after: [ha-ra-an^MUCEN]{.signs} "eagle".
 
-The [DIC]{.signs} determiner can be abbreviated to _1_ or _m_ in transliteration, the [MUNUS]{.signs} determiner to _f_, and the [DIŊIR]{.signs} determiner to _d_; these three specifically can be used in front of proper names, to indicate what sort of person they're talking about, so it's useful to abbreviate them as short as possible. In some eras, [m]{.signs} and [f]{.signs} were used for male and female names respectively, so they're transliterated as _m_ and _f_; in other eras, [1]{.signs} was used for names of any gender, and then the transliteration _1_ is better^[The former convention (_m_ for men, _f_ for women) is more common in Hittite, but we find both used. In Akkadian, we sometimes even find _1_ for men and _1-f_ for women.]. Some older publications even transliterate it as _I_—that is, the Roman numeral for 1—but having _I_ mean [1]{.signs} and _i_ mean [i]{.signs} seems unnecessarily perverse. I highly recommend using _1_ instead (ideally in a font that makes them easy to tell apart).
+The [DIC]{.signs} determiner can be abbreviated to _1_ or _m_ in transliteration, the [MUNUS]{.signs} determiner to _f_, and the [DIŊIR]{.signs} determiner to _d_; these three specifically can be used in front of proper names, to indicate what sort of person they're talking about, so it's useful to abbreviate them as short as possible. In some eras, [m]{.signs} and [f]{.signs} were used for male and female names respectively, so they're transliterated as _m_ and _f_; in other eras, [1]{.signs} was used for names of any gender, and then the transliteration _1_ is better^[The former convention (_m_ for men, _f_ for women) is more common in Hittite, but we find both used. In Akkadian, we sometimes even find _1_ for men and _1-f_ for women. The _1_ transcription, of course, comes from it being the logogram for the number one.]. Some older publications even transliterate it as _I_—that is, the Roman numeral for 1—but having _I_ mean [1]{.signs} and _i_ mean [i]{.signs} seems unnecessarily perverse. I highly recommend using _1_ instead (ideally in a font that makes them easy to tell apart).
 
-In Hittite, [LÚ]{.signs} was used for male professions ("types of men"), and [MUNUS]{.signs} for female professions ("types of women"). (Hittite society was not especially egalitarian, and there were practically no professions that didn't have gender associations.) In Akkadian, on the other hand, [LÚ]{.signs} is used for any sort of profession ("types of person"). When adapting modern, less-gendered words, I tend to use [1]{.signs} for any personal name and [LÚ]{.signs} for any type of person.
+In Hittite, [LÚ]{.signs} was used for male professions ("types of men"), and [MUNUS]{.signs} for female professions ("types of women"). (Hittite society was not especially egalitarian, and there were practically no professions that didn't have gender associations.) In Akkadian, on the other hand, [LÚ]{.signs} is used for any sort of profession ("types of person"). When writing modern, less-inherently-gendered words, I recommend using [1]{.signs} for any personal name and [LÚ]{.signs} for any type of person.
 
-Since [d]{.signs} indicated that something was a divine name, that divine name could be cut pretty short. For example, [UTU]{.signs} can be used as a logogram for "sun" or "day", so [d^UTU]{.signs} can stand for the name of any sun god. But given that the Hittites did everything they could to adopt foreign deities into their pantheon, this creates a lot of ambiguity for modern scholars: we know the Hittites worshipped at least three different sun gods, but it's hard to even make a guess at their names^[At the very least, there's "the Sun Goddess of the City of Arinna", "the Sun God of Heaven", and "the Sun Goddess of the Earth", who probably included some combination of Hittite Ictanuc, Hattic Wuruncemuc, Arinnitic ("of Arinna"), Mesopotamian Camac, Indo-European Tiwaz, and Hurrian Cimige, but there's a lot of disagreement on which name should be associated with which title.]! This is why English translations tend to refer to "the Sun God" and "the Storm God" rather than using specific names—that's literally what the cuneiform signs say. We are perhaps fortunate that the Hittites didn't go as far as the Mesopotamians did in referring to the gods by their holy numbers.
+Since [d]{.signs} indicated that something was a divine name, that divine name could be cut pretty short. For example, [UTU]{.signs} can be used as a logogram for "sun" or "day", so [d^UTU]{.signs} can stand for the name of any sun god. But given that the Hittites did everything they could to adopt foreign deities into their pantheon, this creates a lot of ambiguity for modern scholars: we know the Hittites worshipped at least three different sun gods, but it's hard to even make a guess at their names^[At the very least, there's "the Sun Goddess of the City of Arinna", "the Sun God of Heaven", and "the Sun Goddess of the Earth", who probably included some combination of Arinniti ("of Arinna"), Hittite Ictanu, Hattic Furunsemu, Mesopotamian Shamash, Indo-European Tiwaz, and Hurrian Simige, but there's a lot of disagreement on which name should be associated with which title.]! This is why English translations tend to refer to "the Sun God" and "the Storm God" rather than using specific names—that's literally what the cuneiform signs say. We are perhaps fortunate that the Hittites didn't go as far as the Mesopotamians did in referring to the gods by their holy numbers.
 
 ## Exercise 9
 
@@ -753,7 +784,7 @@ The signs used for these sounds are given below.
 | Ṣ |              | [ṣi]{.signs} |              |
 +---+--------------+--------------+--------------+
 
-Note that Akkadian only had four vowels, and only distinguished three of those reliably.
+Note that Akkadian only had four vowels^[It also had three different levels of vowel length: _a_ is **never** written plene, _ā_ is **sometimes** written plene, and _â_ is **usually** written plene. For Hittite purposes, this doesn't matter, but don't be surprised if you see a circumflex on an Akkadian vowel.], and only distinguished three of those reliably.
 
 _Ṣi_ is used for _zé_ in Hittite words. This is a Hittite innovation: in Akkadian, [ṣi]{.signs} is used specifically for _ṣ_ and [zi]{.signs} specifically for _z_, but the Hittite scribes couldn't hear the difference, and repurposed [zé]{.signs} to make the vowels less ambiguous instead.
 
@@ -765,31 +796,31 @@ Where there are blanks in this table, the Hittites didn't adopt _any_ special si
 
 ## Akkadian prepositions
 
-Most Akkadograms were, fundamentally, used to show off. An average scribe could write _ciuc_ "god" with a logogram [DIŊIR]{.signs}, or with a logogram plus phonetic complement [DIŊIR-ac]{.signs}. But an especially educated scribe could instead write an _Akkadian_ phonetic complement, [DIŊIR-*LUM*]{.signs}, demonstrating that they know the _Akkadian_ word for "god" is _ilum_.
+Most Akkadograms were, fundamentally, used to show off. An average scribe could write _ciuc_ "god" with a logogram [DIŊIR]{.signs}, or with a logogram plus phonetic complement [DIŊIR-ac]{.signs}. But an especially educated scribe could instead write an _Akkadian_ phonetic complement, [DIŊIR-*LUM*]{.signs}, demonstrating that they know the _Akkadian_ word for "god" is _ilum_^[Or an Akkadian _and_ a Hittite complement for good measure, DIŊIR-_LUM-ac_.].
 
 But there were a few genuinely useful Akkadograms. Hittite had an elaborate case marking system, where nouns take different endings to show their role in the sentence. Akkadian didn't^[It had a case system, but a very limited one.]—instead, it used prepositions for that.
 
 So these prepositions could be used with logograms, in place of the Hittite case endings! Since Hittite used spaces around words, this gave them a better way of separating logograms from the surrounding text, making them easier to read. As a general rule, phonetic signs in Hittite almost never stand alone[^The main exception is the "sentence connectives", but even they usually have other signs attached. This may be another reason to use plene spellings!]. So while [DIŊIR-ni]{.signs} could be read as either _anni_ or DIŊIR-_ni_, [DIŊIR]{.signs} alone has to be DIŊIR.
 
-(Of course, some scribes then added Akkadian phonetic complements to the logograms, taking away this advantage again. But then at least you get to show off.)
+(Of course, some scribes then added Akkadian phonetic complements to the logograms, taking away this advantage again. But then at least you get to show off your knowledge.)
 
-+-----------------+---------+
-| Akkadian        | English |
-+:===============:+:=======:+
-| [ca]{.signs}    | of      |
-+-----------------+---------+
-| [a-na]{.signs}  | to      |
-+-----------------+---------+
-| [i-na]{.signs}  | at      |
-+-----------------+---------+
-| [pa-ni]{.signs} | before  |
-+-----------------+---------+
-| [ic-tu]{.signs} | from    |
-+-----------------+---------+
-| [it-ti]{.signs} | with    |
-+-----------------+---------+
-| [qa-du]{.signs} | with    |
-+-----------------+---------+
++-------------------+---------+
+| Akkadian          | English |
++:=================:+:=======:+
+| [_CA_]{.signs}    | of      |
++-------------------+---------+
+| [_A-NA_]{.signs}  | to      |
++-------------------+---------+
+| [_I-NA_]{.signs}  | at      |
++-------------------+---------+
+| [_PA-NI_]{.signs} | before  |
++-------------------+---------+
+| [_IC-TU_]{.signs} | from    |
++-------------------+---------+
+| [_IT-TI_]{.signs} | with    |
++-------------------+---------+
+| [_QA-DU_]{.signs} | with    |
++-------------------+---------+
 
 ## Akkadian possessives
 
@@ -797,48 +828,46 @@ In Old Hittite, there were special _possessives_ that could be attached to the e
 
 In later eras of Hittite, though, these possessives are almost never spelled out^[It's not clear if these possessives were still used at all. They're only written out in fossilized phrases, without all the fancy inflection they had in Old Hittite. But the Akkadian possessives must have stood for _something_.]. In their place, the possessives from Akkadian are used instead! Just like the Hittite ones, these attach to the end of a word or phrase, and indicate who it belongs to.
 
-+-----------------------------+-----------+
-| Akkadian                    | English   |
-+:===========================:+:=========:+
-| [ya]{.signs} / [i]{.signs}  | my        |
-+-----------------------------+-----------+
-| [ka]{.signs}                | your      |
-+-----------------------------+-----------+
-| [cu]{.signs} / [sú]{.signs} | his       |
-+-----------------------------+-----------+
-| [ca]{.signs}                | her       |
-+-----------------------------+-----------+
-| [ni]{.signs}                | our       |
-+-----------------------------+-----------+
-| [ku-nu]{.signs}             | your (pl) |
-+-----------------------------+-----------+
-| [cu-nu]{.signs}             | their (m) |
-+-----------------------------+-----------+
-| [ci-na]{.signs}             | their (f) |
-+-----------------------------+-----------+
++---------------------------------+-----------+
+| Akkadian                        | English   |
++:===============================:+:=========:+
+| [_YA_]{.signs} / [_I_]{.signs}  | my        |
++---------------------------------+-----------+
+| [_KA_]{.signs}                  | your      |
++---------------------------------+-----------+
+| [_CU_]{.signs} / [_SÚ_]{.signs} | his       |
++---------------------------------+-----------+
+| [_CA_]{.signs} / [_SÁ_]{.signs} | her       |
++---------------------------------+-----------+
+| [_NI_]{.signs}                  | our       |
++---------------------------------+-----------+
+| [_KU-NU_]{.signs}               | your (pl) |
++---------------------------------+-----------+
+| [_CU-NU_]{.signs}               | their     |
++---------------------------------+-----------+
 
-In Akkadian, there are specific rules for how these should be used. _=ya_ is used after vowels and _=i_ after consonants, for example, _=ka_ is only used when the "you" is male, _su_ (**not** _zu_!) takes the place of _cu_ after certain consonants, and so on.
+In Akkadian, there are specific rules for how these should be used. _=ya_ is used after vowels and _=i_ after consonants, for example, _=ka_ is only used when the "you" is male, _su/sa_ takes the place of _cu/ca_ after certain consonants^[Specifically, if the Akkadian word (not the Sumerian or Hittite word) ends with _t_, _d_, or _ṭ_, then _c_ is replaced with _s_. For example, the Akkadian equivalent to É is _bīt_, so "his house" is É=_SU_, not É=_CU_. Proper Akkadian scribes would also change the final consonant to an _s_ when this happened (_bīs=su_), which suggests that at one point, _c_ was a fricative and _s_ was an affricate: _t_ /t/ + _c_ /s/ makes _ss_ /ts/.], and so on.
 
-But Hittite scribes weren't very consistent about these things. Most of them didn't speak Akkadian very well (if at all), so they broke these rules all the time. So for Hittite purposes, there's no need to bother with the details. Just recognize these signs when you come across them.
+But Hittite scribes weren't very consistent about these things. Many of them didn't speak Akkadian very well, so they broke these rules all the time. So for Hittite purposes, there's no need to bother with the details. Just recognize these signs when you come across them.
 
 ## Akkadian conjunctions
 
 There are two other especially common Akkadograms that deserve special mention.
 
-The sign [*Ù*]{.signs}, read as _Ù_, is used to mean "and". This is an odd one, because it functions more like a Sumerogram! Akkadograms are normally spelled out phonetically, but "and" is specifically _Ù_, not _U_ or _Ú_^[This situation probably arose because in Akkadian, "and" is _u_, while "or" is _ū_. Akkadian scribes didn't usually indicate long vowels, which was a problem here, so they created a logogram to tell them apart. The Hittites then borrowed the logogram for "and", but wrote "or" with their native word _nacma_ to avoid ambiguity.]. We only call it an Akkadogram because we know its pronunciation from Akkadian, not from Sumerian.
+The sign [*Ù*]{.signs}, read as _Ù_, is used to mean "and". This is an odd one, because it functions more like a Sumerogram! Akkadograms are normally spelled out phonetically, but "and" is specifically _Ù_, not _U_ or _Ú_^[This situation probably arose because in Akkadian, "and" is _u_, while "or" is _ū_. Akkadian scribes didn't usually indicate long vowels, which was a problem here, so they created a logogram to tell them apart. The Hittites then borrowed the logogram for "and", but wrote "or" with their native word _nacma_ to avoid that ambiguity.]. We only call it an Akkadogram because we know its pronunciation from Akkadian, not from Sumerian.
 
-The Akkadogram [_Ú-UL_]{.signs} (_ŪL_) is used to mean "not"^[_ŪL_ is used to negate facts; the native Hittite word _lē_ "don't" is used to negate requests and commands.]. We know the Hittite word for this is _natta_, because it's spelled out in the oldest texts, but in later eras _ŪL_ was used exclusively. This one's so common it's important to be able to recognize it.
+The Akkadogram [_Ú-UL_]{.signs} (_ŪL_) is used to mean "not"^[_ŪL_ is used to negate facts; the native Hittite word _lē_ "don't" is used to negate requests and commands.]. We know the Hittite word for this is _natta_, because it's spelled out in the oldest texts, but in later eras _ŪL_ was used exclusively. This one's so common that it's important to be able to recognize it.
 
 ## Exercise 10
 
 Transcribe the following cuneiform, making note of any Sumerograms and Akkadograms.
 
-After defeating the serpent, Inarac builds a special home to keep Hopaciyac in, and forbids him to ever look out the window when he's not there. Because if he looks out the window:
+After defeating the serpent, Inara builds a special home to keep Hopaciya in, and forbids him to ever look out the window when he's not there. Because if he looks out the window:
 
 [nu-wa-za DAM=*KA* DUMU.MEC=*KA* a-ut-ti]{.signs}  
 "You will see your wife and your children."
 
-There are two different interpretations of this passage. One is that he would see his mortal wife and children, who he abandoned for the affections of a goddess, and get homesick. The other is that he would see the true form of his divine wife, Inarac, and it would ruin him^[Compare the Greek myth of Zeus and Semele.].
+There are two different interpretations of this passage. One is that he would see his mortal wife and children, who he abandoned for the affections of a goddess, and get homesick. The other is that he would see the true form of his divine wife, Inara, and it would ruin him^[Compare the Greek myth of Zeus and Semele.].
 
 [ma-a-an UD.20.KAM pa-it]{.signs}
 When twenty days had passed,
@@ -851,29 +880,29 @@ Now, write the following sentence in cuneiform. Use Sumerograms and Akkadograms 
 _nu_ \[his wife\] \[his children\] _austa._  
 He saw his wife and his children.
 
-When Inarac comes back to the house, he begs her to let him go. The tablet is broken after that, so whatever comes next is lost to history. It's possible she lets him go back to his mortal life; it's also possible that she kills him. Sleeping with deities seldom ends well in Bronze Age mythology.
+When Inara comes back to the house, he begs her to let him go. The tablet is badly damaged after that, so whatever comes next is lost to history. It's possible she lets him go back to his mortal life; it's also possible that she kills him. Sleeping with deities seldom ends well in Bronze Age mythology.
 
 # Final test
 
-If you're ready to test your cuneiform skills, here's the complete myth of Illuyankac. Most of it is presented in the original cuneiform, but a couple sentences are given in transcription, for you to write out in cuneiform yourself.
+If you're ready to test your cuneiform skills, here's the complete myth of Illuyankac—or at least, as complete as it gets. There are still a few breaks and gaps, but this is better than most Hittite texts, since we've been able to piece it together from multiple copies. Most of it is presented in the original cuneiform^[Albeit with obvious scribal errors corrected.], but a couple sentences are given in transcription, for you to write out in cuneiform yourself.
 
 The lines across the page are written on the actual tablet, separating out sections. A double line presumably indicates an especially important section break.
 
 ## Signs you'll need
 
-[SAŊŊA]{.signs} (SAŊŊA) = _cankunnic_, "high priest". This Sumerian word was actually borrowed into Akkadian as _cangû_ and then into Hittite.
+[SAŊŊA]{.signs} (SAŊŊA or SANGA) = _cankunnic_, "high priest". This Sumerian word was actually borrowed into Akkadian as _cangû_ and then into Hittite.
 
-[*UM-MA*]{.signs} (_UMMA_) = _kiccan_, "thus".
+[*UM-MA*]{.signs} (_UMMA_) = _kiccan_, "thus". This Akkadogram is used to introduce a quotation, and appears at the top of most letters in Akkadian ("tell X that Y speaks **thus**:").
 
-[MUC]{.signs} (MUC) = determinative for snakes. This is only ever used with Illuyankac, whose name is probably also the Hittite word for "snake"; presumably, using _d_ or _1_ just didn't feel right.
+[MUC]{.signs} (MUC) = determinative for snakes. This is only ever used with Illuyankac, whose name is probably also the Hittite word for "snake"; presumably, using _d_ or _m_ just didn't feel right for the great serpent himself.
 
-[EZEN₄]{.signs} (EZEN~4~)^[The transliteration I have mentions the sign EZEN instead, but the standard dictionaries say EZEN was never used in Hittite, with EZEN~4~ taking its place.] = "festival", or a determinative for festivals. We don't know the Hittite word for this one.
+[EZEN₄]{.signs} (EZEN~4~)^[Both editions of this text that I've seen list the sign EZEN instead, but the standard sign dictionary for Hittite has no entry for EZEN, with EZEN~4~ taking its place. From that dictionary: "Instead of EZEN, the Boghazköy texts always contain EZEN×CE, which […] is here given the reading EZEN~4~." I'm assuming the dictionary has it right and the sign here is actually EZEN~4~, with the four hooks inside it, rather than EZEN, without. But I need to find a good autograph to make sure.] = "festival", or a determinative for festivals. We don't know the Hittite word for this one.
 
-[ICKUR]{.signs} (ICKUR) = "the storm-god". This logogram is read as IM when it means "wind", but ICKUR when it's used as a divine name. The Hittites had plenty of different storm-gods, but the one in this story is Tarhonz.
+[ICKUR]{.signs} (ICKUR) = "the storm god". This logogram has the reading IM when it means "wind", but ICKUR (the name of the Sumerian storm god) when it's used as a divine name. The Hittites had plenty of different storm gods, but the one in this story is Tarhont, whose name literally means "The Mighty One". A lot of cultures have stories about a storm god triumphing over a giant snake, which might go back to a common source.
 
-[10]{.signs} (10) = the number ten, which was connected to the Akkadian storm-god Adad. The Akkadians liked assigning numbers to their gods, and could use them in place of the gods' names: 15 for Ishtar, goddess of love and war, 30 for Sîn, god of the moon and so on. The Hittites thankfully didn't do this very often, but they did occasionally refer to their various storm gods as [d^10]{.signs} as well as [d^ICKUR]{.signs}.
+[10]{.signs} (10 or U) = the number ten, which was sacred to the Akkadian storm god Adad. The Akkadians liked assigning numbers to their gods, and could use them in place of the gods' names: 15 for Ishtar, goddess of love and war, 30 for Sîn, god of the moon, and so on. The Hittites thankfully didn't do this very often, but they did occasionally refer to their various storm gods as [d^10]{.signs} as well as [d^ICKUR]{.signs}.
 
-[LÚ.U₁₉.LU]{.signs} (LÚ.U~19~.LU)^[The transliteration I have gives the middle sign as ÙLU instead, but I haven't found any record of that sign being used in Hittite in the dictionaries, so I'm assuming it's a mistake.] = _antuhcac_ or _antuwahhac_, "human". Even though they correspond to the same Hittite word, this logogram was used instead of LÚ to emphasize the meaning "human" or "mortal" rather than just "man".
+[LÚ.U₁₉.LU]{.signs} (LÚ.U~19~.LU)^[The standard edition of this text gives the middle sign as ULÙ instead, but I haven't found any record of that sign being used in Hittite in the dictionaries.] = _antuhcac_ or _antuwahhac_, "human". Even though they correspond to the same Hittite word, this logogram was used instead of LÚ to emphasize the meaning "human" or "mortal" rather than just "man". The logogram [UN]{.signs} was also used for this word; it's not clear why all these different logograms were used, or if there was some subtlety in the Hittite that we haven't picked up on.
 
 ## Preface
 
@@ -888,14 +917,14 @@ When they^[The priests, maybe?] speak thus,
 
 -----
 
-[ut-né-wa ma-a-ú ce-ec-du]{.signs}  
-"Let the land blossom, let it rest,
+[ut-ne-wa ma-a-ú ce-ec-du]{.signs}  
+"Let the land blossom, let it thrive,
 
-[nu-wa ut-né-e pa-ah-ca-nu-wa-an e-ec-du]{.signs}  
+[nu-wa ut-ne-e pa-ah-ca-nu-wa-an e-ec-du]{.signs}  
 "Let the land be protected,"
 
 _Nu mān māi ceczi_  
-When it blossoms and rests,
+When it blossoms and thrives,
 
 _Nu purulliyas iyanzi._  
 Then they do the _Purulli_-festival.  
@@ -906,24 +935,24 @@ _**Note:** Remember the determinative! What sort of thing is the Purulli?_
 ## The Storm-God's defeat
 
 [ma-a-an d^ICKUR-ac MUC^il-lu-ya-an-ka-ac-ca]{.signs}  
-When Tarhonz and Illuyankac
+When Tarhont and Illuyanka
 
 [_I-NA_ URU^ki-ic-ki-lu-uc-ca ar-ha ti-i-e-er]{.signs}  
-stayed at the city of Kickiluccac,
+stayed at the city of Kickilucca,
 
 [nu-za MUC^il-lu-ya-an-ka-ac d^ICKUR-an tar-ah-ta]{.signs}  
-Illuyankac defeated Tarhonz.
+Illuyanka defeated Tarhont.
 
 -----
 
-_Tarhontas=ta=ac=ca ciunac hōmanduc mūgait._  
-All the gods mourned Tarhonz.  
-_**Note:** Write "Tarhontas" and "ciunac" with Sumerograms and phonetic complements. You can add an Akkadogram if you want to be extra classy._
+_Tarhontac=ta=ac=ca ciunac hōmanduc mūgait._  
+All the gods mourned Tarhont.  
+_**Note:** Write "Tarhontas" and "ciunac" with Sumerograms and phonetic complements here. You can add an Akkadogram if you want to be extra classy._
 
-(A break in the tablet interrupts the story here.)
+(A break in the tablet interrupts the story here. Presumably Tarhont asked his daughter Inara, goddess of wild animals, to help him.)
 
-[nu-za d^i-na-ra-aš EZEN₄-an i-e-et]{.signs}  
-The goddess Inarac^[Tarhonz's daughter, the goddess of wild animals.] did the festival.
+[nu-za d^i-na-ra-ac EZEN₄-an i-e-et]{.signs}  
+The goddess Inara made the feast.
 
 -----
 
@@ -941,29 +970,29 @@ _**Note:** What determinative should "palhac" take?_
 
 -----
 
-## Inarac recruits Hopaciyac
+## Inara recruits Hopaciya
 
 [nu d^i-na-ra-ac _I-NA_ URU^zi-ig-ga-ra-at-ta pa-it]{.signs}  
-Inarac went to^[It would probably be better Akkadian to say _ANA_ "to" rather than _INA_ "at" here, but this scribe was not an expert at Akkadian.] the city of Ziggarattac.
+Inara went to^[It would probably be better Akkadian to say _ANA_ "to" rather than _INA_ "at" here, but Hittite scribes usually were not experts at Akkadian.] the city of Ziggaratta.
 
 [nu m^hu-o-pa-ci-ya-an LÚ.U₁₉.LU ú-e-mi-it]{.signs}  
-She met the mortal Hopaciyac.
+She met the mortal Hopaciya.
 
 -----
 
 [_UM-MA_ d^i-na-ar m^hu-o-pa-ci-ya]{.signs}  
-Inarac^[Some editions give ^1^_Inar_ instead of ^d^_Inar_. This may be a scribal error.] (spoke) thus to Hopaciyac:
+Inara^[One edition gives ^1^_Inar_ instead of ^d^_Inar_. This has to be either a scribal error or an editorial error.] (spoke) thus to Hopaciya:
 
 [ka-a-ca-wa ki-i-ya ki-i-ya ut-tar i-ya-mi]{.signs}  
 "Look! I'm going to do something.
 
 [nu-wa-mu-uc-ca-an zi-iq-qa har-ap-hu-ut]{.signs}  
-"You^[The word _zikka_ "you" here is written _zi-iq-qa_; in [a later section](#hopaciyac-s-fate) it's written _zi-ig-ga_. The Hittites used these signs basically interchangeably; it might be more accurate to transliterate them as _zi-ik-ka~4~_ and _zi-ik-kà_ to show this, but _qa_ and _ga_ are both easier to type and easier to recognize at a glance. (Remember that _ik_, _ig_, and _iq_ are all the same sign.)] should join me!"
+"You^[The word _zikka_ "you" here is written _zi-iq-qa_; in [a later section](#hopaciya-s-fate) it's written _zi-ig-ga_. The Hittites used these signs basically interchangeably; it might be more accurate to transliterate them as _zi-ik-ka~4~_ and _zi-ik-kà_ to show this, but _qa_ and _ga_ are both easier to type and easier to recognize at a glance. (Remember that _ik_, _ig_, and _iq_ are all the same sign.)] should join me!"
 
 -----
 
 [_UM-MA_ m^hu-o-pa-ci-ya _A-NA_ d^i-na-ar]{.signs}  
-Hopaciyac (spoke) thus to Inarac^[Again we see ^1^_Inar_ in some editions.]:
+Hopaciya (spoke) thus to Inara^[Again we see ^1^_Inar_ in one edition.]:
 
 [ma-a-wa kat-ti-ti ce-ec-mi nu-wa ú-wa-mi]{.signs}
 "If I can sleep with you, I will come.
@@ -979,16 +1008,16 @@ So she slept^[The euphemism is exactly the same in the Hittite as in the English
 ## The trap is laid
 
 [nu d^i-na-ra-ac m^ḫu-o-pa-ci-ya-an É-ri pé-e-hu-te-et]{.signs}  
-Inarac took Hopaciyac to (her) home.
+Inara took Hopaciya to (her) home.
 
-_N=an munnāit; Inaraccaz unuttat._  
-She concealed him, and he disguised himself as Inarac^[Or "Inarac dressed herself up". In that case, Inarac would be the one doing the luring in the next sentence.].
+_N=an mūnnāit; Inaraccaz unuttat._  
+She concealed him, and he disguised himself as Inara^[Or "Inara dressed herself up". In that case, Inara would be the one doing the luring in the next sentence.].
 
 _N=acta Illuyankan hattecnaz carā kallicta:_  
-He lured Illuyankac out of his hole, (saying):
+He lured Illuyanka out of his hole^[One tablet has _hantecnaz_, another has _hattecnaz_. We're not sure which is the proper Hittite word for "hole", since it doesn't come up very often.], (saying):
 
 [ka-a-ca-wa-za EZEN₄-an i-ya-mi]{.signs}  
-"Look! I'm going to celebrate a festival!
+"Look! I'm making a feast!
 
 [nu-wa a-da-an-na a-ku-wa-an-na e-hu]{.signs}  
 "Come eat and drink!"
@@ -996,7 +1025,7 @@ He lured Illuyankac out of his hole, (saying):
 -----
 
 [na-ac-ta MUC^il-lu-i-ya-an-ka-ac _QA-DU_ DUMU.MEC-*CU* ca-ra-a ú-e-er]{.signs}  
-Illuyankac emerged, along with his sons.
+Illuyanka emerged, along with his sons.
 
 [nu-za e-te-er e-ku-er]{.signs}  
 They ate and drank.
@@ -1013,36 +1042,37 @@ _N=e namma hattecnac kattanda nōman pānzi;_
 Until they couldn't go back down into (their) hole,
 
 _Hōpaciyac=ca uit._  
-And Hopaciyac came.
+And Hopaciya came.
 
 _Nu Illuyankan ichimanta kalēliēt._  
-He tied Illuyankac up with a rope.
+He tied Illuyanka up with a rope.
 
 -----
 
 [d^ICKUR-ac ú-it]{.signs}  
-Tarhonz came,
+Tarhont came,
 
-[nu-kán MUC^il-lu-i-ya-an-ka-an ku-en-ta]{.signs}  
-And he killed Illuyankac,
+[nu-kán MUC^il-lu-ya-an-ka-an ku-en-ta]{.signs}  
+And he killed Illuyanka,
 
 [DIŊIR.MEC-ca kat-ti-ic-ci e-ec-er]{.signs}  
-And the gods were with him.
+And the (other) gods were with him.
 
 -----
 
-## Hopaciyac's fate
+## Hopaciya's fate
 
 [nu-za-an d^i-na-ra-ac NA₄^pé-ru-ni ce-er É-ir ú-e-te-et]{.signs}  
-Inarac built a house on a rock.
+Inara built a house on a rock
 
-(Another break in the tablet interrupts the story.)
+[_I-NA_ KUR URU^ta-a-ru-uk-ki]{.signs}  
+in the land of Tarukka^[Literally, "the land (KUR) of the city (URU) Tarukka", like how the Hittite empire is "the land of the city Hattuca".].
 
-[nu m^ḫu-o-pa-ci-ya-an an-da-an É-ri a-ca-ac-ta]{.signs}  
-She settled Hopaciyac in the house.
+[nu m^hu-o-pa-ci-ya-an an-da-an É-ri a-ca-ac-ta]{.signs}  
+She settled Hopaciya in the house.
 
 _N=an Inarac watarnahhickizzi:_  
-Inarac kept commanding him:
+Inara kept commanding him:
 
 [ma-a-wa gi-im-ra pa-i-mi]{.signs}  
 "When I go to the country,
@@ -1055,7 +1085,7 @@ _**Note:** Which word here means "window"? How can you tell?_
 "Because if you look out,
 
 [nu-wa-za DAM-*KA* DUMU.MEC-*KA* a-ut-ti]{.signs}  
-"You will see your wife^[As mentioned [above](#exercise-10), this might mean that he'd see his human family that he abandoned for Inarac, or might mean that he'd see his divine wife Inarac in her true form.] and children."
+"You will see your wife^[As mentioned [above](#exercise-10), this might mean that he'd see his human family that he abandoned for Inara, or might mean that he'd see his divine wife Inara in her true form.] and children."
 
 -----
 
@@ -1071,7 +1101,7 @@ And saw his^[There's an error here in the original tablet: the scribe wrote _KA_
 -----
 
 [ma-a-an d^i-na-ra-ac-ca gi-im-ra-az EŊIR-pa ú-it]{.signs}  
-When Inarac came back from the country,
+When Inara came back from the country,
 
 [a-pa-ac-ca ú-e-ec-ga-o-an da-a-ic]{.signs}  
 He started to cry,
@@ -1081,18 +1111,18 @@ He started to cry,
 
 ## The end?
 
-The tablet is broken at this point, so we don't know what happened to Hopaciyac after that. The next 20-some lines are badly damaged and don't offer much clarity, then the next 40-some lines are missing entirely. After this, the very bottom of the tablet gives a very different version of the story.
+The tablet is broken at this point, so we don't know what happened to Hopaciya after that. The next 20-some lines are badly damaged and don't offer much clarity—something about the city of Kickilucca and the mountain-god Zaliyanu—then the next 40-some lines are missing entirely. After this, the very bottom of the tablet gives a very different version of the story.
 
-Much less of this second version survives. In the missing section, it seems that Illuyankac defeats Tarhunz and steals his heart and his eyes. The surviving part starts with Tarhunz marrying "the daughter of a pauper" and begetting a mortal son, who marries the daughter of Illuyankac. He asks for the eyes and heart as a dowry and restores them to Tarhunz, who can then go out into the ocean for a rematch with Illuyankac. Illuyankac hoped that his son-in-law would protect him, but the unnamed human tells Tarhunz to strike them both down, and Tarhunz does.
+Much less of this second version survives. In the missing section, it seems that Illuyanka defeats Tarhont and steals his heart and his eyes. The surviving part starts with Tarhont marrying "the daughter of a pauper" and begetting a mortal son, who marries the daughter of Illuyanka. He asks for the eyes and heart as a dowry and restores them to Tarhont, who can then go out into the ocean for a rematch with Illuyanka. Illuyanka hoped that his son-in-law would protect him, but the unnamed human tells Tarhont to strike them both down, and Tarhont does.
 
-The tablet ends with the line:
+That tablet ends with the line:
 
 [nu ka-a-ac a-pa-a-ac d^ICKUR-ac MUC^il-lu-ya-an-ka-ac-ca me-mi-ac]{.signs}  
-That is the story of Tarhunz and Illuyankac.
+That is the story of Tarhont and Illuyanka.
 
 # Exercise answers
 
-Here are the solutions to all of the exercises from this document.
+Here are the solutions to all of the exercises on this page.
 
 ## 1
 
@@ -1155,11 +1185,11 @@ These are usually translated as "a _kappi_-vessel", "the _lakkarwan_-plant", and
 - _apāc=a_ ^ŊIC^_luttan arha cuwaīt_
 - [nu DAM=*CU* DUMU.MEC=*CU* a-us-ta]{.signs}
 
-You can also use _SU_ instead of _CU_ for the possessive, or add an _Ù_ in between, if you like. If you look at [the actual text of this section](#hopaciyac-s-fate), you'll find the scribe actually messed this up, writing DAM=*KA* "your wife" instead of DAM=*CU* "his wife"!
+You can also use _SU_ instead of _CU_ for the possessive^[Strictly speaking this one should be _SU_, since the Akkadian word for "wife" is _accat_, which ends with _t_. But there's no way to know this without knowing Akkadian, so using _CU_ instead is far from unrealistic for a Hittite scribe!], or add an _Ù_ in between, if you like. If you look at [the actual text of this section](#hopaciya-s-fate), you'll find the scribe actually messed this up, writing DAM=*KA* "your wife" instead of DAM=*SU* "his wife"!
 
 ## Final
 
-As before, don't worry about the equals signs. You can't know where to place them without a good understanding of the Hittite language. For the parts where you were asked to write in cuneiform, you might have used CVC signs where the original tablet didn't, or vice versa, and that's perfectly fine; my goal here was to transcribe exactly what was on the original, even if there were other valid ways to write it.
+As before, don't worry about the equals signs. You can't know where to place them without a good understanding of the Hittite language. For the parts where you were asked to write in cuneiform, you might have used CVC signs where the original tablet didn't, or vice versa, and that's perfectly fine; what I'm transcribing here is exactly what was on the original, but there will often be other valid ways to write it.
 
 ### Preface
 
@@ -1174,15 +1204,15 @@ As before, don't worry about the equals signs. You can't know where to place the
 ### The Storm-God's defeat
 
 - _mān_ ^d^ICKUR-_ac_ ^MUC^_Illuyankac=ca_
-- _INA_ ^URU^_Kickilucca arha tīēr_
+- _INA_ ^URU^_Kickilucca arha tīēr_^[The original tablet actually says _arga_ instead of _arha_. One edition considers this a mistake for _arha tīēr_; another suggests that it's a mistake for a new verb _argatīēr_. Either way, _arga_ on its own isn't a known Hittite word.]
 - _nu=za_ ^MUC^_Illuyankac_ ^d^ICKUR-_an tarahta_
-- [d^ICKUR-ac-ta-ac-ca DIŊIR.MEC hu-o-ma-an-du-uc mu-ú-ga-it]{.signs}
-- _nu=za_ ^d^_Inarac_ ^EZEN~4~^-_an iēt_
+- [d^ICKUR-ac-ta-ac-ca DIŊIR.MEC-na-ac hu-o-ma-an-du-uc mu-ú-ga-it]{.signs}
+- _nu=za_ ^d^_Inarac_ EZEN~4~-_an iēt_
 - _nu hōman mekki handait_
 - GECTIN-_ac_ ^DUG^_palhi marnuwandac_ ^DUG^_palhi walhiyac_ ^DUG^_palhi_
 - [nu DUG^pa-al-ha-ac an-da-an i-ya-da i-e-et]{.signs}
 
-### Inarac recruits Hopaciyac
+### Inara recruits Hopaciya
 
 - _nu_ ^d^_Inarac INA_ ^URU^_Ziggaratta pait_
 - _nu_ ^m^_Hōpaciyan_ LÚ.U~19~.LU _wemit_
@@ -1197,7 +1227,7 @@ As before, don't worry about the equals signs. You can't know where to place the
 ### The trap is laid
 
 - _nu_ ^d^_Inarac_ ^m^_Hōpaciyan_ É-_ri pēhutet_
-- [na-an mu-un-na-a-it d-i-na-ra-ac-ca-az u-nu-ut-ta-at]{.signs}
+- [na-an mu-ú-un-na-a-it d-i-na-ra-ac-ca-az u-nu-ut-ta-at]{.signs}
 - [na-ac-ta MUC-il-lu-ya-an-ka-an ha-at-te-ec-na-az ca-ra-a kal-li-ic-ta]{.signs}
 - _kāca=wa=za_ EZEN~4~-_an iyami_
 - _nu=wa adanna akuwanna ehu_
@@ -1207,14 +1237,15 @@ As before, don't worry about the equals signs. You can't know where to place the
 - _n=e=za ninkēr_
 - [ne na-am-ma ha-at-te-ec-na-ac kat-ta-an-da nu-o-ma-an pa-a-an-zi]{.signs}
 - [m^hu-o-pa-ci-ya-ac-ca ú-it]{.signs}
-- [nu MUC^il-lu-i-ya-an-ka-an ic-hi-ma-an-ta ka-le-e-li-e-et]{.signs}
+- [nu MUC^il-lu-i-ya-an-ka-an ic-hi-ma-an-ta ka-le-e-li-e-et]{.signs}^[An extra plene spelling could be used here to show that this is _kaleliet_ rather than _kalelet_, but the scribe didn't do that.]
 - ^d^ICKUR-_ac uit_
 - _nu=kan_ ^MUC^_Illuyankan kuenta_
 - DIŊIR.MEC-_ca katticci ēcer_
 
-### Hopaciyac's fate
+### Hopaciya's fate
 
 - _nu=za=an_ ^d^_Inarac_ ^NA~4~^_peruni cer_ É-_ir wetet_
+- _INA_ KUR ^URU^Tārukki^[Whether KUR, URU, both, or neither should be interpreted as logograms vs determinatives is an open question.]
 - _nu_ ^m^_Hōpaciyan andan_ É-_ri acacta_
 - [na-an d^i-na-ra-ac wa-tar-na-ah-hi-ic-ki-iz-zi]{.signs}
 - _mā=wa gimr paimi_
