@@ -427,7 +427,17 @@ This is something the Hittite scribes were very consistent about. The only excep
 
 ## Exercise 5
 
-TODO
+Write the following words in cuneiform.
+
+- _harcan_ "head"
+- _icpanza_ "night"
+- _sanhti_ "you search"
+
+Write the following words in bound transcription.
+
+- [ha-al-ki-ic]{.signs} "grain"
+- [an-tu-uh-ca-ac]{.signs} "person"
+- [wa-al-ah-zi]{.signs} "she strikes"
 
 # Lesson 6: The last few signs
 
@@ -563,7 +573,11 @@ Apart from these, I'm not aware of any word in Hittite that's exclusively writte
 
 ## Exercise 7
 
-TODO
+Write the following words in two different ways each.
+
+- _marri_ "very"
+- _kiccan_ "thus"
+- _aggātar_ "death, ruin"
 
 # Lesson 8: Logograms
 
@@ -621,7 +635,7 @@ For many of these we know the Hittite pronunciations. The Hittite word for "god"
 
 This system hits a snag when it comes to inflection. In Hittite, words are modified in various ways to indicate their role in a sentence: the word for "person" is _antuwahhac_ if it's the subject of the sentence, _antuwahhan_ if it's the object, _antuwahhi_ if it's the recipient, _antuwahhec_ if there's more than one person, and so on. When you write the Sumerogram [LÚ]{.signs}, how do you know which of these it means?
 
-To some extent, they could work around this problem with more logograms. Sumerian didn't usually mark if nouns were singular or plural, but the word [MEC]{.signs} meant "they're", so it was only used with plural nouns. So, Hittite scribes borrowed it as a plural marker, using [LÚ]{.signs} to mean "person" and [LÚ.MEC]{.signs} to mean "people". Originally there was a convention to use [MEC]{.signs} ("they're") for people and [HI.A]{.signs} ("mixed") for objects, but over time, both of these were applied freely to all sorts of nouns. In transliteration, multiple signs making up a single logogram are separated by dots, so this would be transliterated as LÚ.MEC or LÚ.HI.A.
+To some extent, they could work around this problem with more logograms. Sumerian didn't usually mark if nouns were singular or plural^[Though they'd sometimes repeat a logogram, so we occasionally see [KUR.KUR]{.signs} for "lands" and such in Hittite texts.], but the word [MEC]{.signs} meant "they're", so it was only used with plural nouns. So, Hittite scribes borrowed it as a plural marker, using [LÚ]{.signs} to mean "person" and [LÚ.MEC]{.signs} to mean "people". Originally there was a convention to use [MEC]{.signs} ("they're") for people and [HI.A]{.signs} ("mixed") for objects, but over time, both of these were applied freely to all sorts of nouns. In transliteration, multiple signs making up a single logogram are separated by dots, so this would be transliterated as LÚ.MEC or LÚ.HI.A.
 
 Unfortunately, Sumerian didn't have any convenient words that could be repurposed for "subject of a sentence" and so on. The easiest solution, then, was to write the last sign or two of the Hittite word after the logogram—_antuwahhac_ is [LÚ-ac]{.signs}, _antuwahhan_ is [LÚ-an]{.signs}, and _antuwahhi_ is [LÚ-hi]{.signs}.
 
@@ -693,7 +707,18 @@ As a final note on this topic, the number "1,000" seems to have had special impo
 
 ## Exercise 8
 
-TODO
+Here are five Hittite words, written both phonetically and logographically, but in scrambled order. Transcribe the pronunciation of each word, and say what it means.
+
+- [KUR.KUR-e]{.signs}
+- [ci-uc]{.signs}
+- [pi-ir]{.signs}
+- [DIŊIR-uc]{.signs}
+- [wi₅-ya-an-ac]{.signs}
+- [ci-wa-at-ta]{.signs}
+- [É-ir]{.signs}
+- [ut-ne]{.signs}
+- [GECTIN-ac]{.signs}
+- [UD.3.KAM-at-ta]{.signs}
 
 # Lesson 9: Determiners
 
@@ -1152,6 +1177,13 @@ Nothing to be checked.
 
 ## 5
 
+- [ha-ar-ca-an]{.signs}
+- [ic-pa-an-za]{.signs}
+- [sa-an-ah-ti]{.signs}
+- _halkic_
+- _antuhcac_
+- _walhzi_
+
 ## 6
 
 - _kiccan Hōpaciyac Inari_
@@ -1163,7 +1195,20 @@ Don't worry about the equals signs. There's no way to know where to put them wit
 
 ## 7
 
+- [ma-ar-ri]{.signs}
+- [mar-ri]{.signs}
+- [ki-ic-ca-an]{.signs}
+- [kic-ca-an]{.signs}
+- [ag-ga-a-ta-ar]{.signs}
+- [ag-ga-a-tar]{.signs}
+
 ## 8
+
+- _pir_ or _per_ "house"
+- _ciuc_ "god"
+- _ciwatta_ "days"
+- _utne_ "lands"
+- _wiyanac_ "wine"
 
 ## 9
 
@@ -1248,7 +1293,7 @@ As before, don't worry about the equals signs. You can't know where to place the
 - _INA_ KUR ^URU^Tārukki^[Whether KUR, URU, both, or neither should be interpreted as logograms vs determinatives is an open question.]
 - _nu_ ^m^_Hōpaciyan andan_ É-_ri acacta_
 - [na-an d^i-na-ra-ac wa-tar-na-ah-hi-ic-ki-iz-zi]{.signs}
-- _mā=wa gimr paimi_
+- _mā=wa gimra paimi_
 - _zigga=war=acta_ ^ŊIC^_luttanza arha lē autti_
 - _mā=war=acta arha=ma autti_
 - _nu=wa=za_ DAM=_KA_ DUMU.MEC=_KA autti_
