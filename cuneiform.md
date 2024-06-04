@@ -411,7 +411,7 @@ This system works great for Akkadian, which never allows more than one consonant
 
 The usual solution is to use additional VC signs! To write the syllable _hark-_, we use one CV sign for the consonant at the start, and two VC signs for the consonants at the end, [ha-ar-ak]{.signs}. The _a_ vowel of the third sign is considered an _empty_ vowel: there's no actual vowel there in the Hittite word, it's just required by the constraints of the writing system.
 
-Sometimes Hittite scribes would repeat the previous vowel in these VC signs, sometimes they'd use the vowel _a_ regardless of what came before, and sometimes they'd use CV signs instead, like [ha-ra-ak]{.signs}. Since this problem never came up in Akkadian, there was no standard precedent to follow, and individual scribes (or maybe scribal schools?) came up with their own solutions. But I recommend always using the VC signs for this instead of the CV ones: if you write _hark_ as [ha-ra-ak]{.signs}, how will you write _harak_?
+Sometimes Hittite scribes would repeat the previous vowel in these VC signs, sometimes they'd use the vowel _a_ regardless of what came before, and sometimes they'd use CV signs instead, like [ha-ra-ak]{.signs}. For example, _linkta_ "she swore an oath" can be _li-in-ik-ta_, _li-in-ak-ta_, or _li-in-ka-ta_^[As far as I know, the first of these is the only one attested for this particular form, but we see all of them across various verbs and forms. That's the problem with having relatively little text to work from!]. Since this problem never came up in Akkadian, there was no standard precedent to follow, and individual scribes (or maybe scribal schools?) came up with their own solutions. But whichever you choose, I recommend always using the VC signs for this instead of the CV ones: if you write _hark_ as [ha-ra-ak]{.signs}, how will you write _harak_?
 
 ## CV/VC ambiguity
 
@@ -436,8 +436,8 @@ Write the following words in cuneiform.
 Write the following words in bound transcription.
 
 - [ha-al-ki-ic]{.signs} "grain"
-- [an-tu-uh-ca-ac]{.signs} "person"
-- [wa-al-ah-zi]{.signs} "she strikes"
+- [ec-ha-ar]{.signs} "blood"
+- [ka-ar-ap-zi]{.signs} "she lifts"
 
 # Lesson 6: The last few signs
 
@@ -447,7 +447,7 @@ This set of signs is _almost_ sufficient to represent every syllable in Hittite.
 
 For _y_, there's a special sign _ya_, which is just _i_ and _a_ smashed together: [ya]{.signs}. There are no signs for _y_ in any other combination—that is, no signs for _ye_, _yu_, _ay_, and so on. _Yi_ and _iy_ probably weren't possible at all.
 
-This is partially because these combinations were much rarer than _ya_. But when they did have to write a word like _yugan_ "yoke", they would use the _i_ sign: [i-ú-ga-an]{.signs}. Even in the case of _ya_, it was occasionally written with an extra _i_ for good measure.
+This is partially because these combinations were much rarer than _ya_. But when they did have to write a word like _yugan_ "yoke", they would use the _i_ sign: [i-ú-ga-an]{.signs}. Even in the case of _ya_, it was occasionally written with an extra _i_ for good measure: the serpent Illuyanka, who you've seen in some of the examples, is alternately called [il-lu-ya-an-ka]{.signs} and [il-lu-i-ya-an-ka]{.signs}. As a result, some scholars question whether there was a difference between _y_ and _iy_ at all.
 
 +---+--------------+
 |   | A            |
@@ -461,9 +461,9 @@ _W_ is rare to nonexistent in Akkadian, depending on the dialect, but even more 
 
 Some older dialects of Akkadian have a sign for _wa_, [wa]{.signs}. This sign is better-known as _pi_, which is how the later, _w_-less dialects of Akkadian used it; this is the reason why Hittite only uses _pí_ for that syllable. (Remember, the sign names have to be unambiguous across _all_ languages that use cuneiform, not just Hittite!)
 
-In addition, the Hittites repurposed the [logogram](#logograms) ŊEŠTIN [ŊEŠTIN]{.signs}, which means "wine". Their word for "wine" was _wiyanac_, so they used this sign for the syllable _wi_, giving it the reading _wi~5~_.
+In addition, the Hittites repurposed the [logogram](#logograms) ŊECTIN [ŊECTIN]{.signs}, which means "wine". Their word for "wine" was _wiyanac_, so they used this sign for the syllable _wi_, giving it the reading _wi~5~_.
 
-For _w_ in front of any other vowel, they'd use the sign _ú_ (or less often _o_). The word _welluc_ "meadow", for example, would be written [ú-el-lu-uc]{.signs}. _Wu_ and _wo_ might not have been possible at all. Since _wi~5~_ took a while to catch on, you'll also not infrequently find [ú-i]{.signs} for _wi_.
+For _w_ in front of any other vowel, they'd use the sign _ú_ (or less often _o_). The word _welluc_ "meadow", for example, would be written [ú-el-lu-uc]{.signs}. _Wu_ and _wo_ might not have been possible at all. Since _wi~5~_ took a while to catch on, you'll also not infrequently find [ú-i]{.signs} for _wi_. Just like with _iy_, we sometimes see _uw_, and there may not be any difference between that and normal _w_.
 
 +---+--------------+---------------+
 |   | A            | I             |
@@ -527,7 +527,7 @@ _"Kardiac=tac iyami."_
 _N=ac katti=ci cecta._  
 So she slept with him.
 
-I've modified the cuneiform for these examples slightly, to avoid using any signs from later lessons^[For example, there really should be some [determiners](#determiners).], but the Hittite text is the same. You'll find the full, unadulterated Hittite text in [the final test](#final-test).
+I've modified the cuneiform for these examples slightly, to avoid using any signs from later lessons^[For example, there really should be some [determiners](#determiners).], but the Hittite words are the same. You'll find the full, unadulterated Hittite text in [the final test](#final-test).
 
 # Lesson 7: CVC signs
 
@@ -537,8 +537,10 @@ If there was a unique sign for every CVC combination in the language, that would
 
 :::{.smaller}
 +-----+-----------------------------------------------------------------------------------------------+
-| H   | [hal hap har hac hat hul hup hur]{.signs}                                                     |
+| CVC Signs                                                                                           |
 +:===:+:==============================================================================================+
+| H   | [hal hap har hac hat hul hup hur]{.signs}                                                     |
++-----+-----------------------------------------------------------------------------------------------+
 | G/K | [gal kal kam kán kap kar kac kat gaz kip kir kic kit₉ kul gul kum kur gur]{.signs}            |
 +-----+-----------------------------------------------------------------------------------------------+
 | L   | [lal lam lik lic luh lum]{.signs}                                                             |
@@ -597,9 +599,9 @@ Since we don't always know how these logograms were pronounced in Hittite, we tr
 
 Since logograms are transliterated with their Sumerian names, we do need to know a little bit about Sumerian phonetics. For the most part, we see exactly the same consonants in Sumerian as in Hittite, which isn't a coincidence: since the cuneiform writing system was originally designed for Sumerian, the Sumerian inventory was the raw material the Hittite scribes had to work with^[The story is actually a bit more complicated than that: additional signs were adapted for the _q_, _ṭ_, _ṣ_, and _ʔ_ sounds of Akkadian, for example, which the Hittites could have used. But overall, they didn't.].
 
-But Sumerian also had at least three more sounds that Hittite lacked. First and foremost, it had an _s_ sound distinct from _c_. While Hittite never had separate signs _si_ and _ci_, Sumerian very much did—and both of those signs are used as logograms in Hittite! Since SI [SI]{.signs} "horn" and CI [CI]{.signs} "eye" are different signs, we need to keep their transliterations distinct, and _this_ is why we've been using _c_ in all our Hittite transcriptions all this time. Having SI refer to [SI]{.signs} but _si_ refer to [ci]{.signs} would just be too confusing. It's fine to use the letter "s" when talking about the Hittite language in general, or Hittite names and words in a non-cuneiform context, but if you're doing anything with cuneiform transcriptions, it's vitally important to keep your _c_ (or _š_) separate from your _s_.
+But Sumerian also had at least three more sounds that Hittite lacked. First and foremost, it had an _s_ sound distinct from _c_. While Hittite never had separate signs _si_ and _ci_, Sumerian very much did—and both of those signs are used as logograms in Hittite! Since SI [SI]{.signs} "horn" and CI [CI]{.signs} "eye" are different signs, we need to keep their transliterations distinct, and _this_ is why we've been using _c_ in our Hittite transcriptions all this time. Having SI refer to [SI]{.signs} but _si_ refer to [ci]{.signs} would just be too confusing. It's fine to use the letter "s" when talking about the Hittite language in general, or Hittite names and words in a non-cuneiform context, but if you're doing anything with cuneiform transcriptions, it's vitally important to keep your _c_ (or _š_) separate from your _s_.
 
-The second sound is the "ng" at the end of the English word "sing", and is transcribed as _ŋ_ (a cross between "n" and "g") in these lessons. For ease of typing, you can also represent it as _j_, which looks vaguely similar and wasn't being used for anything else; you'll also find it written as _ĝ_ in some dictionaries. Unlike in English, this sound can appear at the beginning or middle of a word as well as the end: ŊIC [ŊIC]{.signs} "wood", DIŊIR [DIŊIR]{.signs} "god", SAŊ [SAŊ]{.signs} "head".
+The second sound is the "ng" at the end of the English word "sing", and is transcribed as _ŋ_ (a cross between "n" and "g") in these lessons. For ease of typing, you can also represent it as _j_, which looks vaguely similar and wasn't being used for anything else; you'll also find it written as _ĝ_ or _g̃_ in some dictionaries. Unlike in English, this sound can appear at the beginning or middle of a word as well as the end: ŊIC [ŊIC]{.signs} "wood", DIŊIR [DIŊIR]{.signs} "god", SAŊ [SAŊ]{.signs} "head".
 
 However, most of our knowledge of these Sumerian pronunciations comes from bilingual dictionaries written by Akkadian-speaking scribes. And just like how Hittite-speaking scribes struggled to tell the difference between _t_ and _d_, Akkadian-speaking scribes struggled with the distinction between _ŋ_ and _g_, writing it as _ng_ between vowels and _g_ anywhere else. As a result, you'll usually find those signs written as GIC, DINGIR, and SAG instead, unless the author is really interested in accurate Sumerian pronunciation^[Which, well, I am.]. For Hittite purposes, it's not a problem to spell them that way instead.
 
@@ -915,7 +917,7 @@ The lines across the page are written on the actual tablet, separating out secti
 
 ## Signs you'll need
 
-[SAŊŊA]{.signs} (SAŊŊA or SANGA) = _cankunnic_, "high priest". This Sumerian word was actually borrowed into Akkadian as _cangû_ and then into Hittite.
+[SAŊŊA]{.signs} (SAŊŊA or SANGA) = _cankunnic_, "high priest"^[The only place this sign appears in this passage is actually damaged on all the surviving tablets, so it could have been a different logogram for a different kind of priest instead; different editions fill in different logograms there. But SAŊŊA is a convenient one to teach, so I'm going with that.]. This Sumerian word was actually borrowed into Akkadian as _cangû_ and then into Hittite.
 
 [*UM-MA*]{.signs} (_UMMA_) = _kiccan_, "thus". This Akkadogram is used to introduce a quotation, and appears at the top of most letters in Akkadian ("tell X that Y speaks **thus**:").
 
@@ -923,7 +925,7 @@ The lines across the page are written on the actual tablet, separating out secti
 
 [EZEN₄]{.signs} (EZEN~4~)^[Both editions of this text that I've seen list the sign EZEN instead, but the standard sign dictionary for Hittite has no entry for EZEN, with EZEN~4~ taking its place. From that dictionary: "Instead of EZEN, the Boghazköy texts always contain EZEN×CE, which […] is here given the reading EZEN~4~." I'm assuming the dictionary has it right and the sign here is actually EZEN~4~, with the four hooks inside it, rather than EZEN, without. But I need to find a good autograph to make sure.] = "festival", or a determinative for festivals. We don't know the Hittite word for this one.
 
-[ICKUR]{.signs} (ICKUR) = "the storm god". This logogram has the reading IM when it means "wind", but ICKUR (the name of the Sumerian storm god) when it's used as a divine name. The Hittites had plenty of different storm gods, but the one in this story is Tarhont, whose name literally means "The Mighty One". A lot of cultures have stories about a storm god triumphing over a giant snake, which might go back to a common source.
+[ICKUR]{.signs} (ICKUR) = "the storm god". This logogram has the reading IM when it means "wind", but ICKUR (the name of the Sumerian storm god) when it's used as a divine name. The Hittites had plenty of different storm gods, but the one in this story is Tarhont, whose name literally means "The Mighty One". A lot of different cultures have stories about a storm god triumphing over a giant snake, which may go back to a common source.
 
 [10]{.signs} (10 or U) = the number ten, which was sacred to the Akkadian storm god Adad. The Akkadians liked assigning numbers to their gods, and could use them in place of the gods' names: 15 for Ishtar, goddess of love and war, 30 for Sîn, god of the moon, and so on. The Hittites thankfully didn't do this very often, but they did occasionally refer to their various storm gods as [d^10]{.signs} as well as [d^ICKUR]{.signs}.
 

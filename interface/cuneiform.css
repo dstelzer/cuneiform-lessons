@@ -1,0 +1,70 @@
+.sign{
+	font-size: 2.5em;
+	position: relative;
+	display: inline-grid;
+}
+
+.sign .glyph{
+	grid-area: 1 / 1;
+	visibility: visible;
+}
+
+.sign .read{
+	grid-area: 1 / 1;
+	display: none;
+	font-size: 0.75em;
+}
+
+.sign:hover .glyph{
+	visibility: hidden;
+}
+
+.sign:hover .read{
+	display: block;
+}
+
+.bound{
+	display: none;
+}
+
+.translit{
+	display: inline;
+}
+
+.showbound .bound{
+	display: inline;
+}
+
+.showbound .translit{
+	display: none;
+}
+
+@font-face{
+	font-family: CuneiInk;
+	src: url(ArmannisNew.ttf);
+}
+@font-face{
+	font-family: CuneiPublished;
+	src: url(MittellinienNew.ttf);
+}
+@font-face{
+	font-family: CuneiHandwrite;
+	src: url(PenstrokeNew.ttf);
+}
+@font-face{
+	font-family: CuneiLinear;
+	src: url(LinearNew.ttf);
+}
+
+.font-ink .glyph{
+	font-family: CuneiInk;
+}
+.font-publish .glyph{
+	font-family: CuneiPublished;
+}
+.font-write .glyph{
+	font-family: CuneiHandwrite;
+}
+.font-linear .glyph{
+	font-family: CuneiLinear;
+}

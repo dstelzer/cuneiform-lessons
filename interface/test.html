@@ -1,0 +1,28 @@
+<html>
+	<head>
+		<title>Cuneiform Rendering Test</title>
+		<script language="javascript" src="hzl.js"></script>
+		<script language="javascript" src="signbreak.js"></script>
+		<script language="javascript" src="cuneiform.js"></script>
+		<link rel="stylesheet" href="cuneiform.css" />
+	</head>
+	<body>
+		<p>
+		<span class="sign">
+			<span class="glyph">𒀸</span>
+			<span class="read">aš</span>
+		</span>
+		<span class="sign">
+			<span class="glyph">𒁁</span>
+			<span class="read">pat</span>
+		</span>
+		<span class="sign">
+			<span class="glyph">𒅆</span>
+			<span class="read">ši</span>
+		</span>
+		</p>
+		
+		<p id="example">nu NINDA-an ēzzatteni, wātar=ma ekuteni.</p>
+		<input type="button" value="Test" onclick="process_element(document.getElementById('example'));" />
+	</body>
+</html>
