@@ -40,6 +40,24 @@ body {
 	body {
 		margin-left: 22em;
 	}
+	#settings {
+		position: fixed;
+		width: 100%;
+		left: 22em;
+		max-width: 46em;
+		border-left: 1px solid black;
+		border-right: 1px solid black;
+		top: 0;
+		z-index: 10;
+		background-color: #ffeeaa;
+		text-align: center;
+	}
+}
+
+.footer {
+	font-size: 85%;
+	text-align: center;
+	font-style: italic;
 }
 
 .smaller {

@@ -34,7 +34,7 @@ function make_cleanup_regexes(){ // Take the sign_cleanup dictionary and turn it
 	}
 }
 
-const WORD = /((?:(?:\p{Letter}|\p{Number})+[\-\.=\^])*(?:\p{Letter}|\p{Number})+)/gu; // A **letter** is \p{Letter}|\p{Number}. A **separator** is [-.=^]. A **word** is (letter+ separator)* letter+. We put ?: inside all parens except the outermost to avoid problems with capturing groups.
+const WORD = /((?:(?:\p{Letter}|\p{Number}|\+)+[\-\.=\^])*(?:\p{Letter}|\p{Number}|\+)+)/gu; // A **letter** is \p{Letter}|\p{Number}|\+. A **separator** is [-.=^]. A **word** is (letter+ separator)* letter+. We put ?: inside all parens except the outermost to avoid problems with capturing groups.
 const SEPARATOR = /[\-\.=\^]/gu;
 
 // Create the element representing a sign: a "sign" span containing a "glyph" span (Unicode) and a "read" span (reading)
@@ -148,8 +148,10 @@ function process_element(element, include_bound=true){
 // Do this to every line on the page
 function process_all(){
 	let hittite = document.getElementsByClassName("hittite");
-	hittite.forEach(node => process_element(node, true));
+	for(let node of hittite) process_element(node, true);
 	
 	let signs = document.getElementsByClassName("signs");
-	signs.forEach(node => process_element(node, false));
+	for(let node of signs) process_element(node, false);
 }
+
+document.addEventListener("DOMContentLoaded", process_all, false); // Run that when the whole page is ready

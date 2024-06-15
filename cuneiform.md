@@ -126,7 +126,7 @@ Hittite cuneiform is specifically designed to write Hittite, so it can be useful
 
 ## Consonants
 
-Hittite cuneiform represents fifteen different consonants: _p b t d k g m n l r c z h y w_^[It also very marginally represents a _q_ consonant, but this wasn't distinguished in any way, shape, or form from _k_ and _g_.]. However, not all of these were actually distinguished in pronunciation! The signs _ta_ and _da_, for example, are used pretty much interchangeably; choosing one over the other doesn't seem to indicate any difference in pronunciation. Even when writing in Akkadian, a language that _did_ distinguish _t_ from _d_, the Hittite scribes mix them up constantly, suggesting they couldn't hear a difference between them. The same goes for _p_ and _b_, and _k_ and _g_. (In other words, the Hittite language had no voicing distinction.)
+Hittite cuneiform represents fifteen different consonants: _p b t d k g m n l r c z h y w_^[It also very marginally represents a _q_ consonant, but this wasn't distinguished in any way from _k_ and _g_.]. However, not all of these were actually distinguished in pronunciation! The signs _ta_ and _da_, for example, are used pretty much interchangeably; choosing one over the other doesn't seem to indicate any difference in pronunciation. Even when writing in Akkadian, a language that _did_ distinguish _t_ from _d_, the Hittite scribes mix them up constantly, suggesting they couldn't hear a difference between them. The same goes for _p_ and _b_, and _k_ and _g_. (In other words, the Hittite language had no voicing distinction.)
 
 Instead, they distinguish _single_ from _double_ consonants: while there's no distinction between _t_ and _d_, there **is** a distinction between _t_ and _tt_. This holds true for almost all of the consonants^[It seems that _z_ was always "double" and _y_ and _w_ always "single".]: _apa-_ "that" is a different word from _appa_ "back".
 
@@ -431,7 +431,7 @@ Write the following words in cuneiform.
 
 - _harcan_ "head"
 - _icpanza_ "night"
-- _sanhti_ "you search"
+- _canhti_ "you search"
 
 Write the following words in bound transcription.
 
@@ -477,15 +477,15 @@ For _w_ in front of any other vowel, they'd use the sign _ú_ (or less often _o_
 
 Well, the prevailing view is that it just didn't happen in Hittite. There are a lot of words that start with the combinations _icp-_, _ict-_, and _ick-_, always written with an _i_ rather than any other vowel, which suggests that Hittite did something similar to Spanish: if there were multiple consonants at the start of a word, add a vowel in front to break them up. (That's why we see Spanish _**e**scuela_ from Latin _schola_ "school", _**e**spada_ from Latin _spatha_ "sword", and so on.)
 
-However, there are a few times when these words are written with _ci-_ instead of _ic-_: the word _icpanti_ "she sacrifices" is usually [ic-pa-an-ti]{.signs}, but is sometimes [ci-pa-an-ti] instead. Some scholars take this as evidence that there wasn't really an _i_ there at all, and the word should really be read as _cpanti_^[If this is the case, though, it's not clear why they'd consistently use an _iC_ sign, because multiple consonants at the end of a syllable generally use _aC_ or repeat the vowel.].
+However, there are a few times when these words are written with _ci-_ instead of _ic-_: the word _icpanti_ "she sacrifices" is usually [ic-pa-an-ti]{.signs}, but is sometimes [ci-pa-an-ti]{.signs} instead. Some scholars take this as evidence that there wasn't really an _i_ there at all, and the word should really be read as _cpanti_^[If this is the case, though, it's not clear why they'd consistently use an _iC_ sign, because multiple consonants at the end of a syllable generally use _aC_ or repeat the vowel.].
 
 When writing names with multiple consonants at the beginning, I recommend inserting an _i_ at the beginning; it's likely that the ancient Hittites would pronounce an extra vowel at the start of "Steven" just like modern Spanish-speakers do. If your name really _does_ start with a sequence like _isk-_, you can use a [plene spelling](#plene-spellings) to make it clear.
 
 ## A brief example
 
-Using these signs, we can write even more Hittite and non-Hittite names. For example, Wiluca [wi₅-lu-ca]{.signs} was a city-state in ancient Anatolia. One king of Wiluca, Alakcandu [a-la-ak-ca-an-du]{.signs}, made a treaty with the Hittite emperor Murcili II [mu-ur-ci-li]{.signs}, invoking the patron god of the city, Āppaliona [a-ap-pa-li-o-na]{.signs}. In the treaty, Murcili claimed that Wiluca and the Hittites had been on good terms for centuries. Later in his reign, though, Murcili needed to reassert control over Wiluca by force—the exact circumstances aren't clear, but one theory is that Alakcandu was overthrown by a faction more sympathetic to the foreign state of Āhhiyawa [a-ah-hi-ya-wa].
+Using these signs, we can write even more Hittite and non-Hittite names. For example, Wiluca [wi₅-lu-ca]{.signs} was a city-state in ancient Anatolia. One king of Wiluca, Alakcandu [a-la-ak-ca-an-du]{.signs}, made a treaty with the Hittite emperor Murcili II [mu-ur-ci-li]{.signs}, invoking the patron god of the city, Āppaliona [a-ap-pa-li-o-na]{.signs}. In the treaty, Murcili claimed that Wiluca and the Hittites had been on good terms for centuries. Later in his reign, though, Murcili needed to reassert control over Wiluca by force—the exact circumstances aren't clear, but one theory is that Alakcandu was overthrown by a faction more sympathetic to the foreign state of Āhhiyawa [a-ah-hi-ya-wa]{.signs}.
 
-It's hard to be sure from the very fragmentary documents we have, but it's possible that we're seeing here a contemporary account of the Trojan War! Wiluca could be Wilion (another Greek name for Troy, hence the "**Ili**ad"), Ahhiyawa could have been the Achaeans (that is, the Mycenaean Greeks), Alakcandu could have been Alexander of Troy (better known as Paris), and Āppaliona could have been Apollo, the divine defender of the Trojans.
+It's hard to be sure from the very fragmentary documents we have, but it's possible that we're seeing here a contemporary account of the Trojan War! Wiluca could be Wilion (another Greek name for Troy, hence the "**Ili**ad"), Āhhiyawa could have been the Achaeans (that is, the Mycenaean Greeks), Alakcandu could have been Alexander of Troy (better known as Paris), and Āppaliona could have been Apollo, the divine defender of the Trojans.
 
 If you look for these names online, you'll more often see them transcribed as Wilusa, Alaksandu, Mursili, Appaliuna, and Ahhiyawa. In other words, _c_ is usually transcribed as _s_. This conveys the pronunciation better when talking about the Hittite language, but it's very important to write _c_ (or the fancier _š_) instead of _s_ when you're talking about cuneiform, [for reasons you'll see in a later lesson](#logograms). Just remember to change it to an _s_ when you're searching.
 
@@ -896,7 +896,7 @@ After defeating the serpent, Inara builds a special home to keep Hopaciya in, an
 
 There are two different interpretations of this passage. One is that he would see his mortal wife and children, who he abandoned for the affections of a goddess, and get homesick. The other is that he would see the true form of his divine wife, Inara, and it would ruin him^[Compare the Greek myth of Zeus and Semele.].
 
-[ma-a-an UD.20.KAM pa-it]{.signs}
+[ma-a-an UD.20.KAM pa-it]{.signs}  
 When twenty days had passed,
 
 [a-pa-a-ca ŊIC^lu-ut-ta-an ar-ha cu-wa-i-it]{.signs}  
@@ -990,7 +990,7 @@ She prepared lots of everything.
 The container of wine, the container of _marnuwand_, the container of _walhi_,
 
 _Nu palhac andan iyada iēt._  
-She put a lot in all of the containers.
+She put a lot in all of the containers.  
 _**Note:** What determinative should "palhac" take?_
 
 -----
@@ -1123,7 +1123,8 @@ When twenty days passed,
 He threw the window open
 
 [nu DAM-*SÚ* DUMU.MEC-*CU* a-uc-ta]{.signs}  
-And saw his^[There's an error here in the original tablet: the scribe wrote _KA_ instead of _SÚ_.] wife and children.
+And saw his wife and children.  
+**Note:** There's an error here in the original tablet: the scribe wrote [_KA_]{.signs} instead of [_SÚ_]{.signs} as the third sign. What would the meaning be with [_KA_]{.signs} there?
 
 -----
 
@@ -1133,7 +1134,7 @@ When Inara came back from the country,
 [a-pa-ac-ca ú-e-ec-ga-o-an da-a-ic]{.signs}  
 He started to cry,
 
-[a-ap-pa-wa-mu É-na tar-na]{.signs}
+[a-ap-pa-wa-mu É-na tar-na]{.signs}  
 "Let me go back home!"
 
 ## The end?
@@ -1181,7 +1182,7 @@ Nothing to be checked.
 
 - [ha-ar-ca-an]{.signs}
 - [ic-pa-an-za]{.signs}
-- [sa-an-ah-ti]{.signs}
+- [ca-an-ah-ti]{.signs}
 - _halkic_
 - _antuhcac_
 - _walhzi_
@@ -1302,6 +1303,7 @@ As before, don't worry about the equals signs. You can't know where to place the
 - _mān_ UD.20.KAM _pait_
 - _apāc=a_ ^ŊIC^_luttan arha cuwaīt_
 - _nu_ DAM=_SU_ DUMU.MEC=_CU aucta_
+- (With _KA_ instead of _SU_, it would mean "your wife" instead of "his wife".)
 - _mān_ ^d^_Inarac=ca gimraz_ EŊIR-_pa uit_
 - _apac=ca wecgawan dāic_
 - _āppa=wa=mu_ É-_na tarna_
