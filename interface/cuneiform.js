@@ -9,8 +9,26 @@ function add_text(parent, text){
 	parent.appendChild(inner);
 }
 
+// More utility functions for the dropdowns that change body classes
+var dropdown_values = {};
+function dropdown_load(id){
+	let el = document.getElementById(id);
+	let value = el.options[el.selectedIndex].value;
+	dropdown_values[id] = value;
+	document.body.classList.add(value);
+}
+function dropdown_change(id){
+	let el = document.getElementById(id);
+	let value = el.options[el.selectedIndex].value;
+	let old = dropdown_values[id];
+	dropdown_values[id] = value;
+	document.body.classList.remove(old);
+	document.body.classList.add(value);
+}
+
+var cleanup_regexes = null;
 function make_cleanup_regexes(){ // Take the sign_cleanup dictionary and turn it into a list of regexes for speed purposes
-	var cleanup_regexes = [];
+	cleanup_regexes = [];
 	for(let [key, value] of Object.entries(sign_cleanup)){
 		cleanup_regexes.push([new RegExp(key), value]);
 	}
@@ -101,7 +119,7 @@ function process_element(element, include_bound=true){
 	
 	if(include_bound){
 		// Then copy it to make "translit"
-		let bound = ranslit.cloneNode(true); // Deep copy
+		let bound = translit.cloneNode(true); // Deep copy
 		bound.setAttribute("class", "bound");
 		element.appendChild(bound); // Put this first
 	}

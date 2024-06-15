@@ -4,6 +4,10 @@
 	display: inline-grid;
 }
 
+.whitespace{
+	font-size: 2.5em;
+}
+
 .sign .glyph{
 	grid-area: 1 / 1;
 	visibility: visible;
@@ -13,10 +17,12 @@
 	grid-area: 1 / 1;
 	display: none;
 	font-size: 0.75em;
+	z-index: 1;
 }
 
 .sign:hover .glyph{
-	visibility: hidden;
+	/* visibility: hidden; */
+	opacity: 0.33;
 }
 
 .sign:hover .read{
