@@ -68,13 +68,13 @@ In some styles of cuneiform, the diagonal strokes were dispensed with, and all s
 
 Sometimes the difference between downward diagonals and hooks isn't entirely clear, so some authors group them together as the same thing. But hooks could be written without rotating the tablet, so they're often written in horizontal rows and vertical columns (like in the sign _ce_), while diagonals required tilting everything, so they're usually stacked together diagonally (like in the sign _hi_).
 
-![The signs _ce_ and _hi_. Normally the difference between Winkelhaken and diagonals isn't as clear as in this drawing.](images/cehi.png)
+![The signs _ce_ and _hi_. Normally the difference between Winkelhaken and diagonals isn't as clear as in this drawing.](images/cehi.svg)
 
 ## Exercise 1A
 
 Get some clay (Play-Doh works well for this) and a stylus (disposable chopsticks with rectangular ends are perfect) and practice making the five different types of strokes. Then try to draw these signs:
 
-![Four signs: _e_, _gu_, _am_, and _ni_.](images/signs_ex1.png)
+![Four signs: _e_, _gu_, _am_, and _ni_.](images/signs_ex1.svg)
 
 # Lesson 1B: Strokes on paper
 
@@ -90,11 +90,11 @@ As a result, a lot of different conventions have arisen for how to represent cun
 
 Ideally, an autograph needs to show the position, length, and direction of each stroke, _and_ where the head is. We can't just draw the heads, because these three are different signs (the sounds _qa_, _me_, and _bar_)^[This is specifically the older form of the sign _qa_; the newer form, which you'll be learning in a later lesson, has an extra stroke.]:
 
-![The signs _qa_, _me_, and _bar_.](images/qamebar.png)
+![The signs _qa_, _me_, and _bar_.](images/qamebar.svg)
 
 But we also can't just draw the tails, because these two are different signs (the number 2 and the sound _a_):
 
-![The signs 2 and _a_.](images/mina.png)
+![The signs 2 and _a_.](images/mina.svg)
 
 So we need to somehow indicate the heads, _and_ the tails. But there are several different ways of doing that, going all the way back to ancient Mesopotamia!
 
@@ -122,7 +122,7 @@ Generally this was inscribed the usual way, with a stylus. But in some cases, th
 
 This inking style is only known from three tablets, since ink is a lot less durable than fired clay. But given how cleanly it's written (compared to that Hittite scribe awkwardly scraping out triangles), there was probably a larger tradition around this. The head of the stroke is drawn with a single curved line, and the tail with a single straight line; in my opinion, this ends up being a lot more readable than forms which draw a full triangle for the head.
 
-![That same passage from the Epic of Gilgamesh rendered in this style.](images/gilgamesh_ink.png)
+![That same passage from the Epic of Gilgamesh rendered in this style.](images/gilgamesh_ink.svg)
 
 This is how the cuneiform in this article is displayed by default. If you don't like this style, you can change it with the dropdown at the top of the page. Just remember that all of these styles are compromises to represent a fundamentally three-dimensional script on a two-dimensional screen; the best way to write cuneiform is always with a stylus on clay!
 
@@ -130,11 +130,11 @@ This is how the cuneiform in this article is displayed by default. If you don't 
 
 Take these signs in the Assyrian ink style and draw them on clay^[Again we're looking at an Old Hittite form of _en_ here instead of New Hittite, since it makes a better demonstration.].
 
-![Three signs in the Assyrian ink style: _pa_, _ic_, _en_.](images/signs_ex2.png)
+![Three signs in the Assyrian ink style: _pa_, _ic_, _en_.](images/signs_ex2.svg)
 
 Take these signs and draw them in the Assyrian ink style.
 
-![Three signs in the autograph style: _el_, _ik_, _wi~5~_.](images/signs_ex3.png)
+![Three signs in the autograph style: _el_, _ik_, _wi~5~_.](images/signs_ex3.svg)
 
 # Lesson 1C: Pronunciation
 
@@ -342,7 +342,7 @@ Now that you're used to the idea of CV signs, it's time to present the rest of t
 +---+--------------+-----------------------------+-----------------------------+
 | L | [la]{.signs} | [li]{.signs}                | [lu]{.signs}                |
 +---+--------------+--------------+--------------+-----------------------------+
-| C | [ca]{.signs} | [ce]{.signs} | [ci]{.signs} | [cu]{.signs} / [cú]{.signs} |
+| C | [ca]{.signs} | [ce]{.signs} | [ci]{.signs} | [cu / cú]{.signs}           |
 +---+--------------+--------------+--------------+-----------------------------+
 | Z | [za]{.signs} | [zé]{.signs} | [zi]{.signs} | [zu]{.signs}                |
 +---+--------------+--------------+--------------+-----------------------------+
@@ -398,7 +398,7 @@ But Hittite, like English, has a lot of _closed syllables_, which end with conso
 +-----+--------------+--------------+--------------+-----------------------------+
 | N   | [an]{.signs} | [en]{.signs} | [in]{.signs} | [un]{.signs}                |
 +-----+--------------+--------------+--------------+-----------------------------+
-| R   | [ar]{.signs} | [ir]{.signs}                | [ur]{.signs} / [úr]{.signs} |
+| R   | [ar]{.signs} | [ir]{.signs}                | [ur / úr]{.signs}           |
 +-----+--------------+--------------+--------------+-----------------------------+
 | L   | [al]{.signs} | [el]{.signs} | [il]{.signs} | [ul]{.signs}                |
 +-----+--------------+--------------+--------------+-----------------------------+
@@ -554,29 +554,29 @@ In addition to the V, CV, and VC signs, Hittite had a limited selection of _CVC_
 If there was a unique sign for every CVC combination in the language, that would require at least 520 signs—more than there were in the entire Hittite writing system! So many of these signs had multiple readings, and many possible CVC combinations had no signs for them at all. Scribes tended to use these signs however they pleased to make words shorter, with some scribes using lots and others using none at all. You can learn them if you like, or stick to CV-VC pairs and [skip to the next section](#two-special-cases). Just don't be surprised if you come across them in a text.
 
 :::{.smaller}
-+-----+-----------------------------------------------------------------------------------------------+
-| CVC Signs                                                                                           |
-+:===:+:==============================================================================================+
-| H   | [hal hap har hac hat hul hup hur]{.signs}                                                     |
-+-----+-----------------------------------------------------------------------------------------------+
-| G/K | [gal kal kam kán kap kar kac kat gaz kip kir kic kit₉ kul gul kum kur gur]{.signs}            |
-+-----+-----------------------------------------------------------------------------------------------+
-| L   | [lal lam lik lic luh lum]{.signs}                                                             |
-+-----+-----------------------------------------------------------------------------------------------+
-| M   | [mah man mar mac mec mic mur]{.signs}                                                         |
-+-----+-----------------------------------------------------------------------------------------------+
-| N   | [nam nap nir níc]{.signs}                                                                     |
-+-----+-----------------------------------------------------------------------------------------------+
-| B/P | [pal bar pac pát píl pir pic pít pur pùc]{.signs}                                             |
-+-----+-----------------------------------------------------------------------------------------------+
-| R   | [rat ric]{.signs}                                                                             |
-+-----+-----------------------------------------------------------------------------------------------+
-| C   | [cah cak cal cam càm cap car cìp cir cum cur]{.signs}                                         |
-+-----+-----------------------------------------------------------------------------------------------+
-| D/T | [tah dak tal dam tan tap tar tác tàc tén tim tin dir tir dic tíc túh túl tum tup dur]{.signs} |
-+-----+-----------------------------------------------------------------------------------------------+
-| Z   | [zul zum]{.signs}                                                                             |
-+-----+-----------------------------------------------------------------------------------------------+
++-------+-----------------------------------------------------------------------------------------------+
+| CVC   Signs                                                                                           |
++:=====:+:==============================================================================================+
+| H     | [hal hap har hac hat hul hup hur]{.signs}                                                     |
++-------+-----------------------------------------------------------------------------------------------+
+| G/K   | [gal kal kam kán kap kar kac kat gaz kip kir kic kit₉ kul gul kum kur gur]{.signs}            |
++-------+-----------------------------------------------------------------------------------------------+
+| L     | [lal lam lik lic luh lum]{.signs}                                                             |
++-------+-----------------------------------------------------------------------------------------------+
+| M     | [mah man mar mac mec mic mur]{.signs}                                                         |
++-------+-----------------------------------------------------------------------------------------------+
+| N     | [nam nap nir níc]{.signs}                                                                     |
++-------+-----------------------------------------------------------------------------------------------+
+| B/P   | [pal bar pac pát píl pir pic pít pur pùc]{.signs}                                             |
++-------+-----------------------------------------------------------------------------------------------+
+| R     | [rat ric]{.signs}                                                                             |
++-------+-----------------------------------------------------------------------------------------------+
+| C     | [cah cak cal cam càm cap car cìp cir cum cur]{.signs}                                         |
++-------+-----------------------------------------------------------------------------------------------+
+| D/T   | [tah dak tal dam tan tap tar tác tàc tén tim tin dir tir dic tíc túh túl tum tup dur]{.signs} |
++-------+-----------------------------------------------------------------------------------------------+
+| Z     | [zul zum]{.signs}                                                                             |
++-------+-----------------------------------------------------------------------------------------------+
 :::
 
 No cuneiform signs ever distinguished _b/p_, _d/t_, or _g/k_ at the end of the syllable, so every sign like _hap_, **without exception**, also has a reading _hab_. Since Hittite didn't distinguish those consonants in general, most signs like _kam_ also have readings like _gam_; I haven't listed those here to save space, but you can find them in a dictionary.
@@ -585,7 +585,7 @@ No cuneiform signs ever distinguished _b/p_, _d/t_, or _g/k_ at the end of the s
 
 However, there are two words in Hittite that are _exclusively_ written with CVC signs. It's important to know these ones even if you ignore all the rest, because these meanings are almost never written with CV-VC pairs.
 
-The "emphatic particle" _=pat_ can be attached to the end of any word to emphasize it, sort of like an underline (or rather an underline that can be read out loud). This word is always written with the CVC sign [pát]{.signs} rather than [pa-at]{.signs}. In Akkadian, that sign also has the reading _be_, but in Hittite, [bé]{.signs} (_bé_) is used for that instead. There's historically been some confusion over how this sign should be read—since the particle is always written this way, how do we know which way it's supposed to be pronounced? So you'll find older works transcribing it as _be_ or _pít_; nowadays, though, seeing it used as a CVC sign in other words has led to a consensus on _pát_. For example, the goddess Hepat is sometimes [hé-pát]{.signs} and sometimes [hé-ba-at]{.signs}.
+The "emphatic particle" _=pat_ can be attached to the end of any word to emphasize it, sort of like an underline (or rather an underline that can be read out loud). This word is always written with the CVC sign [pát]{.signs} rather than [pa-at]{.signs}. In Akkadian, that sign also has the reading _be_, but in Hittite, [bé]{.signs} (_bé_) is used for that instead. There's historically been some confusion over how this sign should be read—since the particle is always written this way, how do we know which way it's supposed to be pronounced? So you'll find older works transcribing it as _be_ or _pít_; nowadays, though, seeing it used as a CVC sign in other words has led to a consensus on _pát_. For example, the goddess Hepat is sometimes [hé-pát]{.signs} and sometimes [hé-ba-at]{.signs}^[Remember, there's no difference between _b_ and _p_ in either Hurrian or Hittite. It would be more accurate to transcribe the longer version as _hé-pá-at_, but _ba_ is easier to type and easier to read, so it persists.].
 
 The "sentence particle" _=kan_ is attached to the first word of a sentence to alter the meaning of the verb in hard-to-predict ways. It's one of the most common words in Hittite, especially in later eras where it started replacing all the other "sentence particles", but also one of the hardest to translate. Like _=pat_, it's always written with the CVC sign [kán]{.signs} rather than [ka-an]{.signs}, but unlike _=pat_, there's never been much confusion over how to pronounce this one.
 
@@ -700,7 +700,7 @@ Like all logograms, these signs do have fancy Sumerian names (DIC for 1, MIN for
 
 While the Hittites definitely had words for the numbers, these logograms were so convenient that their pronunciation is almost never written out. We only know how 3 and 7 were pronounced because they were used to spell other words: the drinks _teriyallac_ and _siptamiyac_ are sometimes written as 3-_yallac_ and 7-_iyac_, suggesting that those two are pronounced _teri-_ and _siptam-_. Scholars have made guesses at the others, but they're approximate at best—some people think 1 was _anzac_, for example, while others say _ciac_.
 
-## Bonus: Larger numbers
+## Tangent: Larger numbers
 
 _This section is entirely optional. Feel free to [skip ahead](#exercise-8) if you're not interested in mathematics. It's mostly adapted from Hoffner's classic article "On higher numbers in Hittite"._
 
@@ -711,7 +711,7 @@ In Babylonian cuneiform, you could use the place value system for numbers as lar
 Signs for 100, 1,000, 10,000, and 100,000.
 :::
 
-[ME]{.signs} is short for _meat_, the Sumerian word for "hundred". [*LIM*]{.signs} is a straightforward combination of 10 and 100, which took on the reading _LIM_ in Akkadian; _līmu_ is the Akkadian word for "clan" or "tribe", and the title for "leader of a clan" was repurposed to mean specifically "commander of a thousand soldiers". The fact that it looks the same as [CI]{.signs} (the syllable _ci_ or a logogram for "eye") is sheer coincidence.
+[ME]{.signs} is short for _meat_, the Sumerian word for "hundred". [*LIM*]{.signs} is a straightforward combination of 10 and 100, which took on the reading _LIM_ in Akkadian^[Why is it in italics? The convention in Hittite studies is to put Hittite readings in lowercase, Sumerian readings in capitals, and Akkadian readings in italic capitals. Since we only know an Akkadian reading for this sign, not a Sumerian one, it gets italicized.]; _līmu_ is the Akkadian word for "clan" or "tribe", and the title for "leader of a clan" was repurposed to mean specifically "commander of a thousand soldiers". The fact that it looks the same as [CI]{.signs} (the syllable _ci_ or a logogram for "eye") is sheer coincidence.
 
 [SIG₇]{.signs}, then, is [*LIM*]{.signs} with some extra strokes added; in Akkadian, this is called a _gunû_ sign, from the Sumerian for "decorated". It's once again coincidence that it looks the same as the logogram SIG~7~ "yellow-green". But we don't know how this one was pronounced in Sumerian, Akkadian, _or_ Hittite^[Though phonetic complements suggest the Hittite word ended with an _-a_!], so SIG~7~ is as good a name as we're going to get.
 
@@ -719,7 +719,7 @@ There's no sign for 100,000 in Akkadian or Sumerian. It's just not a number that
 
 I say "probably" because this text was composed in the Old Hittite period, but the only version that survives is a later copy, and the later scribe clearly didn't recognize this sign. He replaced it with the sequence [GACAN-*TI*]{.signs}. The logogram GACAN means "lady", and the Akkadian word for "lady" is _bēlti_, so the scribe presumably read this as a logogram with an Akkadian phonetic complement. But in context, the word "lady" makes no sense whatsoever.
 
-The relevant line reads^[Well, almost. I modified the Akkadogram _LI-IM_ to _LIM_ here for simplicity; Akkadograms are covered in a later lesson. The same goes for the other texts in this section, which similarly used _LI-IM_ in the original.] [9-an _LIM_ 9-an SIG₇-an 9-an GACAN+TI MU.HI.A-uc]{.signs}: "nine thousands, nine ten-thousands, nine hundred-thousands years [may the gods grant to the king and queen]." So this seems to be how the Hittites wrote out larger numbers: a single digit (1 through 9) followed by a logogram for the order of magnitude. These signs don't seem to be used alone; for something like "one hundred" they write [1 ME]{.signs} instead of just [ME]{.signs}. And they aren't always written from smallest to largest; we also have lines like [1 SIG₇ 5 *LIM* 5 ME NAM.RA.MEC]{.signs} "one ten-thousand, five thousand, five hundred captives".
+The relevant line reads^[Well, almost. As mentioned above, I modified the Akkadogram _LI-IM_ to _LIM_ here for simplicity, since Akkadograms aren't covered until lesson 10. The same goes for the other texts in this section, which similarly used _LI-IM_ in the original.] [9-an _LIM_ 9-an SIG₇-an 9-an GACAN+TI MU.HI.A-uc]{.signs}: "nine thousands, nine ten-thousands, nine hundred-thousands years [may the gods grant to the king and queen]." So this seems to be how the Hittites wrote out larger numbers: a single digit (1 through 9) followed by a logogram for the order of magnitude. These signs don't seem to be used alone; for something like "one hundred" they write [1 ME]{.signs} instead of just [ME]{.signs}. And they aren't always written from smallest to largest; we also have lines like [1 SIG₇ 5 *LIM* 5 ME NAM.RA.MEC]{.signs} "one ten-thousand, five thousand, five hundred captives".
 
 These numbers are extremely rare; generally, if a Hittite scribe wanted to express a vague big number, they'd use "1,000" (for example, the Hittite pantheon is known as [1 *LIM* DIŊIR.MEC]{.signs}, "The Thousand Gods"), and there's very little other need for numbers higher than 99. As a result, these signs aren't given numerical names in the standard sign lists. But I've tentatively assigned them the names "100", "1000", "10000", and "100000", for easier reading. Thus, we can transcribe the line above as "9-_an_ 1000 9-_an_ 10000-_an_ 9-_an_ 100000 MU.HI.A-_uc_", without having to resort to the logogram names for "yellow-green" and "lady".
 
@@ -727,7 +727,7 @@ As a final note on this topic, the number "1,000" seems to have had special impo
 
 ## Exercise 8
 
-Here are five Hittite words, written both phonetically and logographically, but in scrambled order. Transcribe the pronunciation of each word, and say what it means.
+Here are five Hittite words, written both phonetically and logographically, but in scrambled order. Transcribe the pronunciation of each word, and match the pronunciations to their meanings.
 
 - [KUR.KUR-e]{.signs}
 - [ci-uc]{.signs}
@@ -737,7 +737,7 @@ Here are five Hittite words, written both phonetically and logographically, but 
 - [ci-wa-at-ta]{.signs}
 - [É-ir]{.signs}
 - [ut-ne]{.signs}
-- [GECTIN-ac]{.signs}
+- [ŊECTIN-ac]{.signs}
 - [UD.3.KAM-at-ta]{.signs}
 
 # Lesson 9: Determiners
@@ -755,7 +755,7 @@ Some of the most common determiners are listed here, but a lot of logograms can 
 +-----------------+---------------+---------------+------------------+
 | People          | Places        | Materials     | Other            |
 +:===============:+:=============:+:=============:+:================:+
-| [DIC]{.signs}   | –[KI]{.signs} | [ŊIC]{.signs} | [ÌD]{.signs}     |
+| [DIC]{.signs}   | [–KI]{.signs} | [ŊIC]{.signs} | [ÍD]{.signs}     |
 +-----------------+---------------+---------------+------------------+
 | “one”           | “place”       | “wood”        | “river”          |
 +-----------------+---------------+---------------+------------------+
@@ -767,7 +767,7 @@ Some of the most common determiners are listed here, but a lot of logograms can 
 +-----------------+---------------+---------------+------------------+
 | “woman”         | “city"        | “cloth”       | “bread”          |
 +-----------------+---------------+---------------+------------------+
-| [DIŊIR]{.signs} | [É]{.signs}   | [UZU]{.signs} | –[MUCEN]{.signs} |
+| [DIŊIR]{.signs} | [É]{.signs}   | [UZU]{.signs} | [–MUCEN]{.signs} |
 +-----------------+---------------+---------------+------------------+
 | “deity”         | “building"    | “flesh”       | “bird”           |
 +-----------------+---------------+---------------+------------------+
@@ -824,7 +824,7 @@ The signs used for these sounds are given below.
 +---+--------------+--------------+--------------+
 | Q | [qa]{.signs} | [qi]{.signs} | [qu]{.signs} |
 +---+--------------+-------+------+--------------+
-| Ṭ |              |       |      | [ṭu]{.signs} |
+| Ṭ |              |              | [ṭu]{.signs} |
 +---+--------------+-------+------+--------------+
 | Ṣ |              | [ṣi]{.signs} |              |
 +---+--------------+--------------+--------------+
@@ -835,7 +835,7 @@ _Ṣi_ is used for _zé_ in Hittite words. This is a Hittite innovation: in Akka
 
 I've included this block of signs because I find them interesting, but it's important to note that the Hittites never used them very consistently! Most Hittite scribes were not very good at Akkadian, and weren't entirely sure where the special "emphatic" signs were supposed to go.
 
-As a result, they'd very often use _k/g_, _t/d_, and _z_ signs instead. Thanks to the Hittites, [ga]{.signs} also has a reading _qá_ and [ka]{.signs} has a reading _qà_, for example—the scribes just used the signs they were familiar with, since they couldn't hear any difference between _q_, _k_, and _g_. (And conversely, [qa]{.signs} also has a reading _ka~4~_, since to the Hittites, it was just an easier-to-write symbol for _ka_.) An educated scribe might try to write the word _ṭuppi_ "clay tablet" with the special Akkadian _ṭu_ sign, [ṭu-up-pí]{.signs}, but [ṭù-up-pí]{.signs} with the _du_ sign^[The Hittites presumably just thought of it as _du_. The reading _ṭù_ has been assigned by modern scholars to make it clearer what the intended word is, so that you can look up _ṭuppi_ rather than _duppi_ in a dictionary.] is no less common. It's somewhat like writing the name of the dessert as "crème brûlée" in English: using the special accented letters is more correct in French, but most English-speakers don't know or care.
+As a result, they'd very often use _k/g_, _t/d_, and _z_ signs instead. Thanks to the Hittites, [ga]{.signs} also has a reading _qá_ and [ka]{.signs} has a reading _qà_, for example—the scribes just used the signs they were familiar with, since they couldn't hear any difference between _q_, _k_, and _g_. (And conversely, [qa]{.signs} also has a reading _ka~4~_, since to the Hittites, it was just an easier-to-write symbol for _ka_.) An educated scribe might try to write the word _ṭuppi_ "clay tablet" with the special Akkadian _ṭu_ sign, [ṭu-up-pí]{.signs}, but [ṭù-up-pí]{.signs} with the _du_ sign^[The Hittites presumably just thought of it as _du_. The reading _ṭù_ has been assigned by modern scholars to make it clearer what the intended word is, so that you can look up _ṭuppi_ rather than _duppi_ in a dictionary, but that doesn't mean the Hittites actually thought of it that way!] is no less common. It's somewhat like writing the name of the dessert as "crème brûlée" in English: using the special accented letters is more correct in French, but most English-speakers don't know or care.
 
 Where there are blanks in this table, the Hittites didn't adopt _any_ special sign for that syllable. There's no unique sign for _ṣa_, for example; the Hittites just used [za]{.signs}. And even in Akkadian, there are no unique VC or CVC signs for these consonants; [iz]{.signs} is used equally for _iz_, _is_, and _iṣ_.
 
@@ -873,23 +873,23 @@ In Old Hittite, there were special _possessives_ that could be attached to the e
 
 In later eras of Hittite, though, these possessives are almost never spelled out^[It's not clear if these possessives were still used at all. They're only written out in fossilized phrases, without all the fancy inflection they had in Old Hittite. But the Akkadian possessives must have stood for _something_.]. In their place, the possessives from Akkadian are used instead! Just like the Hittite ones, these attach to the end of a word or phrase, and indicate who it belongs to.
 
-+---------------------------------+-----------+
-| Akkadian                        | English   |
-+:===============================:+:=========:+
-| [_YA_]{.signs} / [_I_]{.signs}  | my        |
-+---------------------------------+-----------+
-| [_KA_]{.signs}                  | your      |
-+---------------------------------+-----------+
-| [_CU_]{.signs} / [_SÚ_]{.signs} | his       |
-+---------------------------------+-----------+
-| [_CA_]{.signs} / [_SÀ_]{.signs} | her       |
-+---------------------------------+-----------+
-| [_NI_]{.signs}                  | our       |
-+---------------------------------+-----------+
-| [_KU-NU_]{.signs}               | your (pl) |
-+---------------------------------+-----------+
-| [_CU-NU_]{.signs}               | their     |
-+---------------------------------+-----------+
++-----------------------+-----------+
+| Akkadian              | English   |
++:=====================:+:=========:+
+| [_YA_ / _I_]{.signs}  | my        |
++-----------------------+-----------+
+| [_KA_]{.signs}        | your      |
++-----------------------+-----------+
+| [_CU_ / _SÚ_]{.signs} | his       |
++-----------------------+-----------+
+| [_CA_ / _SÀ_]{.signs} | her       |
++-----------------------+-----------+
+| [_NI_]{.signs}        | our       |
++-----------------------+-----------+
+| [_KU-NU_]{.signs}     | your (pl) |
++-----------------------+-----------+
+| [_CU-NU_]{.signs}     | their     |
++-----------------------+-----------+
 
 In Akkadian, there are specific rules for how these should be used. _=ya_ is used after vowels and _=i_ after consonants, for example, _=ka_ is only used when the "you" is male, _su/sa_ takes the place of _cu/ca_ after certain consonants^[Specifically, if the Akkadian word (not the Sumerian or Hittite word) ends with _t_, _d_, or _ṭ_, then _c_ is replaced with _s_. For example, the Akkadian equivalent to É is _bīt_, so "his house" is É=_SU_, not É=_CU_. Proper Akkadian scribes would also change the final consonant to an _s_ when this happened (_bīs=su_), which suggests that at one point, _c_ was a fricative and _s_ was an affricate: _t_ /t/ + _c_ /s/ makes _ss_ /ts/.], and so on.
 
@@ -927,6 +927,76 @@ He saw his wife and his children.
 
 When Inara comes back to the house, he begs her to let him go. The tablet is badly damaged after that, so whatever comes next is lost to history. It's possible she lets him go back to his mortal life; it's also possible that she kills him. Sleeping with deities seldom ends well in Bronze Age mythology.
 
+# Bonus: the Complaint Tablet to Ea-Nāṣir
+
+Given the main reason people think about cuneiform in the modern day, I would be remiss if I didn't include a little bit about Ea-Nāṣir. He was a copper merchant in Ur around 1750 BCE who received multiple complaints about bad customer service, which have become a bit of a meme online^[I have no idea why, but I'm certainly not complaining. Anything that makes people interested in cuneiform is a win in my book.].
+
+The letter is in Akkadian, not Hittite, but it doesn't use any signs that haven't been introduced in these lessons. So if you ever want to write your own complaint tablet to the copper merchants in your life, here's a transcription of the first third of it. Practice writing this out on clay, if possible!
+
+_a-na É.A-na-ṣi-ir_  
+To Ea-Nāṣir  
+_Why É instead of e? Akkadian names tend to be full sentences, usually including the name of a god; in this case, Ea-Nāṣir means "may Ea (god of magic) protect him"._^[Should we read this as a logogram É.A or a phonetic spelling é-a? It's not clear. As a logogram, it would mean "house/temple of water", which makes sense—his domain was the pure water under the earth, known as the abzu or apsû. But we know "Ea" was the Akkadian pronunciation; the Sumerians called him Enki (EN.KI), "lord of earth". So you'll find it transcribed both ways; the cuneiform looks the same, either way.]
+
+_qí-bí=ma_  
+say:  
+_Akkadian letters tend to start with a command like this. The sign qí is what you know as **ki**; the sign bí is what you know as **ne**. Since this line is so short, it gets stretched out across the entire tablet, with huge gaps between the signs._
+
+_um-ma na-an-ni=ma_  
+Nanni (speaks) thus:
+
+_a-nu-ú-ma ta-al-li-ku_  
+When you came,
+
+_ki-a-am ta-aq-bi-am_  
+thus spoke  
+_Aq is the same as ak or ag; remember, cuneiform distinguishes fewer consonants at the end of syllables than at the beginning._
+
+_um-ma at-ta-a-ma_  
+you, as follows:
+
+_gu-ba-ri da-am-qú-tim_  
+"Good ingots  
+_Just like qí is ki, qú is **ku**._
+
+_a-na gi-mil-^d^EN.ZU a-na-ad-di-in_  
+I will give to Gimil-Sîn."  
+_Another name with a god in it: Gimil-Sîn means "may Sîn (the moon god) save him"._^[Sîn's name was written EN.ZU in Sumerian, but pronounced Su'en. So sometimes you'll find the logogram name ZUEN used to mean EN.ZU, to avoid dealing with the strange reversal. Similarly the logogram LUGAL "king", which you saw in [lesson 8](#common-logograms), started as a combination of the signs GAL.LÚ ("great man"), from some primordial time when Sumerian put adjectives before nouns instead of after.]
+
+_ta-al-li-ik=ma ta-aq-bi-a-am_  
+You left, but what you said,
+
+_ú-la te-pu-uc_  
+you did not do.
+
+_gu-ba-ri la da-am-qú-tim_  
+Ingots that are not good
+
+_a-na ma-ar ci-ip-ri=ya_  
+to my messenger
+
+_ta-ac-ku-un=ma um-ma at-ta-ma_  
+you gave, saying,
+
+_cum-ma te-le-qé-a le-qé-a_  
+"If you'll take them, then take them,  
+_Just like with qí and qú, qé is **ke**. In some times and places, the qa, qe, qi, qu signs weren't used at all, and this was one of them._^[Or perhaps we should say they hadn't been invented yet! Sumerian had no _q_ sound, and the idea of repurposing some CVC signs to represent it took quite a while to catch on within Akkadian; before that, they just wrote it as _k_.]
+
+_cum-ma la te-le-qé-a at-la-ka_  
+if you won't take them, go away!"
+
+_ya-ti a-na ki-ma ma-an-ni-im_  
+Me, like what person,  
+_The line break in the Akkadian ends up in a really awkward place in the English. This line and the next, together, mean "what kind of a man do you take me for, that...?"_
+
+_tu-ci-im-ma xxxxxxxxx_  
+you see, that  
+_The right half of this line is badly damaged; from what survives, it looks like there should be another verb there._
+
+_ki-a-am te-me-ca-an-ni_  
+you treat me with contempt like this?
+
+This is the first third or so of the text; after this, it continues on to list out the past grievances between Ea-Nāṣir and Nanni (in both directions!), and Nanni's new demands. From now on he wants to inspect all the copper in person, in his own home, before paying for it, and he wants right of refusal if anything doesn't meet his standards.
+
 # Final test
 
 If you're ready to test your cuneiform skills, here's the complete myth of Illuyankac—or at least, as complete as it gets. There are still a few breaks and gaps, but this is better than most Hittite texts, since we've been able to piece it together from multiple copies. Most of it is presented in the original cuneiform^[Albeit with obvious scribal errors corrected.], but a couple sentences are given in transcription, for you to write out in cuneiform yourself.
@@ -935,11 +1005,11 @@ The lines across the page are written on the actual tablet, separating out secti
 
 ## Signs you'll need
 
-[SAŊŊA]{.signs} (SAŊŊA or SANGA) = _cankunnic_, "high priest"^[The only place this sign appears in this passage is actually damaged on all the surviving tablets, so it could have been a different logogram for a different kind of priest instead; different editions fill in different logograms there. But SAŊŊA is a convenient one to teach, so I'm going with that.]. This Sumerian word was actually borrowed into Akkadian as _cangû_ and then into Hittite.
+[SAŊŊA]{.signs} (SAŊŊA or SANGA) = _cankunnic_, "high priest"^[The only place this sign appears in this passage is actually damaged on all the surviving tablets, so it could have been a different logogram for a different kind of priest instead; different editions fill in different logograms there. But SAŊŊA is a convenient one to teach, so I'm going with that.]. This Sumerian word was actually borrowed into Akkadian as _cangû_ and then into Hittite as _cankunnic_.
 
-[*UM-MA*]{.signs} (_UMMA_) = _kiccan_, "thus". This Akkadogram is used to introduce a quotation, and appears at the top of most letters in Akkadian ("tell X that Y speaks **thus**:").
+[*UM-MA*]{.signs} (_UMMA_) = _kiccan_, "thus". This Akkadogram is used to introduce a quotation, and appears at the top of most letters in Akkadian ("tell X that Y speaks **thus**:"); you'll find it on the third line of [the complaint tablet](#bonus-the-complaint-tablet-to-ea-nāṣir), for instance.
 
-[MUC]{.signs} (MUC) = determinative for snakes. This is only ever used with Illuyankac, whose name is probably also the Hittite word for "snake"; presumably, using _d_ or _m_ just didn't feel right for the great serpent himself.
+[MUC]{.signs} (MUC) = determinative for snakes. This is only ever used with Illuyanka, whose name is also the Hittite word for "snake"; presumably, using _d_ or _m_ just didn't feel right for the great serpent himself.^[Herself? Itself? Hittite nouns and pronouns don't distinguish masculine from feminine. But Illuyanka is traditionally taken as male.]
 
 [EZEN₄]{.signs} (EZEN~4~)^[Both editions of this text that I've seen list the sign EZEN instead, but the standard sign dictionary for Hittite has no entry for EZEN, with EZEN~4~ taking its place. From that dictionary: "Instead of EZEN, the Boghazköy texts always contain EZEN×CE, which […] is here given the reading EZEN~4~." I'm assuming the dictionary has it right and the sign here is actually EZEN~4~, with the four hooks inside it, rather than EZEN, without. But I need to find a good autograph to make sure.] = "festival", or a determinative for festivals. We don't know the Hittite word for this one.
 
@@ -952,7 +1022,7 @@ The lines across the page are written on the actual tablet, separating out secti
 ## Preface
 
 [UM-MA m^ki-il-la LÚ^SAŊŊA d^10 URU^ne-ri-ik]{.signs}  
-Thus (speaks) Killa, high priest of the Storm God of the City of Nerik^[That is, Tarhonz.]:
+Thus (dictates?) Killa, high priest of the Storm God of the City of Nerik^[That is, Tarhonz.]:
 
 [ne-pí-ca-ac d^ICKUR-ac EZEN₄^pu-ru-ul-li-ya-ac ut-tar]{.signs}  
 Myth^[Or "story", or "incantation": _uttar_ is a very versatile word.] of the _Purulli_-festival of the Storm God of Heaven^[Also Tarhonz.].
@@ -1170,28 +1240,28 @@ That is the story of Tarhont and Illuyanka.
 
 Here are the solutions to all of the exercises on this page.
 
-## 1
+## Answers 1
 
 Only 1B can be checked.
 
-![The signs _pa_, _ic_, and _en_ in autograph style.](images/signs_ex2_answer.png)
+![The signs _pa_, _ic_, and _en_ in autograph style.](images/signs_ex2_answer.svg)
 
 (Of course, yours should be drawn on clay if possible!)
 
-![The signs _el_, _ik_, and _wi~5~_ in Assyrian ink style.](images/signs_ex3_answer.png)
+![The signs _el_, _ik_, and _wi~5~_ in Assyrian ink style.](images/signs_ex3_answer.svg)
 
-## 2
+## Answers 2
 
 Nothing to be checked.
 
-## 3
+## Answers 3
 
 - _ekuzi_
 - _pati_
 - [a-pa-ta]{.signs}
 - [a-ku]{.signs}
 
-## 4
+## Answers 4
 
 - _kā_
 - _apacila_
@@ -1200,7 +1270,7 @@ Nothing to be checked.
 - [ce-ni]{.signs}
 - [mu-ú-li-li]{.signs}
 
-## 5
+## Answers 5
 
 - [ha-ar-ca-an]{.signs}
 - [ic-pa-an-za]{.signs}
@@ -1209,7 +1279,7 @@ Nothing to be checked.
 - _antuhcac_
 - _walhzi_
 
-## 6
+## Answers 6
 
 - _kiccan Hōpaciyac Inari_
 - _man=wa kattiti cec=mi nu=wa uwami_
@@ -1218,7 +1288,7 @@ Nothing to be checked.
 
 Don't worry about the equals signs. There's no way to know where to put them without understanding the Hittite text.
 
-## 7
+## Answers 7
 
 - [ma-ar-ri]{.signs}
 - [mar-ri]{.signs}
@@ -1227,7 +1297,7 @@ Don't worry about the equals signs. There's no way to know where to put them wit
 - [ag-ga-a-ta-ar]{.signs}
 - [ag-ga-a-tar]{.signs}
 
-## 8
+## Answers 8
 
 - _pir_ or _per_ "house"
 - _ciuc_ "god"
@@ -1235,7 +1305,7 @@ Don't worry about the equals signs. There's no way to know where to put them wit
 - _utne_ "lands"
 - _wiyanac_ "wine"
 
-## 9
+## Answers 9
 
 - A kind of wood, or something made from wood
 - A kind of vessel
@@ -1248,7 +1318,7 @@ Don't worry about the equals signs. There's no way to know where to put them wit
 
 These are usually translated as "a _kappi_-vessel", "the _lakkarwan_-plant", and so on.
 
-## 10
+## Answers 10
 
 - _nu=wa=za_ DAM=*KA* DUMU.MEC=*KA* _autti_
 - _mān_ UD.20.KAM _pait_
@@ -1257,7 +1327,30 @@ These are usually translated as "a _kappi_-vessel", "the _lakkarwan_-plant", and
 
 You can also use _SU_ instead of _CU_ for the possessive^[Strictly speaking this one should be _SU_, since the Akkadian word for "wife" is _accat_, which ends with _t_. But there's no way to know this without knowing Akkadian, so using _CU_ instead is far from unrealistic for a Hittite scribe!], or add an _Ù_ in between, if you like. If you look at [the actual text of this section](#hopaciya-s-fate), you'll find the scribe actually messed this up, writing DAM=*KA* "your wife" instead of DAM=*SU* "his wife"!
 
-## Final
+## Answers: Bonus
+
+:::{.signs}
+a-na É.A-na-ṣi-ir  
+qí-bí=ma  
+um-ma na-an-ni=ma  
+a-nu-ú-ma ta-al-li-ku  
+ki-a-am ta-aq-bi-am  
+um-ma at-ta-a-ma  
+gu-ba-ri da-am-qú-tim  
+a-na gi-mil-d^EN.ZU a-na-ad-di-in  
+ta-al-li-ik=ma ta-aq-bi-a-am  
+ú-la te-pu-uc  
+gu-ba-ri la da-am-qú-tim  
+a-na ma-ar ci-ip-ri=ya  
+ta-ac-ku-un=ma um-ma at-ta-ma  
+cum-ma te-le-qé-a le-qé-a  
+cum-ma la te-le-qé-a at-la-ka  
+ya-ti a-na ki-ma ma-an-ni-im  
+tu-ci-im-ma – – – – – –  
+ki-a-am te-me-ca-an-ni  
+:::
+
+## Answers: Final
 
 As before, don't worry about the equals signs. You can't know where to place them without a good understanding of the Hittite language. For the parts where you were asked to write in cuneiform, you might have used CVC signs where the original tablet didn't, or vice versa, and that's perfectly fine; what I'm transcribing here is exactly what was on the original, but there will often be other valid ways to write it.
 

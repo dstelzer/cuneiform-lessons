@@ -1,14 +1,22 @@
 .sign{
-	font-size: 1.67em;
 	position: relative;
 	display: inline-grid;
 	line-height: 1.2;
 }
 
 .whitespace{
-	font-size: 2.5em;
 	margin-left: 0.33ch;
 	margin-right: 0.33ch;
+}
+
+.size-small .sign, .size-small .whitespace{
+	font-size: 1em;
+}
+.size-medium .sign, .size-medium .whitespace{
+	font-size: 1.67em;
+}
+.size-large .sign, .size-large .whitespace{
+	font-size: 2.5em;
 }
 
 .sign .glyph{

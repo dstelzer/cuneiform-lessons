@@ -15,9 +15,15 @@
 		<option value="layout-wide">Wide layout</option>
 		<option value="layout-narrow">Narrow layout</option>
 	</select>
+	<select id="sizesel" onchange="dropdown_change('sizesel');">
+		<option value="size-small">Small signs</option>
+		<option value="size-medium" selected>Medium signs</option>
+		<option value="size-large">Large signs</option>
+	</select>
 	<script language="javascript">
 		dropdown_load('modesel');
 		dropdown_load('fontsel');
 		dropdown_load('layoutsel');
+		dropdown_load('sizesel');
 	</script>
 </div>

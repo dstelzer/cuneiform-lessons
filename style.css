@@ -25,7 +25,7 @@ body {
 	font-kerning: normal;
 }
 
-@media (min-width: 720px) {
+@media screen and (min-width: 720px) {
 	.layout-default #TOC {
 		position: fixed;
 		width: 20em;
@@ -109,6 +109,9 @@ td:has(.signs) { /* Add a border specifically around cells that have signs in th
 }
 
 @media print {
+	#settings {
+		display: none;
+	}
 	html {
 		background-color: white;
 	}
@@ -116,6 +119,8 @@ td:has(.signs) { /* Add a border specifically around cells that have signs in th
 		background-color: transparent;
 		color: black;
 		font-size: 12pt;
+		border-right: 0;
+		border-left: 0;
 	}
 	p, h2, h3 {
 		orphans: 3;
@@ -298,7 +303,7 @@ label.margin-toggle:not(.sidenote-number) {
 	display: none;
 }
 
-@media (max-width:720px) { /* TODO what's the appropriate width here? */
+@media screen and (max-width:720px) { /* TODO what's the appropriate width here? */
 	.layout-default label.margin-toggle:not(.sidenote-number) {
 		display: inline;
 	}
@@ -335,6 +340,25 @@ label.margin-toggle:not(.sidenote-number) {
 
 	.layout-narrow .margin-toggle:checked + .sidenote,
 	.layout-narrow .margin-toggle:checked + .marginnote {
+		display: block;
+		float: left;
+		left: 1rem;
+		clear: both;
+		width: 95%;
+		margin: 1rem 2.5%;
+		vertical-align: baseline;
+		position: relative;
+	}
+}
+
+/* And make them always visible when printing */
+@media print {
+	label.margin-toggle:not(.sidenote-number) {
+		display: inline;
+	}
+	
+	.sidenote,
+	.marginnote {
 		display: block;
 		float: left;
 		left: 1rem;
