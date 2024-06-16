@@ -1,13 +1,23 @@
 <div id="settings">
 	Options:
-	<select id="modesel" onload="dropdown_load('modesel');" onchange="dropdown_change('modesel');">
+	<select id="modesel" onchange="dropdown_change('modesel');">
 		<option value="hidebound" selected>Signs</option>
 		<option value="showbound">Bound transcription</option>
 	</select>
-	<select id="fontsel" onload="dropdown_load('fontsel');" onchange="dropdown_change('fontsel');">
+	<select id="fontsel" onchange="dropdown_change('fontsel');">
 		<option value="font-ink" selected>Ink</option>
 		<option value="font-publish">Published</option>
 		<option value="font-write">Handwritten</option>
 		<option value="font-linear">Linear</option>
 	</select>
+	<select id="layoutsel" onchange="dropdown_change('layoutsel');">
+		<option value="layout-default" selected>Default layout</option>
+		<option value="layout-wide">Wide layout</option>
+		<option value="layout-narrow">Narrow layout</option>
+	</select>
+	<script language="javascript">
+		dropdown_load('modesel');
+		dropdown_load('fontsel');
+		dropdown_load('layoutsel');
+	</script>
 </div>

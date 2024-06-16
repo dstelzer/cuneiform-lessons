@@ -16,6 +16,7 @@ function dropdown_load(id){
 	let value = el.options[el.selectedIndex].value;
 	dropdown_values[id] = value;
 	document.body.classList.add(value);
+	alert("Loaded " + id + ", added " + value);
 }
 function dropdown_change(id){
 	let el = document.getElementById(id);
@@ -34,8 +35,10 @@ function make_cleanup_regexes(){ // Take the sign_cleanup dictionary and turn it
 	}
 }
 
-const WORD = /((?:(?:\p{Letter}|\p{Number}|\+)+[\-\.=\^])*(?:\p{Letter}|\p{Number}|\+)+)/gu; // A **letter** is \p{Letter}|\p{Number}|\+. A **separator** is [-.=^]. A **word** is (letter+ separator)* letter+. We put ?: inside all parens except the outermost to avoid problems with capturing groups.
-const SEPARATOR = /[\-\.=\^]/gu;
+const SIGN = "(?:\\p{Letter}|\\p{Number}|\\+|:)+"; // Any sequence of letters, numbers, and the colon and plus sign, using non-capturing groups
+const SEPS = "[\\-\\.=\\^]"; // Dash (for phonograms), dot (for logograms), equals (for clitics), caret (for determiners)
+const WORD = new RegExp(`((?:${SEPS}*${SIGN})+${SEPS}*)`, "gu"); // We now allow separators optionally at either end, to avoid problems with Akkadograms (which are in their own <em> tags) leaving dangling = and - next to them
+const SEPARATOR = new RegExp(`${SEPS}`, "gu");
 
 // Create the element representing a sign: a "sign" span containing a "glyph" span (Unicode) and a "read" span (reading)
 function make_sign_element(reading, unicode){
@@ -81,7 +84,13 @@ function divide_signs(word, bound){
 
 // Take a word, split it into signs, then make an element for each one and return an array of them
 function shatter_word(word, bound){
-	let result = divide_signs(word, bound).map(sign => make_sign_element(sign, get_unicode_for(sign)) );
+	let signs = divide_signs(word, bound);
+	let result = [];
+	for(sign of signs){ // Not using .map here because we want to include nothing (actually nothing, not undefined) in the output if we get an empty string
+		if(sign){
+			result.push(make_sign_element(sign, get_unicode_for(sign)));
+		}
+	}
 	return result;
 }
 

@@ -26,8 +26,9 @@ const REPLACE = { // Sometimes the sign used in Hittite isn't the one with the m
 const SEP = /[\.\-=\^]/u; // . - = ^ are things that can separate signs within a word
 const V = "[aeiouāēīōūâêîôû]";
 const C = "[bcdfghjklmnpqrstvwxyzšḫṣṭḳśŋĝř]";
+const ONLYSEPS = /^[\.\-=\^]*$/u; // Only separators, nothing else
 
-const FIXED = new Set(["pát", "kán"]); // Hittite words written phonetically but with specific signs
+const FIXED = new Set(["pát", "kán", ":"]); // Hittite words written phonetically but with specific signs (and the Glossenkeil which has no Cs or Vs in it)
 
 function syllabify(s){
 	// First, we draw the syllable boundaries
@@ -46,6 +47,8 @@ function syllabify(s){
 
 // Turn a word into a list of signs
 function word_to_signs(s){
+	if(ONLYSEPS.test(s)) return []; // If we get a word that's only separators, or is empty, don't try to parse it any further
+	
 	// If there are sign boundaries inside it, respect them
 	let parts = s.split(SEP) // Break it at explicit sign boundaries
 	if(parts.length > 1){

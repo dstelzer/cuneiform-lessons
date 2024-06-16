@@ -26,7 +26,7 @@ body {
 }
 
 @media (min-width: 720px) {
-	#TOC {
+	.layout-default #TOC {
 		position: fixed;
 		width: 20em;
 		left: 0;
@@ -37,10 +37,10 @@ body {
 		padding: 1em;
 		color: black;
 	}
-	body {
+	.layout-default body {
 		margin-left: 22em;
 	}
-	#settings {
+	.layout-default #settings {
 		position: fixed;
 		width: 100%;
 		left: 22em;
@@ -52,6 +52,40 @@ body {
 		background-color: #ffeeaa;
 		text-align: center;
 	}
+}
+
+@media screen {
+	.layout-wide #TOC {
+		position: fixed;
+		width: 20em;
+		left: 0;
+		top: 0;
+		height: 100%;
+		background-color: #aa7744;
+		overflow-y: scroll;
+		padding: 1em;
+		color: black;
+	}
+	.layout-wide body {
+		margin-left: 22em;
+	}
+	.layout-wide #settings {
+		position: fixed;
+		width: 100%;
+		left: 22em;
+		max-width: 46em;
+		border-left: 1px solid black;
+		border-right: 1px solid black;
+		top: 0;
+		z-index: 10;
+		background-color: #ffeeaa;
+		text-align: center;
+	}
+}
+
+td:has(.signs) { /* Add a border specifically around cells that have signs in them */
+	border: 1px dotted black;
+	border-collapse: collapse;
 }
 
 .footer {
@@ -264,18 +298,43 @@ label.margin-toggle:not(.sidenote-number) {
 	display: none;
 }
 
-@media (max-width:1000px) { /* TODO what's the appropriate width here? */
-	label.margin-toggle:not(.sidenote-number) {
+@media (max-width:720px) { /* TODO what's the appropriate width here? */
+	.layout-default label.margin-toggle:not(.sidenote-number) {
 		display: inline;
 	}
 
-	.sidenote,
-	.marginnote {
+	.layout-default .sidenote,
+	.layout-default .marginnote {
 		display: none;
 	}
 
-	.margin-toggle:checked + .sidenote,
-	.margin-toggle:checked + .marginnote {
+	.layout-default .margin-toggle:checked + .sidenote,
+	.layout-default .margin-toggle:checked + .marginnote {
+		display: block;
+		float: left;
+		left: 1rem;
+		clear: both;
+		width: 95%;
+		margin: 1rem 2.5%;
+		vertical-align: baseline;
+		position: relative;
+	}
+}
+
+/* This duplication is really not ideal but I can't find a better way to handle it */
+
+@media screen {
+	.layout-narrow label.margin-toggle:not(.sidenote-number) {
+		display: inline;
+	}
+
+	.layout-narrow .sidenote,
+	.layout-narrow .marginnote {
+		display: none;
+	}
+
+	.layout-narrow .margin-toggle:checked + .sidenote,
+	.layout-narrow .margin-toggle:checked + .marginnote {
 		display: block;
 		float: left;
 		left: 1rem;

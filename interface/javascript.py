@@ -1,7 +1,7 @@
 # Generate JavaScript files from the various Hantatallas data
 # The data needed is:
 # hzl.dat : Hantatallas data on all the signs, includes a mapping from sign names to HZL numbers
-# unicode.csv : data from Wiktionary, includes a mapping from HZL numbers to Unicode codepoints
+# unicode_cleaned.csv : data from Wiktionary, includes a mapping from HZL numbers to Unicode codepoints
 
 import csv
 from pathlib import Path

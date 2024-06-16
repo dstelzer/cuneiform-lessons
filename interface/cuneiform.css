@@ -1,5 +1,5 @@
 .sign{
-	font-size: 2em;
+	font-size: 1.67em;
 	position: relative;
 	display: inline-grid;
 	line-height: 1.2;
@@ -29,7 +29,7 @@
 
 .sign:hover .glyph{
 	/* visibility: hidden; */
-	opacity: 0.33;
+	opacity: 0.25;
 }
 
 .sign:hover .read{
