@@ -1,6 +1,6 @@
 % An Introduction to Cuneiform
 % Daniel M. Stelzer
-% Version 1: June 2024
+% Version 0.9, 16 June 2024
 
 <style>
 #modesel { display: none; } /* We don't want a mode selector on this page */
@@ -14,7 +14,7 @@ It's also infamously difficult to learn.
 
 Most instructional resources on these languages avoid touching cuneiform for as long as possible, in an attempt to not scare students away—which is a shame, because the writing system is part of why these languages are so fascinating! Thousands of clay tablets have been excavated from across the Near East, many still untranslated now. But so far, nobody has made a good introduction to the cuneiform writing system that will help people pick it up and get started.
 
-That's what this document is meant to remedy. It focuses specifically on Hittite cuneiform, used from the 17th to the 12th centuries BCE in Anatolia; Hittite uses a smaller inventory of signs than Assyrian or Babylonian, while still being fairly well understood. This document will start by covering the basics of cuneiform and how it's written, then touch on some details of the Hittite language, before laying out a full overview of the writing system and how it encodes Hittite words. Each heading is intended to be treated as one lesson, to avoid overwhelming students with too many signs all at once.
+That's what this document is meant to remedy. It focuses specifically on Hittite cuneiform^[And even more specifically on the later ("New Script") forms of the signs, whenever there's a difference. These are the most common ones, since most Old Hittite tablets we have are later copies in New Script.], used from the 17th to the 12th centuries BCE in Anatolia; Hittite uses a smaller inventory of signs than Assyrian or Babylonian, while still being fairly well understood. This document will start by covering the basics of cuneiform and how it's written, then touch on some details of the Hittite language, before laying out a full overview of the writing system and how it encodes Hittite words. Each heading is intended to be treated as one lesson, to avoid overwhelming students with too many signs all at once.
 
 # Lesson 1A: Wedges on clay
 
@@ -86,7 +86,7 @@ This is a problem, since it makes it very hard to display three-dimensional wedg
 
 As a result, a lot of different conventions have arisen for how to represent cuneiform on paper and screens. Most modern scholars aren't working with the physical object, or with a photograph; instead, they use "autograph" drawings, and the first step in analyzing a tablet is to make one of these.
 
-![An excerpt from the Epic of Gilgamesh, autographed.](images/photoauto_auto.png)
+![That same excerpt, autographed.](images/photoauto_auto.png)
 
 Ideally, an autograph needs to show the position, length, and direction of each stroke, _and_ where the head is. We can't just draw the heads, because these three are different signs (the sounds _qa_, _me_, and _bar_)^[This is specifically the older form of the sign _qa_; the newer form, which you'll be learning in a later lesson, has an extra stroke.]:
 
@@ -439,9 +439,7 @@ The answer is [a-pa-ac]{.signs}. Even though it takes three signs instead of two
 
 Why use the extra sign? The choice actually gives us some insight into how the Hittite language worked! It seems that in Hittite, when there was a single consonant between two vowels, it acted as the start of the second syllable, not the end of the first syllable. In other words, _apac_ was pronounced as _a-pac_, not as _ap-ac_.
 
-As a result, whenever there's an ambiguity like this, you should **use the CV signs instead of the VC ones**, even if it's longer. This way, the breaks between syllables line up with the breaks between signs—and it lets us use the VC signs to indicate multiple consonants at the end of a syllable, [as we saw above](#writing-closed-syllables).
-
-This is something the Hittite scribes were very consistent about. The only exception was when a word was clearly made up of multiple pieces, and the divisions between those pieces didn't line up with the syllable boundaries. When this happened, they sometimes prioritized the pieces of the word: EXAMPLE HERE TODO.
+As a result, whenever there's an ambiguity like this, you should **use the CV signs instead of the VC ones**, even if it's longer. This is something the Hittite scribes were generally quite consistent about. This way, the breaks between syllables line up with the breaks between signs—and it lets us use the VC signs to indicate multiple consonants at the end of a syllable, [as we saw above](#writing-closed-syllables).
 
 ## Exercise 5
 
@@ -1236,6 +1234,10 @@ That tablet ends with the line:
 [nu ka-a-ac a-pa-a-ac d^ICKUR-ac MUC^il-lu-ya-an-ka-ac-ca me-mi-ac]{.signs}  
 That is the story of Tarhont and Illuyanka.
 
+# Further reading
+
+_Coming soon! I need to figure out what to put here._
+
 # Exercise answers
 
 Here are the solutions to all of the exercises on this page.
@@ -1349,6 +1351,10 @@ ya-ti a-na ki-ma ma-an-ni-im
 tu-ci-im-ma – – – – – –  
 ki-a-am te-me-ca-an-ni  
 :::
+
+This is what the actual tablet looks like, though it's using Old Babylonian sign forms instead of Hittite ones.
+
+![Autograph of the complaint tablet. The text starts at the line marked "Obv.", top left.](images/ea_nasir.jpg)
 
 ## Answers: Final
 
