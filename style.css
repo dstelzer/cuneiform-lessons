@@ -6,6 +6,12 @@ html {
 	font-size: 2.4em;
 }
 
+.scrollwork {
+	margin-top: 0.75em;
+	white-space: nowrap;
+	overflow: scroll;
+}
+
 body {
 	margin: auto;
 	padding-right: 1em;
@@ -304,6 +310,11 @@ label.margin-toggle:not(.sidenote-number) {
 }
 
 @media screen and (max-width:720px) { /* TODO what's the appropriate width here? */
+	.layout-default .sidenote-number { /* Added to make them more link-like */
+		text-decoration: underline dotted;
+		color: #660088;
+	}
+	
 	.layout-default label.margin-toggle:not(.sidenote-number) {
 		display: inline;
 	}
@@ -329,6 +340,11 @@ label.margin-toggle:not(.sidenote-number) {
 /* This duplication is really not ideal but I can't find a better way to handle it */
 
 @media screen {
+	.layout-narrow .sidenote-number { /* Added to make them more link-like */
+		text-decoration: underline;
+		color: #660088;
+	}
+	
 	.layout-narrow label.margin-toggle:not(.sidenote-number) {
 		display: inline;
 	}

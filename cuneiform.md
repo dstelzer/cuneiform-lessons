@@ -30,7 +30,7 @@ Unfortunately, this lesson is being displayed on a flat screen, which makes it d
 
 ![One sign from the _Epic of Gilgamesh_.](images/wedges_photo.jpg)
 
-![The same sign, with three of its wedges highlighted.](images/wedges_color.jpg)
+![The same sign, with three of its wedges highlighted.](images/wedges_color.jpg){#color-figure}
 
 So for two-dimensional screens and pages, we tend to use drawings ("autographs") instead of photos.
 
@@ -42,9 +42,9 @@ You'll find more details in [lesson 1B](#lesson-1b). But for now, the only thing
 
 The most common types of strokes are the horizontal and vertical, and they're written with two different edges of the stylus.
 
-![Horizontal wedges (highlighted blue in the photo) are made with the long edge.](images/stylus_h.jpg)
+![Horizontal wedges ([highlighted blue in the photo](#color-figure)) are made with the long edge.](images/stylus_h.jpg)
 
-![Vertical wedges (highlighted red in the photo) are made with the short edge.](images/stylus_v.jpg)
+![Vertical wedges ([highlighted red in the photo](#color-figure)) are made with the short edge.](images/stylus_v.jpg)
 
 This means that a scribe can switch between them easily, without needing to rotate their wrist ninety degrees every time. It also means that horizontal strokes can be any length, but vertical strokes are limited by the size of the stylus. This led to cuneiform signs all having approximately the same height vertically, but varying widths horizontally, which makes them line up nicely in rows.
 
@@ -62,7 +62,7 @@ The only diagonal strokes found in Hittite are the "upward" diagonal, from botto
 
 The last type of stroke is the "Winkelhaken", German for "angular hook". (They can also be called "hook" strokes if you want to stick to English.) These look like broad, flat triangles, and are made with the corner of the stylus.
 
-![Winkelhaken (highlighted green in the photo) are made with the corner.](images/stylus_c.jpg)
+![Winkelhaken ([highlighted green in the photo](#color-figure)) are made with the corner.](images/stylus_c.jpg)
 
 In some styles of cuneiform, the diagonal strokes were dispensed with, and all signs were made up of horizontals, verticals, and hooks. But in Hittite, you have all five to deal with. If you ever see something that looks like a horizontal with the head on the right, it's actually a horizontal with a hook at its tip.
 
@@ -100,7 +100,7 @@ So we need to somehow indicate the heads, _and_ the tails. But there are several
 
 ## Styles of writing
 
-Because while cuneiform was usually written in clay, that wasn't always feasible. Sometimes an ancient king would want to inscribe their glorious deeds in stone monuments, or paint them on the walls of buildings…or a scribe's tablet dried out before he had time to sign his name.
+Because while cuneiform was usually stamped into clay, that wasn't always an option. Sometimes an ancient king would want to inscribe their glorious deeds in stone monuments, or paint them on the walls of buildings…or a scribe's tablet dried out before he had time to sign his name.
 
 ![A Hittite tablet (Bo 2400) with the scribe's name etched into it. Some sources say it was written in ink with a reed pen, but it looks to me like it was engraved with a sharp point.](images/bo_2400_raw.jpeg)
 
@@ -142,23 +142,23 @@ Hittite cuneiform is specifically designed to write Hittite, so it can be useful
 
 ## Consonants
 
-Hittite cuneiform represents fifteen different consonants: _p b t d k g m n l r c z h y w_^[It also very marginally represents a _q_ consonant, but this wasn't distinguished in any way from _k_ and _g_.]. However, not all of these were actually distinguished in pronunciation! The signs _ta_ and _da_, for example, are used pretty much interchangeably; choosing one over the other doesn't seem to indicate any difference in pronunciation. Even when writing in Akkadian, a language that _did_ distinguish _t_ from _d_, the Hittite scribes mix them up constantly, suggesting they couldn't hear a difference between them. The same goes for _p_ and _b_, and _k_ and _g_. (In other words, the Hittite language had no voicing distinction.)
+Hittite cuneiform represents sixteen different consonants: _p b t d k g q m n l r c z h y w_. However, not all of these were actually distinguished in pronunciation! The signs _ta_ and _da_, for example, are used pretty much interchangeably; choosing one over the other doesn't seem to indicate any difference in pronunciation. Even when writing in Akkadian, a language that _did_ distinguish _t_ from _d_, the Hittite scribes mix them up constantly, suggesting they couldn't hear a difference between them. The same goes for _p_ and _b_, and _k_ and _g_. (In other words, the Hittite language had no voicing distinction.)
 
 Instead, they distinguish _single_ from _double_ consonants: while there's no distinction between _t_ and _d_, there **is** a distinction between _t_ and _tt_. This holds true for almost all of the consonants^[It seems that _z_ was always "double" and _y_ and _w_ always "single". The rest could be either.]: _apa-_ "that" is a different word from _appa_ "back".
 
 Scholars disagree on how this distinction was actually pronounced^[Some suggest it was a voicing or aspiration distinction, based on Proto-Indo-European etymology and Ugaritic transcriptions, but the consensus seems to be moving toward a length distinction.], but the leading theory is that the doubled consonants had a longer duration than the single ones—_pp_ and _nn_ were pronounced for twice as long as _p_ and _n_, like in "lamp post" versus "compost", or "unnamed" versus "unaimed".
 
-Since there was no distinction between the pairs _t/d_, _p/b_, and _k/g_, dictionaries alphabetize them under _t_, _p_, and _k_, respectively. Similarly, _y_ and _w_ are alphabetized as if they were _i_ and _u_, since it's not entirely clear if there was a distinction there.
+Since there was no distinction between the pairs _t/d_, _p/b_, and _k/g/q_, dictionaries alphabetize them under _t_, _p_, and _k_, respectively. Really, the only reason why _d_, _b_, _g_, and _q_ are used at all is to make transcriptions more legible: _ba_ is just easier to read and write than _pa~2~_. Similarly, _y_ and _w_ are alphabetized as if they were _i_ and _u_, since it's not entirely clear if there was a distinction there, or if _i u_ just become _y w_ before vowels.
 
 ## C, Z, and H
 
-Most of the consonants are pronounced about as you'd expect^[The same as their IPA values, for the linguistically-inclined, except that _y_ is IPA /j/.]—we don't know precisely how the Hittites spoke, so an English "d", a Spanish "d", and a Mandarin "d" are equally valid ways to pronounce a Hittite _d_. But three of these consonants are less obvious.
+Most of the consonants are pronounced about as you'd expect^[The same as their IPA values, for the linguistically-inclined, except that _y_ is IPA /j/.]—we don't know precisely how the Hittites spoke, so an English "d", a Spanish "d", and a Mandarin "d" are equally valid ways to pronounce a Hittite _d_^[As are an English "t", a Spanish "t", and a Mandarin "t", for that matter—remember, there's no difference between _t_ and _d_ in Hittite.]. But three of these consonants are less obvious.
 
 The _c_ sound is written as _š_ in most books, and was probably pronounced like an English /s/, as in "**s**ip"^[In other words, some sort of sibilant fricative, and Egyptian transcriptions suggest an alveolar one.]. Some languages that used cuneiform distinguished _s_ from _c_, with one being the /s/ sound in "**s**ip" and the other the /ʃ/ sound in "**sh**ip" (see [below](#akkadian-phonetics)), but Hittite never did, so both pronunciations are valid and won't create any confusion. Hittite scribes chose to use the _c_ signs to write their sibilant, abandoning the _s_ signs completely, so we transcribe it that way for consistency.
 
-In these lessons, I've used _c_ instead of _š_ simply to make it easier to type, but _š_ is what you'll find in published dictionaries. Some books on Hittite use _s_ instead for simplicity, but that is **not** a good idea if you're doing anything with cuneiform, for reasons [that will be explained in a later lesson](#logograms). Still, Hittite dictionaries alphabetize it under _s_, and it's the best way to transcribe an /s/ sound in foreign names. Some people write it as _sh_ as a compromise, but this creates its own set of problems: how are you going to write the distinction between _c-h_ and _c-c_ (as in _echar eccai_ "she spills blood") without it becoming unreadable?
+In these lessons, I've used _c_ instead of _š_ simply to make it easier to type, but _š_ is what you'll find in published dictionaries. Some books on Hittite use _s_ instead for simplicity, but that is **not** a good idea if you're doing anything with cuneiform, for reasons [that will be explained in a later lesson](#logograms). Still, Hittite dictionaries alphabetize it under _s_, and it's the best way to transcribe an /s/ sound in foreign names. Some people write it as _sh_ as a compromise, but this creates its own set of problems: how are you going to write the distinction between _c-h_ and _c-c_ (as in _echar eccai_ "she spills blood") without it becoming unreadably messy?
 
-The _z_ sound is a /ts/^[It's not clear if it was one phoneme or a sequence of two, since those cuneiform signs are also used when _t_ and _c_ end up next to each other for any reason. But it's convenient to assume it's a single one, since it's written specially, and it can appear where other consonant sequences can't.], as in "pi**zz**a" or "Mo**z**art", or the end of "ca**ts**". Unlike in English, this sound can appear at the beginning of a word in Hittite, as in _zik_ "you". The sequence _tc_ was always written as _z_, so if you like the "ship" pronunciation of _c_, you can pronounce _z_ like the "ch" in "church" for consistency. This is also the best way to transcribe sounds like the /tʃ/ in "**ch**ur**ch**" and the /dʒ/ in "**j**ump" in foreign names.
+The _z_ sound is a /t͡s/^[Linguistically, it's not clear if it was one phoneme or a sequence of two, since those cuneiform signs are also used when _t_ and _c_ end up next to each other for any reason. But it's convenient to assume it's a single one, since it's written specially, and it can appear where other consonant sequences can't.], as in "pi**zz**a" or "Mo**z**art", or the end of "ca**ts**". Unlike in English, this sound can appear at the beginning of a word in Hittite, as in _zik_ "you". The sequence _tc_ was always written as _z_, so if you like the "ship" pronunciation of _c_, you can pronounce _z_ like the "ch" in "**ch**ur**ch**" for consistency. This is also the best way to transcribe sounds like the aforementioned /t͡ʃ/ in "**ch**ur**ch**" and the /d͡ʒ/ in "**j**ump" in foreign names.
 
 Finally, the _h_ sound^[The most interesting sound for historical linguists, since it's the reflex of Proto-Indo-European \*h~2~, and sometimes \*h~3~.] is some kind of fricative in the back of the mouth. Most scholars pronounce it like the sound in German "a**ch**" or Hebrew "**ch**et" (IPA /x~χ/), though evidence from Ugaritic suggests it might also have been pharyngeal like Arabic "**ḥ**al" (/ħ/) or voiced like Spanish "ami**g**o" (/ɣ/), depending on the environment.
 
@@ -174,7 +174,7 @@ In cuneiform, _k^w^_ is written as either _ku_ or _uk_, whichever the scribe pre
 
 ## Vowels
 
-Hittite had five vowels, _a_, _e_, _i_, _o_, and _u_. Some scholars don't believe there was a distinction between _o_ and _u_, and as a result, _o_ is alphabetized as _u_ in dictionaries^[And often written that way, too! Most dictionaries will list _ōp-_ "to rise" as _ūp-_.]. The pronunciation was along the lines of the _a_ in "father", the _e_ in "forte", the _i_ in "machine", the _o_ in "code", and the _u_ in "tuba"—that is, the vowels are spoken the way they're pronounced in most other languages (or in the International Phonetic Alphabet), not the way they're generally pronounced in English^[When we can't even reach a consensus on whether _o_ and _u_ were separate sounds, it's hard to say anything more precise about the pronunciation. Some people prefer to transcribe as /ɛ ɔ/ instead of /e o/, for example, but in my opinion there really isn't enough data to make judgements like that, so I'm defaulting to the symbols that are easier to type.].
+Hittite had five vowels, _a_, _e_, _i_, _o_, and _u_. Some scholars don't believe there was a distinction between _o_ and _u_, and as a result, _o_ is always alphabetized as _u_ in dictionaries^[And often written that way, too! Most dictionaries will list _ōp-_ "to rise" as _ūp-_.], but in my opinion the evidence is overwhelmingly in favor of them being distinct. The pronunciation was along the lines of the _a_ in "father", the _e_ in "forte", the _i_ in "machine", the _o_ in "code", and the _u_ in "tuba"—that is, the vowels are spoken the way they're pronounced in most other languages (or in the International Phonetic Alphabet), not the way they're generally pronounced in English^[When we can't even reach a consensus on whether _o_ and _u_ were separate sounds, it's hard to say anything more precise about the pronunciation. Some people prefer to transcribe as /ɛ ɔ/ instead of /e o/, for example, but in my opinion there really isn't enough data to make judgements like that, so I'm defaulting to the symbols that are easier to type.].
 
 These vowels are sometimes written double in cuneiform, _aa_, _ee_, _ii_, _oo_, _uu_. Unlike with the consonants, it's not clear if this actually indicated a difference in pronunciation. It might indicate a longer vowel or some kind of stress, but it could also just help make the writing system less ambiguous. In a few cases it distinguishes one word from another, like _maan_ "if" and _man_ "maybe", but this is rare. Kloekhorst proposes that it indicated a glottal stop, but this isn't widely accepted.
 
@@ -209,13 +209,13 @@ Instead, it's standard to give a _transliteration_: writing out the pronunciatio
 
 Each "reading" corresponds to one and only one sign, and sign dictionaries list all the applicable readings, so that everyone can be sure that _i_ specifically means [i]{.signs}. In these lessons, you can also see the appropriate reading for any sign when you hover over it. But there are three difficulties that can trip you up.
 
-First, each reading corresponds to one sign, but one sign can have multiple readings! The sign [bu]{.signs}, for example, can represent either _bu_ or _pu_. The scholar making the transliteration needs to pick and choose the appropriate readings to make sense of the text. This becomes an especially difficult task when [logograms](#logograms) get involved.
+First, each reading corresponds to one sign, but one sign can have multiple readings! The sign [bu]{.signs}, for example, can represent either _bu_ or _pu_. The scholar making the transliteration needs to pick and choose the appropriate readings to make sense of the text. This becomes an especially difficult task when [logograms](#lesson-8-logograms) get involved.
 
-Second, multiple signs can be pronounced the same way. In Akkadian, for example, the signs [u]{.signs} and [u₂]{.signs} are both pronounced _u_. It's important to represent this difference in the transliteration, so that readers know which signs are being talked about—otherwise they'd have to go back to the original tablet to check, which defeats the whole purpose of using a transliteration! So numbers are added to the readings to distinguish them: [u]{.signs} is transcribed as _u_, [u₂]{.signs} as _u~2~_, [u₃]{.signs} as _u~3~_, [u₄]{.signs} as _u~4~_, and so on.
+Second, sometimes multiple signs can be pronounced the same way. In Akkadian, for example, the signs [u]{.signs} and [u₂]{.signs} are both pronounced _u_. It's important to represent this difference in the transliteration, so that readers know which signs are being talked about—otherwise they'd have to go back to the original tablet to check, which defeats the whole purpose of using a transliteration! So numbers are added to the readings to distinguish them: [u]{.signs} is transcribed as _u_, [u₂]{.signs} as _u~2~_, [u₃]{.signs} as _u~3~_, [u₄]{.signs} as _u~4~_, and so on.
 
 This can sometimes lead to a lot of numbers in a text, so there's a shorthand: an acute accent on a vowel stands for the number 2, and a grave accent stands for the number 3. Since every cuneiform sign used in Hittite has a vowel in it somewhere, this works out nicely. But for numbers higher than 3, there's no choice but to resort to the numbers. In other words, the signs [u ú ù u₄]{.signs} are usually transliterated as _u ú ù u~4~_. 
 
-In Hittite, there's usually only one sign for each pronunciation. But, these readings have to be unambiguous across _all_ languages that use cuneiform—if there's a passage in Akkadian right in the middle of a Hittite text, for example, it would be confusing to change transliteration systems halfway through! The sign [o]{.signs} is pronounced as _o_ in Hittite, which works out fine; no other sign has taken the reading _o_, so we can assign it to [o]{.signs}. The sign [ú]{.signs} is the standard way for a Hittite scribe to write the sound _u_…but the reading _u_ is already taken by [u]{.signs}, thanks to Akkadian usage! So even though [u]{.signs} is never pronounced as _u_ in Hittite, we still need to transcribe [ú]{.signs} as _ú_ for consistency.
+In Hittite, with only a couple exceptions^[In particular, _ur_ and _úr_, and _cu_ and _cú_, are used interchangeably depending on the scribe's whims.], there's only one sign for each pronunciation. But, these readings have to be unambiguous across _all_ languages that use cuneiform—if there's a passage in Akkadian right in the middle of a Hittite text, for example, it would be confusing to change transliteration systems halfway through! Across different eras and dialects of Akkadian, for example, two different signs were used for the _pi_ sound; Hittite only uses one for that purpose, but through random historical accident, it's the one that was assigned the reading _pí_. As a result, the reading _pi_ never appears in Hittite, only ever _pí_.
 
 ## Bound transcription
 
@@ -237,9 +237,9 @@ Note again that the _u_ sound is always written with the sign _ú_! The sign tha
 
 The reason for this confusing state of affairs goes back to the origins of cuneiform. Originally, cuneiform signs were used for entire words: [a]{.signs} meant "water", which was pronounced as _a_ in Sumerian; [u]{.signs} meant "ten" and [ú]{.signs} meant "crops", both of which were pronounced as _u_^[Long ago, "ten" may have actually been _yu_, but by the Akkadian period they were well and truly identical.].
 
-Eventually, these signs were repurposed for their pronunciations instead of their meaning, like how English-speakers sometimes write the word "too" with the symbol for the number "2". And as a result, when the Akkadians adapted the writing system from the Sumerians, they ended up with two separate signs for the _u_ sound (transliterated _u_ and _u~2~_).
+Eventually, these signs were repurposed for their pronunciations instead of their meaning, like how English-speakers sometimes write the word "too" with the symbol for the number "2". And as a result, when the Akkadians adapted the writing system from the Sumerians, they ended up with two separate signs for the _u_ sound, and used them more-or-less interchangeably.
 
-When the Hittites adapted the writing system from the Akkadians, this worked out great for them—because Hittite, unlike Akkadian, had an _o_ sound separate from _u_! So they used one of the signs for the _o_ sound, and the other for the _u_ sound. But since the sign readings have to be consistent across Hittite, Akkadian, _and_ Sumerian (among others!), we have to transliterate them as _o_ and _ú_, for consistency.
+When the Hittites adapted the writing system from the Akkadians, this worked out great for them—because Hittite, unlike Akkadian, had an _o_ sound separate from _u_! So they used [u]{.signs} for the _o_ sound, and [ú]{.signs} for the _u_ sound. But since the sign readings have to be consistent across Hittite, Akkadian, _and_ Sumerian (among others!), we have to transliterate them as _o_ and _ú_, for consistency. Even if [o]{.signs} is never used for the _u_ sound in Hittite, the name _u_ is still assigned to it from Akkadian, and isn't available for [ú]{.signs}.
 
 The five vowel signs are some of the most common in all of Hittite. They're used whenever a vowel makes its own syllable with no consonants around it, like in the word _au_ "look!": [a-ú]{.signs}. But they can also be used in "plene" spellings, which you'll discover [in a later lesson](#cv-signs-part-2). Make sure you learn them well!
 
@@ -291,15 +291,15 @@ With these syllables under our belt, we can start spelling some more Hittite wor
 
 Unlike many other cuneiform-users, the Hittite scribes were generally very precise in laying out their tablets—to the point that the Hittite style of writing is sometimes known as "typewriter cuneiform". Words are never broken across lines, sections are marked out with "rulings" across the full length or width of the tablet, and a bit of space is left between words. This might not sound revolutionary by modern standards, but none of these were standard features of ancient writing systems!
 
-The Hittites even invented what might be history's first punctuation mark, the "Glossenkeil" ("gloss wedge"), [:]{.signs}. Since the Hittites [recorded foreign words in their tablets](#f-and-v) much more often than other cuneiform-users, they invented this sign to mark them, sort of like modern italics.
+The Hittites even invented what might be history's first punctuation mark, the "Glossenkeil" ("gloss wedge"), [:]{.signs}. Since the Hittites [recorded foreign words in their tablets](#tangent-f-and-v) much more often than other cuneiform-users, they invented this sign to mark them, sort of like modern italics.
 
 Apart from the Glossenkeil, cuneiform was unpunctuated. But since practically every Hittite sentence ended with a verb, separating sentences wasn't much of an issue.
 
-## Hurrian vowels
+## Tangent: Hurrian vowels
 
-_This part doesn't matter for Hittite cuneiform, so feel free to [skip ahead](#cv-exercises-part-1)._
+_**Note:** This section is about languages other than Hittite, so if you're only interested in Hittite, feel free to [skip ahead](#exercise-3)._
 
-For the Hurrian language, scribes went a step further in simplifying the system. Like Hittite, the Hurrian language didn't have any distinction between _b/p_, _d/t_, and _g/k_—so they repurposed these signs to make the vowels less ambiguous instead! In Hurrian, [ge]{.signs} is used for _ge/ke_, [ki]{.signs} is used for _gi/ki_, [ku]{.signs} is used for _go/ko_, and [gu]{.signs} is used for _gu/ku_. They dispensed with the signs [ba]{.signs}, [da]{.signs}, [ga]{.signs}, [di]{.signs}, and [tu]{.signs} entirely, but brought back [be]{.signs} for _be/pe_, which wasn't used like this in Hittite.
+For the Hurrian language, scribes went a step further in simplifying the system. Like Hittite, the Hurrian language didn't have any distinction between _b/p_, _d/t_, and _g/k_—so they repurposed these signs to make the vowels less ambiguous instead! In Hurrian, [ge]{.signs} is used for _ge/ke_, [ki]{.signs} is used for _gi/ki_, [ku]{.signs} is used for _go/ko_, and [gu]{.signs} is used for _gu/ku_^[We could write these simply as _ke_, _ki_, _ko_, and _ku_, since there was no separate _g_ in Hurrian, but the convention in Hurrian studies is to write double consonants as voiceless and single consonants as voiced (_ikki_, _igi_). So we need to list both.]. They dispensed with the signs [ba]{.signs}, [da]{.signs}, [ga]{.signs}, [di]{.signs}, and [tu]{.signs} entirely, but brought back [be]{.signs} for _be/pe_, which wasn't used like this in Hittite.
 
 So for the Hurrian language, we end up with this table instead:
 
@@ -313,7 +313,7 @@ So for the Hurrian language, we end up with this table instead:
 | G/K | [ka]{.signs} | [ge]{.signs} | [ki]{.signs} | [ku]{.signs} | [gu]{.signs} |
 +-----+--------------+--------------+--------------+--------------+--------------+
 
-This fits the sounds of Hurrian (and Hittite!) significantly better, but tradition is a powerful force. So this simplified inventory was never consistently adopted for Hittite.
+This fits the sounds of Hurrian (and Hittite!) significantly better, but tradition is a powerful force, so this simplified inventory was never consistently adopted for Hittite. And since Hurrian is a lot less studied than Hittite, Hurrian scholars just use the Hittite readings for the signs instead of assigning their own.
 
 ## Exercise 3
 
@@ -353,7 +353,7 @@ The signs _cu_ and _cú_ are used more or less interchangeably. (If you're wonde
 
 _Ri_ and _li_ also have readings _re_ and _le_.
 
-_Ze_ and _he_, without the accents, are alternate readings for _zi_ and _hi_. _Zé_ and _hé_, **with** the accents, are distinct signs (shown in the table).
+_Ze_ and _he_, without the accents, are alternate readings for _zi_ and _hi_. _Zé_ and _hé_, **with** the accents, are distinct signs (shown in the table). I recommend using the accented ones; they're less ambiguous.
 
 _Mi_ and _ni_ have the less-common alternate readings _mé_ and _né_.
 
@@ -409,7 +409,7 @@ But Hittite, like English, has a lot of _closed syllables_, which end with conso
 | H   | [ah]{.signs}                                                             |
 +-----+--------------------------------------------------------------------------+
 
-The VC signs distinguish fewer consonants than the CV signs: _b/p_, _d/t_, and _g/k_ have to share their signs. This doesn't cause a problem in Hittite, though it is quite annoying in Akkadian, where this difference is important^[In Akkadian it's even worse, since the emphatic stops also aren't distinguished at the end of a syllable: _ak_ is also _aq_, _it_ is also _iṭ_, and so on.]! All of those signs have alternate readings—_ap_ is also known as _ab_, _uk_ is also known as _ug_, and so on—so that we can write transliterations like _at-ta_ and _ad-da_, which just look better than _at-da_. But no matter how we transliterate them, **no** sign in cuneiform ever distinguishes _b/p_, _d/t_, or _g/k_ at the end of a syllable. This is a universal rule.
+The VC signs distinguish fewer consonants than the CV signs: _b/p_, _d/t_, and _g/k_ have to share their signs. This doesn't cause a problem in Hittite, though it is quite annoying in Akkadian, where this difference is important!^[In Akkadian it's even worse, since the "emphatic" consonants also aren't distinguished at the end of a syllable: _ak_ is also _ag_ and _aq_, _it_ is also _id_ and _iṭ_, _is_ is also _iz_ and _iṣ_, and so on. As far as I know, nobody in the Akkadian world ever found a solution for this.] Every single one of those signs has alternate readings—_ap_ is also known as _ab_, _uk_ is also known as _ug_, and so on—so that we can write transliterations like _at-ta_ and _ad-da_, which just look better than _at-da_. But no matter how we transliterate them, **no** sign in cuneiform ever distinguishes _b/p_, _d/t_, or _g/k_ at the end of a syllable. This is a universal rule.
 
 The signs _ip_, _it_, _ik_, _im_, _ir_, and _iz_ also have readings _ep_, _et_, _ek_, _em_, _er_, and _ez_.
 
@@ -461,7 +461,7 @@ This set of signs is _almost_ sufficient to represent every syllable in Hittite.
 
 ## Y
 
-For _y_, there's a special sign _ya_, which is just _i_ and _a_ smashed together: [ya]{.signs}. There are no signs for _y_ in any other combination—that is, no signs for _ye_, _yu_, _ay_, and so on. _Yi_ and _iy_ probably weren't possible at all.
+For _y_, there's a special sign _ya_, which is just _i_ and _a_ smashed together: [ya]{.signs}. There are no signs for _y_ in any other combination—that is, no signs for _ye_, _yu_, _ay_, and so on. _Yi_ probably wasn't possible at all.
 
 This is partially because these combinations were much rarer than _ya_. But when they did have to write a word like _yugan_ "yoke", they would use the _i_ sign: [i-ú-ga-an]{.signs}. Even in the case of _ya_, it was occasionally written with an extra _i_ for good measure: the serpent Illuyanka, who you've seen in some of the examples, is alternately called [il-lu-ya-an-ka]{.signs} and [il-lu-i-ya-an-ka]{.signs}. As a result, some scholars question whether there was a difference between _y_ and _iy_ at all.
 
@@ -503,11 +503,11 @@ Using these signs, we can write even more Hittite and non-Hittite names. For exa
 
 It's hard to be sure from the very fragmentary documents we have, but it's possible that we're seeing here a contemporary account of the Trojan War! Wiluca could be Wilion (another Greek name for Troy, hence the "**Ili**ad"), Āhhiyawa could have been the Achaeans (that is, the Mycenaean Greeks), Alakcandu could have been Alexander of Troy (better known as Paris), and Āppaliona could have been Apollo, the divine defender of the Trojans.
 
-If you look for these names online, you'll more often see them transcribed as Wilusa, Alaksandu, Mursili, Appaliuna, and Ahhiyawa. In other words, _c_ is usually transcribed as _s_. This conveys the pronunciation better when talking about the Hittite language, but it's very important to write _c_ (or the fancier _š_) instead of _s_ when you're talking about cuneiform, [for reasons you'll see in a later lesson](#logograms). Just remember to change it to an _s_ when you're searching.
+If you look for these names online, you'll more often see them transcribed as Wilusa, Alaksandu, Mursili, Appaliuna, and Ahhiyawa. In other words, _c_ is usually transcribed as _s_. This conveys the pronunciation better when talking about the Hittite language, but it's very important to write _c_ (or the fancier _š_) instead of _s_ when you're talking about cuneiform, [for reasons you'll see in a later lesson](#lesson-8-logograms). Just remember to change it to an _s_ when you're searching.
 
-## F and V
+## Tangent: F and V
 
-_**Note:** This section is not important for writing Hittite. If you're only interested in Hittite, feel free to skip down to [the next one](#cvc-signs)._
+_**Note:** This section is not important for writing Hittite. If you're only interested in Hittite, feel free to skip down to [the next one](#exercise-6)._
 
 And that's all the sounds of Hittite! But unlike Sumerian and Akkadian scribes, Hittite scribes also cared a lot about representing the sounds of other languages as accurately as they could. The Hittites called themselves "The People of a Thousand Gods", and they tried to adopt the deities of conquered peoples into their pantheon whenever possible. And with those adopted gods came adopted prayers and rituals—if you want a Hurrian god to respond, obviously (at least to a Hittite priest), you need to pray in Hurrian.
 
@@ -700,7 +700,7 @@ While the Hittites definitely had words for the numbers, these logograms were so
 
 ## Tangent: Larger numbers
 
-_This section is entirely optional. Feel free to [skip ahead](#exercise-8) if you're not interested in mathematics. It's mostly adapted from Hoffner's classic article "On higher numbers in Hittite"._
+_**Note:** Like the other tangents, this section is entirely optional. Feel free to [skip ahead](#exercise-8) if you're not interested in mathematics. It's mostly adapted from Hoffner's classic article "On higher numbers in Hittite"._
 
 In Babylonian cuneiform, you could use the place value system for numbers as large or as small as you want—the "1" sign could also mean 1/60 or 1/3600, extending the place value system to the right just like we do with our modern decimal point. But the Hittite scribes had no need for this kind of fancy mathematics, and their own number words were based on tens, not sixties. So they adopted separate logograms for "hundred", "thousand", "ten thousand", and "hundred thousand"^[I'm simplifying somewhat here: we don't actually see the single sign _LIM_ used for "thousand" on any Hittite tablet. Instead, they spelled out the [Akkadogram](#akkadograms) _LI-IM_. But the progression is clear enough, we have very few attestations of numbers this large, and the _LIM_ sign is frequently used for that pronunciation in other Akkadograms, so I don't think this it's unreasonable to extrapolate that _LIM_ on its own could also be used this way. Similarly, the GACAN+TI sign for "hundred thousand" is reconstructed only, but we can reasonably speculate that it was originally a single sign for the reasons given below.].
 
@@ -933,7 +933,7 @@ The letter is in Akkadian, not Hittite, but it doesn't use any signs that haven'
 
 _a-na É.A-na-ṣi-ir_  
 To Ea-Nāṣir  
-_Why É instead of e? Akkadian names tend to be full sentences, usually including the name of a god; in this case, Ea-Nāṣir means "may Ea (god of magic) protect him"._^[Should we read this as a logogram É.A or a phonetic spelling é-a? It's not clear. As a logogram, it would mean "house/temple of water", which makes sense—his domain was the pure water under the earth, known as the abzu or apsû. But we know "Ea" was the Akkadian pronunciation; the Sumerians called him Enki (EN.KI), "lord of earth". So you'll find it transcribed both ways; the cuneiform looks the same, either way.]
+_Why É instead of e? Akkadian names tend to be full sentences, usually including the name of a god; in this case, Ea-Nāṣir means "may Ea (god of magic) protect him"._^[Should we read this as a logogram É.A or a phonetic spelling _é-a_? It's not clear. As a logogram, it would mean "house/temple of water", which makes sense—Ea's domain was the pure water under the earth, known as the abzu/apsû. But we know "Ea" was the Akkadian pronunciation; the Sumerians called him Enki (EN.KI), "lord of earth". So you'll find it transcribed both ways; the cuneiform looks the same, either way.]
 
 _qí-bí=ma_  
 say:  
