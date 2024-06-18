@@ -4,6 +4,7 @@ html {
 
 .title {
 	font-size: 2.4em;
+	line-height: 1.2;
 }
 
 .scrollwork {
@@ -43,16 +44,12 @@ body {
 		padding: 1em;
 		color: black;
 	}
-	.layout-default body {
+	body.layout-default {
 		margin-left: 22em;
 	}
 	.layout-default #settings {
-		position: fixed;
+		position: sticky;
 		width: 100%;
-		left: 22em;
-		max-width: 46em;
-		border-left: 1px solid black;
-		border-right: 1px solid black;
 		top: 0;
 		z-index: 10;
 		background-color: #ffeeaa;
@@ -72,16 +69,12 @@ body {
 		padding: 1em;
 		color: black;
 	}
-	.layout-wide body {
+	body.layout-wide {
 		margin-left: 22em;
 	}
 	.layout-wide #settings {
-		position: fixed;
+		position: sticky;
 		width: 100%;
-		left: 22em;
-		max-width: 46em;
-		border-left: 1px solid black;
-		border-right: 1px solid black;
 		top: 0;
 		z-index: 10;
 		background-color: #ffeeaa;
