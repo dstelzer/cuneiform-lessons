@@ -1,6 +1,6 @@
 % An Introduction to Cuneiform
 % Daniel M. Stelzer
-% Version 1.0, 17 June 2024
+% Version 1.0.1, 17 June 2024
 
 <style>
 #modesel { display: none; } /* We don't want a mode selector on this page */
@@ -1033,15 +1033,14 @@ _cum-ma la te-le-qé-a at-la-ka_
 if you won't take them, go away!"
 
 _ya-ti a-na ki-ma ma-an-ni-im_  
-Me, like what person,  
-_The line break in the Akkadian ends up in a really awkward place in the English. This line and the next, together, mean "what kind of a man do you take me for, that...?"_
+Me, like what kind of person  
 
-_tu-ci-im-ma x-x-x-x-x-x_  
-you see, that  
-_The right half of this line is badly damaged; from what survives, it looks like there should be another verb there. A lowercase "x" is used to mean "approximately one sign's worth of damage", to help estimate what might have fit in that space._
+_tu-ci-im-ma=ni-i=ma_  
+do you take me as, that  
+_The right half of this line is damaged, and the -i- sign obliterated, but we can make a good guess as to what it was._^[Shoutout to [mostlydeadlanguages](https://mostlydeadlanguages.tumblr.com) on Tumblr for helping me with this one!]
 
 _ki-a-am te-me-ca-an-ni_  
-you treat me with contempt like this?
+you treat me with such contempt?
 
 This is the first third or so of the text; after this, it continues on to list out the past grievances between Ea-Nāṣir and Nanni (in both directions!), and Nanni's new demands. From now on he wants to inspect all the copper in person, in his own home, before paying for it, and he wants right of refusal if anything doesn't meet his standards.
 
@@ -1411,7 +1410,7 @@ These are usually translated as "a _kappi_-vessel", "the _lakkarwan_-plant", and
 - _apāc=a_ ^ŊIC^_luttan arha cuwaīt_
 - [nu DAM=*CU* DUMU.MEC=*CU* a-us-ta]{.signs}
 
-You can also use _SU_ instead of _CU_ for the possessive^[Strictly speaking this one should be _SU_, since the Akkadian word for "wife" is _accat_, which ends with _t_. But there's no way to know this without knowing Akkadian, so using _CU_ instead is far from unrealistic for a Hittite scribe! (Or, even more likely, [SÚ]{.signs}—that is, the _zu_ sign.)], or add an _Ù_ in between, if you like. If you look at [the actual text of this section](#hopaciyas-fate), you'll find the scribe actually messed this up, writing DAM=*KA* "your wife" instead of DAM=*SU* "his wife"!
+You can also use _SU_ instead of _CU_ for the possessive^[Strictly speaking this one should be _SU_, since the Akkadian word for "wife" is _accat_, which ends with _t_. But there's no way to know this without knowing Akkadian, so using _CU_ instead is far from unrealistic for a Hittite scribe!], or add an _Ù_ in between, if you like. If you look at [the actual text of this section](#hopaciyas-fate), you'll find the scribe actually messed this up, writing DAM=*KA* "your wife" instead of DAM=*SU* "his wife"!
 
 ## Answers: Bonus
 
@@ -1432,7 +1431,7 @@ ta-ac-ku-un=ma um-ma at-ta-ma
 cum-ma te-le-qé-a le-qé-a  
 cum-ma la te-le-qé-a at-la-ka  
 ya-ti a-na ki-ma ma-an-ni-im  
-tu-ci-im-ma – – – – – –  
+tu-ci-im-ma=ni-i=ma  
 ki-a-am te-me-ca-an-ni  
 :::
 
