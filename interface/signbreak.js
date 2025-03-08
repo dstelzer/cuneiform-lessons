@@ -15,20 +15,31 @@ const LONG2SHORT = {
 
 const REPLACE = { // Sometimes the sign used in Hittite isn't the one with the most obvious name; for example, PI isn't used in Hittite (it's Hittite /wa/) and PÍ is used instead
 	'pi' : 'pí',
-	'bi' : 'bí',
 	'pe' : 'pé',
 	'be' : 'bé',
 	'wi' : 'wi₅',
 	'ḫe' : 'ḫé', // These two have both he/ze and hé/zé used in Hittite, but
 	'ze' : 'zé', // the second ones are distinct from hi/zi and thus better
+	'gu' : 'ku', // Kloekhorst says GU is basically never used phonetically
+				 // Similarly BA is rarely used except in names but since it does appear in names I'm leaving it intact here
 }
+
+const DOUBLE_REPLACE = [ // In this particular case, Hittite invariably uses a sign that's not V, CV, or VC, so we have to handle it specially
+	{'first':'ay', 'second':'ya', 'replace':'ayya'},
+]
+
+const PRE_REPLACE = [ // Words always written with particular signs, which we should extract before doing anything else
+	[/=k[aá]n$/gu, '-kán'], // enclitic kan
+	[/=p[aá]t$/gu, '-pát'], // enclitic pat
+	[/`/gu, '-:-'], // glossenkeil before word
+]
 
 const SEP = /[\.\-=\^]/u; // . - = ^ are things that can separate signs within a word
 const V = "[aeiouāēīōūâêîôû]";
 const C = "[bcdfghjklmnpqrstvwxyzšḫṣṭḳśŋĝř]";
 const ONLYSEPS = /^[\.\-=\^]*$/u; // Only separators, nothing else
 
-const FIXED = new Set(["pát", "kán", ":"]); // Hittite words written phonetically but with specific signs (and the Glossenkeil which has no Cs or Vs in it)
+//const FIXED = new Set(["pát", "kán", ":"]); // Hittite words written phonetically but with specific signs (and the Glossenkeil which has no Cs or Vs in it)
 
 function syllabify(s){
 	// First, we draw the syllable boundaries
@@ -49,6 +60,11 @@ function syllabify(s){
 function word_to_signs(s){
 	if(ONLYSEPS.test(s)) return []; // If we get a word that's only separators, or is empty, don't try to parse it any further
 	
+	// Do a bit of cleanup on the word before anything else, since there are a few clitics in Hittite that are treated specially
+	for(let before of PRE_REPLACE){
+		s = s.replace(before[0], before[1]);
+	}
+	
 	// If there are sign boundaries inside it, respect them
 	let parts = s.split(SEP) // Break it at explicit sign boundaries
 	if(parts.length > 1){
@@ -59,12 +75,12 @@ function word_to_signs(s){
 		return out;
 	}
 	
-	// If it's entirely in capitals, it's a sumerogram, don't try to divide it
+	// If it's entirely in capitals (or has no letters at all, i.e. it's a number or punctuation mark), it's a sumerogram, don't try to divide it
 	if(s == s.toUpperCase()) return [s];
 	else s = s.toLowerCase(); // In case someone capitalizes the first letter of a name or whatever
 	
 	// If it's a "fixed word", that's always written the same way in Hittite, respect that too
-	if(FIXED.has(s)) return [s];
+//	if(FIXED.has(s)) return [s];
 	
 	// Otherwise, we've got one or more syllables on our hand! Let's try to break them down!
 	let sylls = syllabify(s);
@@ -75,10 +91,24 @@ function word_to_signs(s){
 		out.push(...syllable_to_signs(sylls[i]));
 	}
 	
-	// And run the replacements just to be safe
+	// And run the replacements just to be safe - these ones replace one sign name with another, for instances where e.g. Hittite uses WI5 rather than WI, or PÍ rather than PI
+	// (amusingly WI and PI are the same sign)
 	for(let i=0; i<out.length; i++){
 		if(out[i] in REPLACE){
 			out[i] = REPLACE[out[i]];
+		}
+	}
+	
+	// And double replacements - when we look for two adjacent signs and replace them with a single one if the sequence is found
+	for(let i=0; i<out.length-1; i++){
+		let first = out[i];
+		let second = out[i+1];
+		for(let repl of DOUBLE_REPLACE){
+			if(first == repl.first && second == repl.second){
+				out[i] = repl.replace; // Change first entry to the new sign
+				out.splice(i+1, i+1); // Delete second entry
+				break;
+			}
 		}
 	}
 	
@@ -115,7 +145,7 @@ function syllable_to_signs(s){
 		// A couple defects in the Hittite spelling system require us to be circumspect here
 		// Transcriptions generally shouldn't include spellings like "we" but sometimes they do and we should be prepared
 		if(onset == "w" && nucleus != "a" && nucleus != "i"){
-			out.push("ú");
+			out.push("ú"); // Hittite varies between ú and u depending on context for this but ú is more common
 			plene = true;
 		}else if(onset == "y" && nucleus != "a"){
 			out.push("i");

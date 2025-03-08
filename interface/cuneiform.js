@@ -117,7 +117,7 @@ function shatter_text(text, bound){
 
 // Take an element and make two versions of it, "bound" and "translit"
 function process_element(element, include_bound=true){
-	// First, see if it already has a child of class "bound"
+	// First, see if it already has a child of class "translit"
 	let child = element.querySelector(".translit");
 	if(child) return; // Already done, nothing to do here
 	
@@ -127,7 +127,7 @@ function process_element(element, include_bound=true){
 	while(element.childNodes.length > 0) translit.appendChild(element.childNodes[0]);
 	
 	if(include_bound){
-		// Then copy it to make "translit"
+		// Then copy it to make "bound"
 		let bound = translit.cloneNode(true); // Deep copy
 		bound.setAttribute("class", "bound");
 		element.appendChild(bound); // Put this first

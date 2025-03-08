@@ -20,6 +20,7 @@ def get_unicode(path):
 			
 			if not hzl: continue # Some signs in unicode.csv aren't actually in the HZL; we ignore them
 			if not unicode: continue # And same if it has no codepoints
+			if hzl.startswith('('): continue # And if it's a provisional assignment
 			
 			codepoints = []
 			for c in unicode.split():
