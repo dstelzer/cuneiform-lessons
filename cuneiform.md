@@ -1,6 +1,6 @@
 % An Introduction to Cuneiform
 % Daniel M. Stelzer
-% Version 1.1.2, 8 March 2025
+% Version 1.1.3, 13 April 2025
 
 <style>
 #modesel { display: none; } /* We don't want a mode selector on this page */
@@ -40,7 +40,7 @@ You'll find more details in [lesson 1B](#lesson-1b-strokes-on-paper). But for no
 
 ## Horizontal and vertical
 
-The most common types of strokes are the horizontal and vertical, and they're written with two different edges of the stylus.
+The most common types of strokes are the horizontal and vertical, and they're written with two different edges of the stylus^[Though there's some scholarly disagreement on this point. Some researchers argue that all strokes were made with the same edge of the stylus, holding the hand with the palm facing upward to make it easier to rotate.].
 
 ![Horizontal wedges ([highlighted blue in the photo](#color-figure)) are made with the long edge.](images/stylus_h.jpg)
 
