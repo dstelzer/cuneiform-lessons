@@ -1,0 +1,3 @@
+[submodule "ishamai"]
+	path = ishamai
+	url = git@github.com:dstelzer/ishamai.git
